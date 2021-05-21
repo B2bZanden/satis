@@ -1,0 +1,69 @@
+{
+  "name": "b2bzanden/satis",
+  "homepage": "https://b2bzanden.github.io/satis/",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/gls-magento2.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_AlwaysShip"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_CategoryCreator"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_CategoryDescriptionBottom"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_ChangeCategoryTitle"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_CheckoutCMSBlock"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_FastOrder"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_FixPart"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_ImportPhotos"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_Rules"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_Shipping"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_SitemapUrl"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/B2bzanden_M2_Suitablefor"
+    },
+    {
+      "packagist": false
+    },
+    {
+      "firegento": false
+    }
+  ],
+  "require-all": true
+}

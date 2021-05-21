@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "b2bzanden/suitablefor": [
+            {
+                "name": "b2bzanden/suitablefor",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Suitablefor.git",
+                    "reference": "380fc88c0efee02406273edcb8d4e1a43d71b98f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Suitablefor/zipball/380fc88c0efee02406273edcb8d4e1a43d71b98f",
+                    "reference": "380fc88c0efee02406273edcb8d4e1a43d71b98f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2021-05-21T14:02:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\SuitableFor\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for suitable for product numbers",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_SuitableFor",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            },
+            {
+                "name": "b2bzanden/suitablefor",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Suitablefor.git",
+                    "reference": "8eb4428ffb3847202e2e71e6ea91737869f1138b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Suitablefor/zipball/8eb4428ffb3847202e2e71e6ea91737869f1138b",
+                    "reference": "8eb4428ffb3847202e2e71e6ea91737869f1138b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2021-05-21T14:02:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\SuitableFor\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for suitable for product numbers",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_SuitableFor",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            }
+        ]
+    }
+}

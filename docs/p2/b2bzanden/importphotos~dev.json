@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "b2bzanden/importphotos": [
+            {
+                "name": "b2bzanden/importphotos",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ImportPhotos.git",
+                    "reference": "17f97c0192fa2bb55a254566f01fd3f12946ac5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ImportPhotos/zipball/17f97c0192fa2bb55a254566f01fd3f12946ac5c",
+                    "reference": "17f97c0192fa2bb55a254566f01fd3f12946ac5c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2021-04-07T13:06:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ImportPhotos\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for importing photos",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_ImportPhotos",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            }
+        ]
+    }
+}

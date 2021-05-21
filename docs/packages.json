@@ -1,0 +1,25 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$f6fff427a88bb0b3ca6c5f88fb8e2dc4e0d667d5.json": {
+            "sha1": "f6fff427a88bb0b3ca6c5f88fb8e2dc4e0d667d5"
+        }
+    },
+    "metadata-url": "/satis/p2/%package%.json",
+    "available-packages": [
+        "b2bzanden/alwaysship",
+        "b2bzanden/b2brules",
+        "b2bzanden/b2bshipping",
+        "b2bzanden/categorycreator",
+        "b2bzanden/categorydescriptionbottom",
+        "b2bzanden/changecategorytitle",
+        "b2bzanden/checkoutcmsblock",
+        "b2bzanden/customstockstatus",
+        "b2bzanden/fastorder",
+        "b2bzanden/fixpart",
+        "b2bzanden/importphotos",
+        "b2bzanden/sitemapurl",
+        "b2bzanden/suitablefor",
+        "b2bzanden/tig-gls-magento2"
+    ]
+}

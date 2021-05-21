@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "b2bzanden/customstockstatus": [
+            {
+                "name": "b2bzanden/customstockstatus",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_CustomStockStatus.git",
+                    "reference": "2dd032f9a2f7687232c11e6b911c4e23cc88a17e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_CustomStockStatus/zipball/2dd032f9a2f7687232c11e6b911c4e23cc88a17e",
+                    "reference": "2dd032f9a2f7687232c11e6b911c4e23cc88a17e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "time": "2021-02-03T13:48:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomStockStatus\\": ""
+                    }
+                },
+                "description": "B2bzanden Custom Stock Status",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus"
+            }
+        ]
+    }
+}

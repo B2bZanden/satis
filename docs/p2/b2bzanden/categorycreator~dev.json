@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "b2bzanden/categorycreator": [
+            {
+                "name": "b2bzanden/categorycreator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_CategoryCreator.git",
+                    "reference": "7a8820cc69b73ff7e1dc813df202e28007c7139a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_CategoryCreator/zipball/7a8820cc69b73ff7e1dc813df202e28007c7139a",
+                    "reference": "7a8820cc69b73ff7e1dc813df202e28007c7139a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "time": "2021-02-03T13:52:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CategoryCreator\\": ""
+                    }
+                },
+                "description": "B2bzanden Category Creator",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CategoryCreator"
+            }
+        ]
+    }
+}

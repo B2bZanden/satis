@@ -1,0 +1,98 @@
+{
+    "packages": {
+        "b2bzanden/changecategorytitle": [
+            {
+                "name": "b2bzanden/changecategorytitle",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "reference": "6ec9e02703fea71ba3d22430d44ff22981dbcd3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/zipball/6ec9e02703fea71ba3d22430d44ff22981dbcd3b",
+                    "reference": "6ec9e02703fea71ba3d22430d44ff22981dbcd3b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2021-02-10T10:25:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ChangeCategoryTitle\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to adjust the Catalog Category Title",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_ChangeCategoryTitle",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/tree/2.1.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/issues"
+                }
+            },
+            {
+                "name": "b2bzanden/changecategorytitle",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "reference": "81e891d36278a4b2b2e618a8fb9cd933adfee388"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/zipball/81e891d36278a4b2b2e618a8fb9cd933adfee388",
+                    "reference": "81e891d36278a4b2b2e618a8fb9cd933adfee388",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2021-02-10T10:25:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ChangeCategoryTitle\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to adjust the Catalog Category Title",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_ChangeCategoryTitle",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/tree/develop",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/issues"
+                }
+            }
+        ]
+    }
+}

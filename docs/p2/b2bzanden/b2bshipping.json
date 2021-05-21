@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "b2bzanden/b2bshipping": [
+            {
+                "name": "b2bzanden/b2bshipping",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Shipping.git",
+                    "reference": "ef22476ed7dd95bb69666e950f931b0c40aa38a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Shipping/zipball/ef22476ed7dd95bb69666e950f931b0c40aa38a8",
+                    "reference": "ef22476ed7dd95bb69666e950f931b0c40aa38a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2020-11-15T21:00:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\B2bShipping\\": ""
+                    }
+                },
+                "description": "B2bzanden B2bShipping"
+            },
+            {
+                "name": "b2bzanden/b2bshipping",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Shipping.git",
+                    "reference": "8a6a2af86f03f827957469b8e4f0baa53648aeb1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Shipping/zipball/8a6a2af86f03f827957469b8e4f0baa53648aeb1",
+                    "reference": "8a6a2af86f03f827957469b8e4f0baa53648aeb1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "time": "2021-02-03T13:44:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\B2bShipping\\": ""
+                    }
+                },
+                "description": "B2bzanden B2bShipping",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_Shipping"
+            }
+        ]
+    }
+}
