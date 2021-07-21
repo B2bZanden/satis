@@ -7,12 +7,12 @@
                 "version_normalized": "0.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ImportPhotos.git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
                     "reference": "2da3e57857632110e593f5b2dc6a3ca555d47e60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ImportPhotos/zipball/2da3e57857632110e593f5b2dc6a3ca555d47e60",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/2da3e57857632110e593f5b2dc6a3ca555d47e60",
                     "reference": "2da3e57857632110e593f5b2dc6a3ca555d47e60",
                     "shasum": ""
                 },
@@ -41,7 +41,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/0.0.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
             },
             {
                 "name": "b2bzanden/importphotos",
@@ -49,12 +53,12 @@
                 "version_normalized": "0.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ImportPhotos.git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
                     "reference": "3c7cbc15a71bdf2e30dd0fb3de743d80bfafd07a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ImportPhotos/zipball/3c7cbc15a71bdf2e30dd0fb3de743d80bfafd07a",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/3c7cbc15a71bdf2e30dd0fb3de743d80bfafd07a",
                     "reference": "3c7cbc15a71bdf2e30dd0fb3de743d80bfafd07a",
                     "shasum": ""
                 },
@@ -83,7 +87,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/0.1.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
             },
             {
                 "name": "b2bzanden/importphotos",
@@ -91,12 +99,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ImportPhotos.git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
                     "reference": "fa467828e862e378bee1207861ffe5d581255822"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ImportPhotos/zipball/fa467828e862e378bee1207861ffe5d581255822",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/fa467828e862e378bee1207861ffe5d581255822",
                     "reference": "fa467828e862e378bee1207861ffe5d581255822",
                     "shasum": ""
                 },
@@ -125,7 +133,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
             },
             {
                 "name": "b2bzanden/importphotos",
@@ -133,12 +145,12 @@
                 "version_normalized": "2.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ImportPhotos.git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
                     "reference": "9a01b1281fa57d14129f9ceb5be98a64b8c0ce76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ImportPhotos/zipball/9a01b1281fa57d14129f9ceb5be98a64b8c0ce76",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/9a01b1281fa57d14129f9ceb5be98a64b8c0ce76",
                     "reference": "9a01b1281fa57d14129f9ceb5be98a64b8c0ce76",
                     "shasum": ""
                 },
@@ -167,7 +179,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/2.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
             },
             {
                 "name": "b2bzanden/importphotos",
@@ -175,12 +191,12 @@
                 "version_normalized": "3.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ImportPhotos.git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
                     "reference": "17f97c0192fa2bb55a254566f01fd3f12946ac5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ImportPhotos/zipball/17f97c0192fa2bb55a254566f01fd3f12946ac5c",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/17f97c0192fa2bb55a254566f01fd3f12946ac5c",
                     "reference": "17f97c0192fa2bb55a254566f01fd3f12946ac5c",
                     "shasum": ""
                 },
@@ -209,7 +225,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/3.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
             }
         ]
     }

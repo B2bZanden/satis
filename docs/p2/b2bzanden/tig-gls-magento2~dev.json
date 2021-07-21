@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "2c5c8dd5b61fd7352c44c97be8b681b425c12c0e"
                 },
                 "dist": {
@@ -56,7 +56,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.1"
                 }
             }
         ]

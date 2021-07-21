@@ -7,7 +7,7 @@
                 "version_normalized": "1.1.0.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "4a8ff79e3fac609b24404f3e5ba2cd8c108a082a"
                 },
                 "dist": {
@@ -55,7 +55,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.1.0-RC1"
                 }
             },
             {
@@ -64,7 +65,7 @@
                 "version_normalized": "1.1.1.0-RC1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "7a2acb381e5b3f46af63b7ca713595c8c6e1d4fc"
                 },
                 "dist": {
@@ -112,7 +113,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.1.1-RC1"
                 }
             },
             {
@@ -121,7 +123,7 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "095f705642ddd19566a9849b55f2c65f8b9ade2d"
                 },
                 "dist": {
@@ -169,7 +171,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.2.0"
                 }
             },
             {
@@ -178,7 +181,7 @@
                 "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "f8653c951ce99b15f6f3eb6a29f1970d878422df"
                 },
                 "dist": {
@@ -226,7 +229,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.0"
                 }
             },
             {
@@ -235,7 +239,7 @@
                 "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "d473189464c6435ab11e1729a7130858582ff841"
                 },
                 "dist": {
@@ -283,7 +287,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.1"
                 }
             },
             {
@@ -292,7 +297,7 @@
                 "version_normalized": "1.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "0a7e6f2bf870dd0324ce95903a13a1fee364df21"
                 },
                 "dist": {
@@ -340,7 +345,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.2"
                 }
             },
             {
@@ -349,7 +355,7 @@
                 "version_normalized": "1.3.2.1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "ecb8ae55460524cb5325f95ae900ff9668422603"
                 },
                 "dist": {
@@ -397,7 +403,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.2.1"
                 }
             },
             {
@@ -406,7 +413,7 @@
                 "version_normalized": "1.3.2.4",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "24af93758a4f3fc16d26594b76cf03332653f232"
                 },
                 "dist": {
@@ -454,7 +461,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.2.4"
                 }
             },
             {
@@ -463,7 +471,7 @@
                 "version_normalized": "1.4.0.1",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/gls-magento2.git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
                     "reference": "2c5c8dd5b61fd7352c44c97be8b681b425c12c0e"
                 },
                 "dist": {
@@ -511,7 +519,8 @@
                 ],
                 "support": {
                     "email": "support@tig.nl",
-                    "issues": "https://portal.tig.nl/"
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.1"
                 }
             }
         ]

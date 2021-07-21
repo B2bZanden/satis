@@ -7,12 +7,12 @@
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "url": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle.git",
                     "reference": "81e891d36278a4b2b2e618a8fb9cd933adfee388"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ChangeCategoryTitle/zipball/81e891d36278a4b2b2e618a8fb9cd933adfee388",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/zipball/81e891d36278a4b2b2e618a8fb9cd933adfee388",
                     "reference": "81e891d36278a4b2b2e618a8fb9cd933adfee388",
                     "shasum": ""
                 },
@@ -41,7 +41,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/tree/develop",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/issues"
+                }
             },
             {
                 "name": "b2bzanden/changecategorytitle",
@@ -49,12 +53,12 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bzanden/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "url": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle.git",
                     "reference": "6ec9e02703fea71ba3d22430d44ff22981dbcd3b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_ChangeCategoryTitle/zipball/6ec9e02703fea71ba3d22430d44ff22981dbcd3b",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/zipball/6ec9e02703fea71ba3d22430d44ff22981dbcd3b",
                     "reference": "6ec9e02703fea71ba3d22430d44ff22981dbcd3b",
                     "shasum": ""
                 },
@@ -84,7 +88,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/tree/2.1.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ChangeCategoryTitle/issues"
+                }
             }
         ]
     }
