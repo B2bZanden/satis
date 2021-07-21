@@ -4,15 +4,15 @@
             {
                 "name": "b2bzanden/alwaysship",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/B2bZanden/B2bzanden_M2_AlwaysShip.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_AlwaysShip.git",
                     "reference": "3cd8fee8cea1e375a8389f8dab6cfba692946447"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_AlwaysShip/zipball/3cd8fee8cea1e375a8389f8dab6cfba692946447",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_AlwaysShip/zipball/3cd8fee8cea1e375a8389f8dab6cfba692946447",
                     "reference": "3cd8fee8cea1e375a8389f8dab6cfba692946447",
                     "shasum": ""
                 },
@@ -24,6 +24,7 @@
                     "phpunit/phpunit": "*"
                 },
                 "time": "2021-02-03T13:31:15+00:00",
+                "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -41,11 +42,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_AlwaysShip/tree/2.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_AlwaysShip/issues"
-                }
+                ]
             }
         ]
     }

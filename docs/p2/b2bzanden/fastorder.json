@@ -7,12 +7,12 @@
                 "version_normalized": "0.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "91725040961dabcf91305c3eb0cc2f92e43348e5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/91725040961dabcf91305c3eb0cc2f92e43348e5",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/91725040961dabcf91305c3eb0cc2f92e43348e5",
                     "reference": "91725040961dabcf91305c3eb0cc2f92e43348e5",
                     "shasum": ""
                 },
@@ -41,11 +41,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/0.0.1",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -53,12 +49,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "06efbb2c3c61991494e8f286c86ed8ccdf582919"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/06efbb2c3c61991494e8f286c86ed8ccdf582919",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/06efbb2c3c61991494e8f286c86ed8ccdf582919",
                     "reference": "06efbb2c3c61991494e8f286c86ed8ccdf582919",
                     "shasum": ""
                 },
@@ -87,11 +83,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/1.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -99,12 +91,12 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "859643f3afe03eff80adb329ba2fa38adec64c3d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/859643f3afe03eff80adb329ba2fa38adec64c3d",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/859643f3afe03eff80adb329ba2fa38adec64c3d",
                     "reference": "859643f3afe03eff80adb329ba2fa38adec64c3d",
                     "shasum": ""
                 },
@@ -133,11 +125,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/1.0.1",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -145,12 +133,12 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "6a366a482521d47d220a71d1977e597b9be7c815"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/6a366a482521d47d220a71d1977e597b9be7c815",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/6a366a482521d47d220a71d1977e597b9be7c815",
                     "reference": "6a366a482521d47d220a71d1977e597b9be7c815",
                     "shasum": ""
                 },
@@ -179,11 +167,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/1.0.2",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -191,12 +175,12 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "f7cda3cf672025120143c76520377e9fbf1187c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/f7cda3cf672025120143c76520377e9fbf1187c6",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/f7cda3cf672025120143c76520377e9fbf1187c6",
                     "reference": "f7cda3cf672025120143c76520377e9fbf1187c6",
                     "shasum": ""
                 },
@@ -225,11 +209,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/1.0.3",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -237,12 +217,12 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "610f8f12016213758a226e345e5eaf9d49e6fe0f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/610f8f12016213758a226e345e5eaf9d49e6fe0f",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/610f8f12016213758a226e345e5eaf9d49e6fe0f",
                     "reference": "610f8f12016213758a226e345e5eaf9d49e6fe0f",
                     "shasum": ""
                 },
@@ -271,11 +251,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/1.0.4",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -283,12 +259,12 @@
                 "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "7f445705c4463abb668a4c3605557c11f3efa70e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/7f445705c4463abb668a4c3605557c11f3efa70e",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/7f445705c4463abb668a4c3605557c11f3efa70e",
                     "reference": "7f445705c4463abb668a4c3605557c11f3efa70e",
                     "shasum": ""
                 },
@@ -317,11 +293,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/1.0.5",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/fastorder",
@@ -329,12 +301,12 @@
                 "version_normalized": "2.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_FastOrder.git",
                     "reference": "cd06b08465c6eaf24e86afd2134ccf340a6dab5f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/cd06b08465c6eaf24e86afd2134ccf340a6dab5f",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_FastOrder/zipball/cd06b08465c6eaf24e86afd2134ccf340a6dab5f",
                     "reference": "cd06b08465c6eaf24e86afd2134ccf340a6dab5f",
                     "shasum": ""
                 },
@@ -363,11 +335,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/2.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             }
         ]
     }

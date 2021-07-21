@@ -7,12 +7,12 @@
                 "version_normalized": "0.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Suitablefor.git",
                     "reference": "b78dee953c91ee5b0d482971028d25cfb8223ee9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/b78dee953c91ee5b0d482971028d25cfb8223ee9",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Suitablefor/zipball/b78dee953c91ee5b0d482971028d25cfb8223ee9",
                     "reference": "b78dee953c91ee5b0d482971028d25cfb8223ee9",
                     "shasum": ""
                 },
@@ -41,11 +41,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/0.0.1",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/suitablefor",
@@ -53,12 +49,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Suitablefor.git",
                     "reference": "7c3b401f0ce21fd63d1ea29dcec08d35165e4a08"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/7c3b401f0ce21fd63d1ea29dcec08d35165e4a08",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Suitablefor/zipball/7c3b401f0ce21fd63d1ea29dcec08d35165e4a08",
                     "reference": "7c3b401f0ce21fd63d1ea29dcec08d35165e4a08",
                     "shasum": ""
                 },
@@ -87,11 +83,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/1.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/suitablefor",
@@ -99,12 +91,12 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Suitablefor.git",
                     "reference": "222c607cc5d54082607a398d076517422e8fde63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/222c607cc5d54082607a398d076517422e8fde63",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Suitablefor/zipball/222c607cc5d54082607a398d076517422e8fde63",
                     "reference": "222c607cc5d54082607a398d076517422e8fde63",
                     "shasum": ""
                 },
@@ -133,11 +125,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/1.1.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
-                }
+                ]
             },
             {
                 "name": "b2bzanden/suitablefor",
@@ -145,12 +133,12 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_Suitablefor.git",
                     "reference": "380fc88c0efee02406273edcb8d4e1a43d71b98f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/380fc88c0efee02406273edcb8d4e1a43d71b98f",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_Suitablefor/zipball/380fc88c0efee02406273edcb8d4e1a43d71b98f",
                     "reference": "380fc88c0efee02406273edcb8d4e1a43d71b98f",
                     "shasum": ""
                 },
@@ -179,11 +167,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/1.1.2",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
-                }
+                ]
             }
         ]
     }

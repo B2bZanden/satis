@@ -7,12 +7,12 @@
                 "version_normalized": "0.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_CustomStockStatus.git",
                     "reference": "1d1c62c215a5447518397c638e16797cdb81e68b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/1d1c62c215a5447518397c638e16797cdb81e68b",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_CustomStockStatus/zipball/1d1c62c215a5447518397c638e16797cdb81e68b",
                     "reference": "1d1c62c215a5447518397c638e16797cdb81e68b",
                     "shasum": ""
                 },
@@ -29,11 +29,7 @@
                         "B2bzanden\\CustomStockStatus\\": ""
                     }
                 },
-                "description": "B2bzanden Custom Stock Status",
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/0.2.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
-                }
+                "description": "B2bzanden Custom Stock Status"
             },
             {
                 "name": "b2bzanden/customstockstatus",
@@ -41,12 +37,12 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git",
+                    "url": "git@github.com:B2bzanden/B2bzanden_M2_CustomStockStatus.git",
                     "reference": "2dd032f9a2f7687232c11e6b911c4e23cc88a17e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/2dd032f9a2f7687232c11e6b911c4e23cc88a17e",
+                    "url": "https://api.github.com/repos/B2bzanden/B2bzanden_M2_CustomStockStatus/zipball/2dd032f9a2f7687232c11e6b911c4e23cc88a17e",
                     "reference": "2dd032f9a2f7687232c11e6b911c4e23cc88a17e",
                     "shasum": ""
                 },
@@ -64,11 +60,7 @@
                     }
                 },
                 "description": "B2bzanden Custom Stock Status",
-                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus",
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/1.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
-                }
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus"
             }
         ]
     }
