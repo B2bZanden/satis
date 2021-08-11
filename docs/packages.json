@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d10ba2719ef8dae5ba0d10dedf14229348fa3ecb.json": {
-            "sha1": "d10ba2719ef8dae5ba0d10dedf14229348fa3ecb"
+        "include/all$b323f510986e8fd39aacedd7917d777501135058.json": {
+            "sha1": "b323f510986e8fd39aacedd7917d777501135058"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -19,6 +19,7 @@
         "b2bzanden/fixpart",
         "b2bzanden/importphotos",
         "b2bzanden/sitemapurl",
-        "b2bzanden/suitablefor"
+        "b2bzanden/suitablefor",
+        "b2bzanden/tig-gls-magento2"
     ]
 }
