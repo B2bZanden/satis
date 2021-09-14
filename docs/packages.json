@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b323f510986e8fd39aacedd7917d777501135058.json": {
-            "sha1": "b323f510986e8fd39aacedd7917d777501135058"
+        "include/all$86c4ee5f84892af278b34255c4da8d2d8a9bd600.json": {
+            "sha1": "86c4ee5f84892af278b34255c4da8d2d8a9bd600"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -20,6 +20,7 @@
         "b2bzanden/importphotos",
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
-        "b2bzanden/tig-gls-magento2"
+        "b2bzanden/tig-gls-magento2",
+        "conneqt/m2-specialprices"
     ]
 }

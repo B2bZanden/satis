@@ -59,6 +59,10 @@
       "url": "git://github.com/B2bzanden/B2bzanden_M2_Suitablefor"
     },
     {
+      "type": "vcs",
+      "url": "git://github.com/B2bZanden/conneqt-m2-specialprices"
+    },
+    {
       "packagist": false
     },
     {

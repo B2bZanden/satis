@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/gls-magento2.git",
-                    "reference": "2c5c8dd5b61fd7352c44c97be8b681b425c12c0e"
+                    "reference": "b289a1b7d4ccece7f55e0f360ced41aa7cc6f803"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/2c5c8dd5b61fd7352c44c97be8b681b425c12c0e",
-                    "reference": "2c5c8dd5b61fd7352c44c97be8b681b425c12c0e",
+                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/b289a1b7d4ccece7f55e0f360ced41aa7cc6f803",
+                    "reference": "b289a1b7d4ccece7f55e0f360ced41aa7cc6f803",
                     "shasum": ""
                 },
                 "require": {
@@ -26,7 +26,7 @@
                     "object-calisthenics/phpcs-calisthenics-rules": "^2.0",
                     "satooshi/php-coveralls": "^1.0"
                 },
-                "time": "2021-07-21T08:22:31+00:00",
+                "time": "2021-09-13T19:19:53+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -57,7 +57,7 @@
                 "support": {
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
-                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.1"
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/master"
                 }
             }
         ]
