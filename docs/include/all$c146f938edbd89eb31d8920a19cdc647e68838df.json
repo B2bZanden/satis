@@ -4155,7 +4155,7 @@
                 "support": {
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
-                    "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.2"
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.2"
                 }
             },
             "dev-master": {
@@ -4214,7 +4214,7 @@
                 "support": {
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
-                    "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.2"
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.2"
                 }
             }
         },
