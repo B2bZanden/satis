@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$0e97c885d290aed4ff63cc766dabf54179bada63.json": {
-            "sha1": "0e97c885d290aed4ff63cc766dabf54179bada63"
+        "include/all$eb8939f915dde79981fb4731e15745c3eef99250.json": {
+            "sha1": "eb8939f915dde79981fb4731e15745c3eef99250"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -14,13 +14,13 @@
         "b2bzanden/categorydescriptionbottom",
         "b2bzanden/changecategorytitle",
         "b2bzanden/checkoutcmsblock",
+        "b2bzanden/conneqt-m2-specialprices",
         "b2bzanden/customstockstatus",
         "b2bzanden/fastorder",
         "b2bzanden/fixpart",
         "b2bzanden/importphotos",
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
-        "b2bzanden/tig-gls-magento2",
-        "conneqt/m2-specialprices"
+        "b2bzanden/tig-gls-magento2"
     ]
 }

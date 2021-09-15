@@ -1,0 +1,100 @@
+{
+    "packages": {
+        "b2bzanden/conneqt-m2-specialprices": [
+            {
+                "name": "b2bzanden/conneqt-m2-specialprices",
+                "version": "1.0.15.54",
+                "version_normalized": "1.0.15.54",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/2400aa1620e93549411ea678fbea9fec5979ca9f",
+                    "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2021-09-15T06:31:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.54"
+                }
+            },
+            {
+                "name": "b2bzanden/conneqt-m2-specialprices",
+                "version": "1.0.15.55",
+                "version_normalized": "1.0.15.55",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
+                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2021-09-15T11:26:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.55"
+                }
+            }
+        ]
+    }
+}
