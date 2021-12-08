@@ -4738,19 +4738,19 @@
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.5"
                 }
             },
-            "dev-develop": {
+            "1.4.0.6": {
                 "name": "b2bzanden/tig-gls-magento2",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.4.0.6",
+                "version_normalized": "1.4.0.6",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/gls-magento2.git",
-                    "reference": "4e7912f04183ca31e7cc5e39e6a6800f72fdfcc3"
+                    "reference": "652970f8b86b29845f9b6c3407ef7d60aaa64dbd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/4e7912f04183ca31e7cc5e39e6a6800f72fdfcc3",
-                    "reference": "4e7912f04183ca31e7cc5e39e6a6800f72fdfcc3",
+                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/652970f8b86b29845f9b6c3407ef7d60aaa64dbd",
+                    "reference": "652970f8b86b29845f9b6c3407ef7d60aaa64dbd",
                     "shasum": ""
                 },
                 "require": {
@@ -4763,7 +4763,65 @@
                     "object-calisthenics/phpcs-calisthenics-rules": "^2.0",
                     "satooshi/php-coveralls": "^1.0"
                 },
-                "time": "2021-10-20T08:05:44+00:00",
+                "time": "2021-12-08T07:43:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\GLS\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "https://tig.nl"
+                    }
+                ],
+                "description": "Forked TIG Magento 2 GLS extension",
+                "homepage": "https://tig.nl/",
+                "keywords": [
+                    "GLS",
+                    "Magento 2",
+                    "Official GLS extension"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.6"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/tig-gls-magento2",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
+                    "reference": "154b40bd46a0b923d5897ff77a6c8dad523480fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/154b40bd46a0b923d5897ff77a6c8dad523480fc",
+                    "reference": "154b40bd46a0b923d5897ff77a6c8dad523480fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": "~101.0|~102.0|~103.0",
+                    "php": "7.*"
+                },
+                "require-dev": {
+                    "magento/marketplace-eqp": "^1.0",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^2.0",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2021-12-08T07:43:32+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -4803,12 +4861,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/gls-magento2.git",
-                    "reference": "82a38e531583699605e2ce0a94c4a71878ca5d83"
+                    "reference": "652970f8b86b29845f9b6c3407ef7d60aaa64dbd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/82a38e531583699605e2ce0a94c4a71878ca5d83",
-                    "reference": "82a38e531583699605e2ce0a94c4a71878ca5d83",
+                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/652970f8b86b29845f9b6c3407ef7d60aaa64dbd",
+                    "reference": "652970f8b86b29845f9b6c3407ef7d60aaa64dbd",
                     "shasum": ""
                 },
                 "require": {
@@ -4821,7 +4879,7 @@
                     "object-calisthenics/phpcs-calisthenics-rules": "^2.0",
                     "satooshi/php-coveralls": "^1.0"
                 },
-                "time": "2021-10-20T08:09:29+00:00",
+                "time": "2021-12-08T07:43:34+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -4852,7 +4910,7 @@
                 "support": {
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
-                    "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.5"
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.6"
                 }
             }
         }
