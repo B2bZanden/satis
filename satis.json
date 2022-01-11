@@ -8,6 +8,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/postnl-magento2.git"
+    },
+    {
+      "type": "vcs",
       "url": "git://github.com/B2bzanden/B2bzanden_M2_AlwaysShip"
     },
     {
