@@ -69,12 +69,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/postnl-magento2.git",
-                    "reference": "c8acf28c72d81bf2cb0cf444addbcf0e5fb98c73"
+                    "reference": "8025d0689c0aebe3c96b9a455fc1c5ae185d6ded"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/c8acf28c72d81bf2cb0cf444addbcf0e5fb98c73",
-                    "reference": "c8acf28c72d81bf2cb0cf444addbcf0e5fb98c73",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/8025d0689c0aebe3c96b9a455fc1c5ae185d6ded",
+                    "reference": "8025d0689c0aebe3c96b9a455fc1c5ae185d6ded",
                     "shasum": ""
                 },
                 "require": {
@@ -90,7 +90,7 @@
                     "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
                     "satooshi/php-coveralls": "^1.0"
                 },
-                "time": "2022-01-11T11:27:18+00:00",
+                "time": "2022-01-13T12:14:06+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -121,7 +121,7 @@
                 "support": {
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
-                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.10.1.1"
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/master"
                 }
             }
         ]
