@@ -1,6 +1,7 @@
 {
   "name": "b2bzanden/satis",
   "homepage": "https://b2bzanden.github.io/satis/",
+  "output-dir": "docs",
   "repositories": [
     {
       "type": "vcs",
