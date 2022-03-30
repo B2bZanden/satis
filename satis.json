@@ -12,6 +12,18 @@
     },
     {
       "type": "vcs",
+      "url": "git://github.com/B2bzanden/Anowave_M2_EC"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/Anowave_M2_EC4"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/B2bzanden/Anowave_M2_Package"
+    },
+    {
+      "type": "vcs",
       "url": "git://github.com/B2bzanden/B2bzanden_M2_AlwaysShip"
     },
     {
