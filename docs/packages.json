@@ -1,13 +1,16 @@
 {
     "packages": [],
     "includes": {
-        "include/all$d095c98f1a599f90a2e50e078f6e81c4c4a9cacc.json": {
-            "sha1": "d095c98f1a599f90a2e50e078f6e81c4c4a9cacc"
+        "include/all$2307b21d790d7071d3e50bd58c93e5060ab26528.json": {
+            "sha1": "2307b21d790d7071d3e50bd58c93e5060ab26528"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "b2bzanden/alwaysship",
+        "b2bzanden/anowave-ec",
+        "b2bzanden/anowave-ecoam",
+        "b2bzanden/anowave-package",
         "b2bzanden/b2brules",
         "b2bzanden/b2bshipping",
         "b2bzanden/categorycreator",
