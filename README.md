@@ -38,6 +38,15 @@ docker run --rm --init -it \
 - `<configuration-file>` = `satis.json`
 - `<output-directory>` = `docs`
 
+```sh
+docker run --rm --init -it \
+  --user $(id -u):$(id -g) \
+  --volume $(pwd):/build \
+  --volume "${COMPOSER_HOME:-$HOME/.composer}:/composer" \
+  composer/satis build satis.json docs
+```
+
+
 ## Updating Satis
 
 Pull the latest image. 
