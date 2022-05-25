@@ -3,58 +3,23 @@
         "b2bzanden/b2bshipping": [
             {
                 "name": "b2bzanden/b2bshipping",
-                "version": "dev-bugfix",
-                "version_normalized": "dev-bugfix",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Shipping.git",
-                    "reference": "a7513a16485779fe23896f1bf0c127774f1fa860"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Shipping/zipball/a7513a16485779fe23896f1bf0c127774f1fa860",
-                    "reference": "a7513a16485779fe23896f1bf0c127774f1fa860",
-                    "shasum": ""
-                },
-                "require": {
-                    "php": ">=7.1.0"
-                },
-                "time": "2021-07-22T10:18:06+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "B2bzanden\\B2bShipping\\": ""
-                    }
-                },
-                "description": "B2bzanden B2bShipping",
-                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_Shipping",
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/tree/bugfix",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/issues"
-                }
-            },
-            {
-                "name": "b2bzanden/b2bshipping",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Shipping.git",
-                    "reference": "8a6a2af86f03f827957469b8e4f0baa53648aeb1"
+                    "reference": "e7d371ff87fdf88c59f6f72282f32fcc678dce4d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Shipping/zipball/8a6a2af86f03f827957469b8e4f0baa53648aeb1",
-                    "reference": "8a6a2af86f03f827957469b8e4f0baa53648aeb1",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Shipping/zipball/e7d371ff87fdf88c59f6f72282f32fcc678dce4d",
+                    "reference": "e7d371ff87fdf88c59f6f72282f32fcc678dce4d",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2021-02-03T13:44:14+00:00",
+                "time": "2022-05-25T07:39:32+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -68,7 +33,7 @@
                 "description": "B2bzanden B2bShipping",
                 "homepage": "https://github.com/B2bzanden/B2bzanden_M2_Shipping",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/tree/1.0.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/tree/1.1.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/issues"
                 }
             }
