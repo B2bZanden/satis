@@ -39,6 +39,7 @@ docker run --rm --init -it \
 - `<output-directory>` = `docs`
 
 ```sh
+docker pull composer/satis;
 docker run --rm --init -it \
   --user $(id -u):$(id -g) \
   --volume $(pwd):/build \
