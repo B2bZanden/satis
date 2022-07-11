@@ -583,6 +583,64 @@
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
+                "version": "1.4.0.12",
+                "version_normalized": "1.4.0.12",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/gls-magento2.git",
+                    "reference": "77b78d8378a1dfca20f45322a4ddfd98ef2102ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/gls-magento2/zipball/77b78d8378a1dfca20f45322a4ddfd98ef2102ad",
+                    "reference": "77b78d8378a1dfca20f45322a4ddfd98ef2102ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": "~101.0|~102.0|~103.0",
+                    "php": "7.*"
+                },
+                "require-dev": {
+                    "magento/marketplace-eqp": "^1.0",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^2.0",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-07-11T06:58:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\GLS\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "https://tig.nl"
+                    }
+                ],
+                "description": "Forked TIG Magento 2 GLS extension",
+                "homepage": "https://tig.nl/",
+                "keywords": [
+                    "GLS",
+                    "Magento 2",
+                    "Official GLS extension"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.12"
+                }
+            },
+            {
+                "name": "b2bzanden/tig-gls-magento2",
                 "version": "1.4.0.2",
                 "version_normalized": "1.4.0.2",
                 "source": {

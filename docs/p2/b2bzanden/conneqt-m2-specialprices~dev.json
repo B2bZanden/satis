@@ -7,20 +7,20 @@
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices.git",
-                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005"
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "43b367788d2410e26a454f77a9469e38619de565"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
-                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/43b367788d2410e26a454f77a9469e38619de565",
+                    "reference": "43b367788d2410e26a454f77a9469e38619de565",
                     "shasum": ""
                 },
                 "require": {
                     "conneqt/m2-base": ">=1.0",
                     "magento/framework": ">=101.0.0"
                 },
-                "time": "2021-09-15T11:26:32+00:00",
+                "time": "2022-07-06T08:14:17+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -46,7 +46,7 @@
                 "support": {
                     "email": "support@conneqt.io",
                     "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
-                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.55"
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/main"
                 }
             },
             {
@@ -55,7 +55,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices.git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
                     "reference": "185b281a95d626ac4510a5a1ed7e577f2d503954"
                 },
                 "dist": {

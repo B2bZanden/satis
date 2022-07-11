@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.15.54",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices.git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
                     "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f"
                 },
                 "dist": {
@@ -54,7 +54,7 @@
                 "version_normalized": "1.0.15.55",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices.git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
                     "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005"
                 },
                 "dist": {
