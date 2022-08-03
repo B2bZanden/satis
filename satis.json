@@ -21,6 +21,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasaty-module-magento-custom-form.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git"
     },
     {
