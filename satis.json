@@ -17,6 +17,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/gls-magento2.git"
     },
     {
