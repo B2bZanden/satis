@@ -9,11 +9,11 @@
     },
     {
       "type": "vcs",
-      "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git"
+      "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git"
     },
     {
       "type": "vcs",
-      "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git"
+      "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git"
     },
     {
       "type": "vcs",
