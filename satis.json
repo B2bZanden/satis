@@ -41,6 +41,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/gls-magento2.git"
     },
     {
