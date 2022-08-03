@@ -13,6 +13,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/gls-magento2.git"
     },
     {
