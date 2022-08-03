@@ -33,6 +33,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git"
     },
     {
