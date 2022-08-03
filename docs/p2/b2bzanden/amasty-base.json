@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "b2bzanden/amasty-base": [
+            {
+                "name": "b2bzanden/amasty-base",
+                "version": "1.13.4.1",
+                "version_normalized": "1.13.4.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-base.git",
+                    "reference": "eb529026c72b1958867c430ca5ad7d1bdba84296"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/eb529026c72b1958867c430ca5ad7d1bdba84296",
+                    "reference": "eb529026c72b1958867c430ca5ad7d1bdba84296",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.3"
+                },
+                "time": "2022-08-03T08:17:33+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Amasty Base",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-base/tree/1.13.4.1",
+                    "issues": "https://github.com/B2bZanden/amasty-base/issues"
+                }
+            }
+        ]
+    }
+}

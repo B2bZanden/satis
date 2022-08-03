@@ -1,0 +1,89 @@
+{
+    "packages": {
+        "b2bzanden/amasty-module-page-speed-optimizer": [
+            {
+                "name": "b2bzanden/amasty-module-page-speed-optimizer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git",
+                    "reference": "c6136fd2e1ffeecd249d6fb3dd08dedbfce71cc5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/c6136fd2e1ffeecd249d6fb3dd08dedbfce71cc5",
+                    "reference": "c6136fd2e1ffeecd249d6fb3dd08dedbfce71cc5",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/amasty-base": ">=1.13.3",
+                    "b2bzanden/amasty-module-image-optimizer-ui": ">=1.1.3",
+                    "b2bzanden/amasty-module-lazy-load-ui": ">=1.0.0",
+                    "b2bzanden/amasty-module-page-speed-tools": ">=1.0.6",
+                    "php": ">=7.3"
+                },
+                "time": "2022-08-03T11:24:53+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Google Page Speed Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/develop",
+                    "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
+                }
+            },
+            {
+                "name": "b2bzanden/amasty-module-page-speed-optimizer",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git",
+                    "reference": "2716b698b7c6a8e03711beab378186a0f192190e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/2716b698b7c6a8e03711beab378186a0f192190e",
+                    "reference": "2716b698b7c6a8e03711beab378186a0f192190e",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/amasty-base": ">=1.13.3",
+                    "b2bzanden/amasty-module-image-optimizer-ui": ">=1.1.3",
+                    "b2bzanden/amasty-module-lazy-load-ui": ">=1.0.0",
+                    "b2bzanden/amasty-module-page-speed-tools": ">=1.0.6",
+                    "php": ">=7.3"
+                },
+                "time": "2022-08-03T11:24:53+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Google Page Speed Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/2.2.1.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
+                }
+            }
+        ]
+    }
+}

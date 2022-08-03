@@ -1,13 +1,33 @@
 {
     "packages": [],
     "includes": {
-        "include/all$6764a413d48f780d5f1dbd0dc8447352965402cc.json": {
-            "sha1": "6764a413d48f780d5f1dbd0dc8447352965402cc"
+        "include/all$16d3b35693448dcfa6d065c079c65e27d75ae998.json": {
+            "sha1": "16d3b35693448dcfa6d065c079c65e27d75ae998"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "b2bzanden/alwaysship",
+        "b2bzanden/amasty-aminvisiblecaptcha",
+        "b2bzanden/amasty-base",
+        "b2bzanden/amasty-cron-schedule-list",
+        "b2bzanden/amasty-cron-scheduler",
+        "b2bzanden/amasty-module-customer-attributes",
+        "b2bzanden/amasty-module-hide-price",
+        "b2bzanden/amasty-module-image-optimizer",
+        "b2bzanden/amasty-module-image-optimizer-ui",
+        "b2bzanden/amasty-module-improved-layered-navigation-page",
+        "b2bzanden/amasty-module-lazy-load",
+        "b2bzanden/amasty-module-lazy-load-ui",
+        "b2bzanden/amasty-module-mage24fix",
+        "b2bzanden/amasty-module-magento-custom-form",
+        "b2bzanden/amasty-module-magento-custom-form-graphql",
+        "b2bzanden/amasty-module-page-speed-optimizer",
+        "b2bzanden/amasty-module-page-speed-tools",
+        "b2bzanden/amasty-module-shop-by-base",
+        "b2bzanden/amasty-module-shop-by-brand",
+        "b2bzanden/amasty-shopby",
+        "b2bzanden/amasty-shopby-seo",
         "b2bzanden/anowave-ec",
         "b2bzanden/anowave-ec4",
         "b2bzanden/anowave-package",
