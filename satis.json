@@ -5,7 +5,75 @@
   "repositories": [
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-aminvisiblecaptcha.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-base.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-hide-price.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-image-optimizer-ui.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-mage24fix.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-shopby.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-shopby-seo.git"
     },
     {
       "type": "vcs",
