@@ -41,6 +41,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git"
     },
     {
