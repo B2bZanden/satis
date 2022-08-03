@@ -5,6 +5,10 @@
   "repositories": [
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/amasty-aminvisiblecaptcha.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/amasty-base.git"
     },
     {
