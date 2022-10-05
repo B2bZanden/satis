@@ -9099,6 +9099,251 @@
                     "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.11.0-RC1"
                 }
             },
+            "1.11.1-RC1": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "1.11.1-RC1",
+                "version_normalized": "1.11.1.0-RC1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "93fdb672ee311acbe5c66530cf55fd2d1537c106"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/93fdb672ee311acbe5c66530cf55fd2d1537c106",
+                    "reference": "93fdb672ee311acbe5c66530cf55fd2d1537c106",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "6",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-03-08T16:59:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.11.1"
+                }
+            },
+            "1.12.0": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "1.12.0",
+                "version_normalized": "1.12.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "ac6bcc5e45ed537e6a03852fa916258189496d93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/ac6bcc5e45ed537e6a03852fa916258189496d93",
+                    "reference": "ac6bcc5e45ed537e6a03852fa916258189496d93",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "6",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-04-11T12:12:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.12.0"
+                }
+            },
+            "1.12.1": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "1.12.1",
+                "version_normalized": "1.12.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "efdebad2214d6d44099a55958bfa2c7f503bfd82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/efdebad2214d6d44099a55958bfa2c7f503bfd82",
+                    "reference": "efdebad2214d6d44099a55958bfa2c7f503bfd82",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "6",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-04-14T09:14:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.12.1"
+                }
+            },
+            "1.12.2": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "1.12.2",
+                "version_normalized": "1.12.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "73f03cad94ea899c97c957750840152ced8fea25"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/73f03cad94ea899c97c957750840152ced8fea25",
+                    "reference": "73f03cad94ea899c97c957750840152ced8fea25",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4|~8.1",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "*",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "phpunit/phpunit": "^9.0",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-06-15T09:57:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.12.2"
+                }
+            },
             "1.12.2.1": {
                 "name": "b2bzanden/tig-postnl-magento2",
                 "version": "1.12.2.1",
@@ -9221,6 +9466,130 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/postnl-magento2/tree/1.12.2.2"
+                }
+            },
+            "1.12.2.3": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "1.12.2.3",
+                "version_normalized": "1.12.2.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "e8ee018e1eed44270cbce46db0939d313c9076a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/e8ee018e1eed44270cbce46db0939d313c9076a5",
+                    "reference": "e8ee018e1eed44270cbce46db0939d313c9076a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4|~8.1",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "*",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "phpunit/phpunit": "^9.0",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-10-05T12:27:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "Forked TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/1.12.2.3"
+                }
+            },
+            "1.12.3": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "1.12.3",
+                "version_normalized": "1.12.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "9c129ed87b4d98fa39df9baa55f85c996cf01a11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/9c129ed87b4d98fa39df9baa55f85c996cf01a11",
+                    "reference": "9c129ed87b4d98fa39df9baa55f85c996cf01a11",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4|~8.1",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "*",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "phpunit/phpunit": "^9.0",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-08-03T10:44:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.12.3"
                 }
             },
             "v1.2.0": {
@@ -11607,19 +11976,19 @@
                     "source": "https://github.com/B2bZanden/postnl-magento2/tree/v1.11.0-RC1"
                 }
             },
-            "dev-master": {
+            "dev-develop": {
                 "name": "b2bzanden/tig-postnl-magento2",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/postnl-magento2.git",
-                    "reference": "18552628fab304e268609802e7d4baa7f1f2b484"
+                    "reference": "243a4e1bec5a7c7dde6e9f9646f59741d9276a63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/18552628fab304e268609802e7d4baa7f1f2b484",
-                    "reference": "18552628fab304e268609802e7d4baa7f1f2b484",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/243a4e1bec5a7c7dde6e9f9646f59741d9276a63",
+                    "reference": "243a4e1bec5a7c7dde6e9f9646f59741d9276a63",
                     "shasum": ""
                 },
                 "require": {
@@ -11636,7 +12005,69 @@
                     "phpunit/phpunit": "^9.0",
                     "satooshi/php-coveralls": "^1.0"
                 },
-                "time": "2022-09-20T14:47:20+00:00",
+                "time": "2022-10-05T12:27:55+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "TIG\\PostNL\\": ""
+                    }
+                },
+                "license": [
+                    "CC-BY-NC-ND-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TIG",
+                        "email": "support@tig.nl",
+                        "homepage": "http://tig.nl"
+                    }
+                ],
+                "description": "Forked TIG Magento 2 PostNL extension",
+                "homepage": "https://tig.nl/postnl",
+                "keywords": [
+                    "Magento 2",
+                    "Official PostNL extension",
+                    "PostNL"
+                ],
+                "support": {
+                    "email": "support@tig.nl",
+                    "issues": "https://portal.tig.nl/",
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/develop"
+                }
+            },
+            "dev-master": {
+                "name": "b2bzanden/tig-postnl-magento2",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/postnl-magento2.git",
+                    "reference": "e8ee018e1eed44270cbce46db0939d313c9076a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/postnl-magento2/zipball/e8ee018e1eed44270cbce46db0939d313c9076a5",
+                    "reference": "e8ee018e1eed44270cbce46db0939d313c9076a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-soap": "*",
+                    "laminas/laminas-barcode": "~2.5|~2.8",
+                    "magento/framework": "~102.0|~103.0",
+                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4|~8.1",
+                    "setasign/fpdf": "^1.8.2",
+                    "setasign/fpdi": "^2.3.2"
+                },
+                "require-dev": {
+                    "magento/magento-coding-standard": "*",
+                    "object-calisthenics/phpcs-calisthenics-rules": "^3.7",
+                    "phpunit/phpunit": "^9.0",
+                    "satooshi/php-coveralls": "^1.0"
+                },
+                "time": "2022-10-05T12:27:44+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -11667,7 +12098,7 @@
                 "support": {
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
-                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/1.12.2.2"
+                    "source": "https://github.com/B2bZanden/postnl-magento2/tree/1.12.2.3"
                 }
             }
         }
