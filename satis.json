@@ -121,6 +121,10 @@
     },
     {
       "type": "vcs",
+      "url": "git://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck"
+    },
+    {
+      "type": "vcs",
       "url": "git://github.com/B2bzanden/B2bzanden_M2_CheckoutCMSBlock"
     },
     {

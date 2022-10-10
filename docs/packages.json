@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f9c2f57d94d489d8d6caa20e7305ae39bd463605.json": {
-            "sha1": "f9c2f57d94d489d8d6caa20e7305ae39bd463605"
+        "include/all$dbc1f5a801ae81a3233eddaaa938318f94bbf320.json": {
+            "sha1": "dbc1f5a801ae81a3233eddaaa938318f94bbf320"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -36,6 +36,7 @@
         "b2bzanden/categorycreator",
         "b2bzanden/categorydescriptionbottom",
         "b2bzanden/changecategorytitle",
+        "b2bzanden/checkout-address-check",
         "b2bzanden/checkoutcmsblock",
         "b2bzanden/conneqt-m2-specialprices",
         "b2bzanden/customstockstatus",
