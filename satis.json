@@ -97,31 +97,31 @@
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/Anowave_M2_EC"
+      "url": "git@github.com:B2bZanden/Anowave_M2_EC.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/Anowave_M2_EC4"
+      "url": "git@github.com:B2bZanden/Anowave_M2_EC4.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/Anowave_M2_Package"
+      "url": "git@github.com:B2bZanden/Anowave_M2_Package.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_AlwaysShip"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_AlwaysShip.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_CategoryCreator"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryCreator.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_CategoryDescriptionBottom"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_ChangeCategoryTitle"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_ChangeCategoryTitle.git"
     },
     {
       "type": "vcs",
@@ -129,43 +129,43 @@
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_CheckoutCMSBlock"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutCMSBlock.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_FastOrder"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_FixPart"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_ImportPhotos"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_Rules"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_Rules.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_Shipping"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_Shipping.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_SitemapUrl"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_SitemapUrl.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bzanden/B2bzanden_M2_Suitablefor"
+      "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git"
     },
     {
       "type": "vcs",
-      "url": "git://github.com/B2bZanden/conneqt-m2-specialprices"
+      "url": "git://github.com/B2bZanden/conneqt-m2-specialprices.git"
     },
     {
       "packagist": false
