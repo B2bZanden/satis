@@ -4,6 +4,9 @@
   "output-dir": "docs",
   "repositories": [
     {
+      "packagist": false
+    },
+    {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha"
     },
