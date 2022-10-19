@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$296009ca3c9635af96ecf28f54cd70129d9eaca9.json": {
-            "sha1": "296009ca3c9635af96ecf28f54cd70129d9eaca9"
+        "include/all$28e14fbe2e1fc92426d6eb4d3f35195a981740ee.json": {
+            "sha1": "28e14fbe2e1fc92426d6eb4d3f35195a981740ee"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -46,6 +46,7 @@
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
         "b2bzanden/tig-gls-magento2",
-        "b2bzanden/tig-postnl-magento2"
+        "b2bzanden/tig-postnl-magento2",
+        "gls/module-shipping"
     ]
 }

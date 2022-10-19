@@ -1,0 +1,106 @@
+{
+    "packages": {
+        "b2bzanden/anowave-ec": [
+            {
+                "name": "b2bzanden/anowave-ec",
+                "version": "101.6.4",
+                "version_normalized": "101.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_EC.git",
+                    "reference": "e1811a32ac4a5a0bbe03466f052f08ec6ab0a418"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC/zipball/e1811a32ac4a5a0bbe03466f052f08ec6ab0a418",
+                    "reference": "e1811a32ac4a5a0bbe03466f052f08ec6ab0a418",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/anowave-package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2022-03-30T12:16:37+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "homepage": "https://www.anowave.com"
+                    }
+                ],
+                "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking",
+                "homepage": "http://www.anowave.com/marketplace/magento-2-extensions/magento-2-google-tag-manager-enhanced-ecommerce-ua-tracking/",
+                "keywords": [
+                    "adwords dynamic remarketing",
+                    "enhanced ecommerce tracking",
+                    "google analytics",
+                    "google tag manager",
+                    "gtag"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_EC/tree/101.6.4",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_EC/issues"
+                }
+            },
+            {
+                "name": "b2bzanden/anowave-ec",
+                "version": "102.0.2",
+                "version_normalized": "102.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_EC.git",
+                    "reference": "bf24a6ba5094bf73ef6a14ebaa07d9e66fbdb84d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC/zipball/bf24a6ba5094bf73ef6a14ebaa07d9e66fbdb84d",
+                    "reference": "bf24a6ba5094bf73ef6a14ebaa07d9e66fbdb84d",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/anowave-package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                },
+                "time": "2022-06-23T14:24:49+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "homepage": "https://www.anowave.com"
+                    }
+                ],
+                "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking",
+                "homepage": "https://www.anowave.com/marketplace/magento-2-extensions/magento-2-google-tag-manager-enhanced-ecommerce-ua-tracking/",
+                "keywords": [
+                    "adwords dynamic remarketing",
+                    "enhanced ecommerce tracking",
+                    "google analytics",
+                    "google tag manager",
+                    "gtag"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_EC/tree/102.0.2",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_EC/issues"
+                }
+            }
+        ]
+    }
+}

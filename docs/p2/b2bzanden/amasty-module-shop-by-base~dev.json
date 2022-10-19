@@ -1,0 +1,91 @@
+{
+    "packages": {
+        "b2bzanden/amasty-module-shop-by-base": [
+            {
+                "name": "b2bzanden/amasty-module-shop-by-base",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
+                    "reference": "9463d9f3ad6d2a7f1751793d2f792d8aeb987114"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/9463d9f3ad6d2a7f1751793d2f792d8aeb987114",
+                    "reference": "9463d9f3ad6d2a7f1751793d2f792d8aeb987114",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/amasty-base": ">=1.13.2",
+                    "b2bzanden/amasty-module-mage24fix": ">=1.0.6",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
+                },
+                "time": "2022-08-03T09:59:49+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyBase\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Base Improved Layered Navigation by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/develop",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shop-by-base/issues"
+                }
+            },
+            {
+                "name": "b2bzanden/amasty-module-shop-by-base",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
+                    "reference": "e5b18060ba427c8042073494cdb84fab16613b0a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/e5b18060ba427c8042073494cdb84fab16613b0a",
+                    "reference": "e5b18060ba427c8042073494cdb84fab16613b0a",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/amasty-base": ">=1.13.2",
+                    "b2bzanden/amasty-module-mage24fix": ">=1.0.6",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
+                },
+                "time": "2022-08-03T09:59:49+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyBase\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Base Improved Layered Navigation by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/2.15.6.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shop-by-base/issues"
+                }
+            }
+        ]
+    }
+}
