@@ -85,6 +85,10 @@
     },
     {
       "type": "vcs",
+      "url": "git@github.com:B2bZanden/GLS_Shipping.git"
+    },
+    {
+      "type": "vcs",
       "url": "git@github.com:B2bZanden/gls-magento2.git"
     },
     {
