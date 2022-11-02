@@ -6363,6 +6363,194 @@
                 }
             }
         },
+        "b2bzanden/gls-module-shipping": {
+            "3.0.35": {
+                "name": "b2bzanden/gls-module-shipping",
+                "version": "3.0.35",
+                "version_normalized": "3.0.35.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
+                    "reference": "0ad8543b1e02c0945d25b43dfe6e7b3ffae97b8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/0ad8543b1e02c0945d25b43dfe6e7b3ffae97b8c",
+                    "reference": "0ad8543b1e02c0945d25b43dfe6e7b3ffae97b8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0"
+                },
+                "time": "2022-10-19T12:40:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "GLS\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "GLS shipping module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35",
+                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
+                }
+            },
+            "3.0.35.1": {
+                "name": "b2bzanden/gls-module-shipping",
+                "version": "3.0.35.1",
+                "version_normalized": "3.0.35.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
+                    "reference": "606fa02b538c1e194817de9dd98e4312d28e10e5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/606fa02b538c1e194817de9dd98e4312d28e10e5",
+                    "reference": "606fa02b538c1e194817de9dd98e4312d28e10e5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0"
+                },
+                "time": "2022-11-02T10:38:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "GLS\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "GLS shipping module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35.1",
+                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
+                }
+            },
+            "3.0.35.2": {
+                "name": "b2bzanden/gls-module-shipping",
+                "version": "3.0.35.2",
+                "version_normalized": "3.0.35.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
+                    "reference": "68807bba09910406dcfe6692c7c1d6ff3a33d456"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/68807bba09910406dcfe6692c7c1d6ff3a33d456",
+                    "reference": "68807bba09910406dcfe6692c7c1d6ff3a33d456",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0"
+                },
+                "time": "2022-11-02T12:17:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "GLS\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Forked GLS shipping module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35.2",
+                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/gls-module-shipping",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
+                    "reference": "5ca5d798cbff55648d50676627bc87ca4caa2919"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/5ca5d798cbff55648d50676627bc87ca4caa2919",
+                    "reference": "5ca5d798cbff55648d50676627bc87ca4caa2919",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0"
+                },
+                "time": "2022-11-02T12:17:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "GLS\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Forked GLS shipping module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/develop",
+                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/gls-module-shipping",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
+                    "reference": "68807bba09910406dcfe6692c7c1d6ff3a33d456"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/68807bba09910406dcfe6692c7c1d6ff3a33d456",
+                    "reference": "68807bba09910406dcfe6692c7c1d6ff3a33d456",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0"
+                },
+                "time": "2022-11-02T12:17:21+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "GLS\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Forked GLS shipping module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35.2",
+                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
+                }
+            }
+        },
         "b2bzanden/importphotos": {
             "0.0.1": {
                 "name": "b2bzanden/importphotos",
@@ -6685,6 +6873,161 @@
                 "support": {
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/3.1.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
+            }
+        },
+        "b2bzanden/magmodules-magento2-channable": {
+            "1.12.0.1": {
+                "name": "b2bzanden/magmodules-magento2-channable",
+                "version": "1.12.0.1",
+                "version_normalized": "1.12.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
+                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d90dda06490968b1a1467cbd1a7c7bee185d2849",
+                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-11-02T10:31:16+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.1"
+                }
+            },
+            "1.12.0.2": {
+                "name": "b2bzanden/magmodules-magento2-channable",
+                "version": "1.12.0.2",
+                "version_normalized": "1.12.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
+                    "reference": "d69193e1710378f357bbc349919ef90aef58638c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d69193e1710378f357bbc349919ef90aef58638c",
+                    "reference": "d69193e1710378f357bbc349919ef90aef58638c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-11-02T12:15:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Forked Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.2"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/magmodules-magento2-channable",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
+                    "reference": "320b64ad3961e89877649556ccafcdf9adfe5e84"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/320b64ad3961e89877649556ccafcdf9adfe5e84",
+                    "reference": "320b64ad3961e89877649556ccafcdf9adfe5e84",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-11-02T12:15:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Forked Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/develop"
+                }
+            },
+            "dev-master": {
+                "name": "b2bzanden/magmodules-magento2-channable",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
+                    "reference": "d69193e1710378f357bbc349919ef90aef58638c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d69193e1710378f357bbc349919ef90aef58638c",
+                    "reference": "d69193e1710378f357bbc349919ef90aef58638c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-11-02T12:15:34+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Forked Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.2"
                 }
             }
         },
@@ -12337,199 +12680,6 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/postnl-magento2/tree/1.12.2.3"
-                }
-            }
-        },
-        "gls/module-shipping": {
-            "3.0.35": {
-                "name": "gls/module-shipping",
-                "version": "3.0.35",
-                "version_normalized": "3.0.35.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
-                    "reference": "0ad8543b1e02c0945d25b43dfe6e7b3ffae97b8c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/0ad8543b1e02c0945d25b43dfe6e7b3ffae97b8c",
-                    "reference": "0ad8543b1e02c0945d25b43dfe6e7b3ffae97b8c",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento/framework": ">=101.0"
-                },
-                "time": "2022-10-19T12:40:38+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "GLS\\Shipping\\": ""
-                    }
-                },
-                "license": [
-                    "GPL-3.0"
-                ],
-                "description": "GLS shipping module",
-                "support": {
-                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35",
-                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
-                }
-            },
-            "3.0.35.1": {
-                "name": "gls/module-shipping",
-                "version": "3.0.35.1",
-                "version_normalized": "3.0.35.1",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
-                    "reference": "606fa02b538c1e194817de9dd98e4312d28e10e5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/606fa02b538c1e194817de9dd98e4312d28e10e5",
-                    "reference": "606fa02b538c1e194817de9dd98e4312d28e10e5",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento/framework": ">=101.0"
-                },
-                "time": "2022-11-02T10:38:02+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "GLS\\Shipping\\": ""
-                    }
-                },
-                "license": [
-                    "GPL-3.0"
-                ],
-                "description": "GLS shipping module",
-                "support": {
-                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35.1",
-                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
-                }
-            },
-            "dev-main": {
-                "name": "gls/module-shipping",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/GLS_Shipping.git",
-                    "reference": "606fa02b538c1e194817de9dd98e4312d28e10e5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/606fa02b538c1e194817de9dd98e4312d28e10e5",
-                    "reference": "606fa02b538c1e194817de9dd98e4312d28e10e5",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento/framework": ">=101.0"
-                },
-                "time": "2022-11-02T10:38:02+00:00",
-                "default-branch": true,
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "GLS\\Shipping\\": ""
-                    }
-                },
-                "license": [
-                    "GPL-3.0"
-                ],
-                "description": "GLS shipping module",
-                "support": {
-                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.35.1",
-                    "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
-                }
-            }
-        },
-        "magmodules/magento2-channable": {
-            "1.12.0.1": {
-                "name": "magmodules/magento2-channable",
-                "version": "1.12.0.1",
-                "version_normalized": "1.12.0.1",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d90dda06490968b1a1467cbd1a7c7bee185d2849",
-                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
-                },
-                "time": "2022-11-02T10:31:16+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magmodules\\Channable\\": ""
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "description": "Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
-                "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.1"
-                }
-            },
-            "dev-master": {
-                "name": "magmodules/magento2-channable",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d90dda06490968b1a1467cbd1a7c7bee185d2849",
-                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
-                },
-                "time": "2022-11-02T10:31:16+00:00",
-                "default-branch": true,
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magmodules\\Channable\\": ""
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "description": "Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
-                "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.1"
                 }
             }
         }

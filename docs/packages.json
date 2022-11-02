@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ce4b65aa8583416b4d1c3575b06df22a1af7e889.json": {
-            "sha1": "ce4b65aa8583416b4d1c3575b06df22a1af7e889"
+        "include/all$967ba1a6e28d283c8565bfc9de8c506a57bf6997.json": {
+            "sha1": "967ba1a6e28d283c8565bfc9de8c506a57bf6997"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -42,12 +42,12 @@
         "b2bzanden/customstockstatus",
         "b2bzanden/fastorder",
         "b2bzanden/fixpart",
+        "b2bzanden/gls-module-shipping",
         "b2bzanden/importphotos",
+        "b2bzanden/magmodules-magento2-channable",
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
         "b2bzanden/tig-gls-magento2",
-        "b2bzanden/tig-postnl-magento2",
-        "gls/module-shipping",
-        "magmodules/magento2-channable"
+        "b2bzanden/tig-postnl-magento2"
     ]
 }
