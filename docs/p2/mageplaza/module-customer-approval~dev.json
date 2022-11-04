@@ -1,0 +1,97 @@
+{
+    "packages": {
+        "mageplaza/module-customer-approval": [
+            {
+                "name": "mageplaza/module-customer-approval",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
+                    "reference": "74b1b69e170d590a9b2d2dc1076fa1e48f0a0835"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/74b1b69e170d590a9b2d2dc1076fa1e48f0a0835",
+                    "reference": "74b1b69e170d590a9b2d2dc1076fa1e48f0a0835",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T11:06:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\CustomerApproval\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Customer Approval Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                }
+            },
+            {
+                "name": "mageplaza/module-customer-approval",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
+                    "reference": "58e6678eff9e74242f60e3ca4b6078339dd0b1cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/58e6678eff9e74242f60e3ca4b6078339dd0b1cd",
+                    "reference": "58e6678eff9e74242f60e3ca4b6078339dd0b1cd",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T11:06:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\CustomerApproval\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Customer Approval Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/4.0.5.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                }
+            }
+        ]
+    }
+}

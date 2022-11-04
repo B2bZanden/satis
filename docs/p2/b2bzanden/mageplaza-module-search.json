@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "b2bzanden/mageplaza-module-search": [
+            {
+                "name": "b2bzanden/mageplaza-module-search",
+                "version": "4.0.5.1",
+                "version_normalized": "4.0.5.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Search.git",
+                    "reference": "b1bc4864a1e2856f169e5ab93f26a8f323462037"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Search/zipball/b1bc4864a1e2856f169e5ab93f26a8f323462037",
+                    "reference": "b1bc4864a1e2856f169e5ab93f26a8f323462037",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T11:06:25+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Search\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Search extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Search/tree/4.0.5.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Search/issues"
+                }
+            }
+        ]
+    }
+}

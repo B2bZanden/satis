@@ -165,6 +165,34 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Core"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Search"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Smtp"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/conneqt-m2-specialprices"
     },
     {

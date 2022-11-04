@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "b2bzanden/mageplaza-module-edit-order": [
+            {
+                "name": "b2bzanden/mageplaza-module-edit-order",
+                "version": "4.2.2.1",
+                "version_normalized": "4.2.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
+                    "reference": "ef8b5f9466efce6cf5b22a643910ef8cbfea434c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/ef8b5f9466efce6cf5b22a643910ef8cbfea434c",
+                    "reference": "ef8b5f9466efce6cf5b22a643910ef8cbfea434c",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T11:06:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EditOrder\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Edit Order Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/4.2.2.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
+                }
+            }
+        ]
+    }
+}

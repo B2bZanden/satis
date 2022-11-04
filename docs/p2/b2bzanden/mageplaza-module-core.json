@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "b2bzanden/mageplaza-module-core": [
+            {
+                "name": "b2bzanden/mageplaza-module-core",
+                "version": "1.4.12.1",
+                "version_normalized": "1.4.12.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Core.git",
+                    "reference": "8d75c67c80310bcbd01c96bc8439ab8237cdb35c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Core/zipball/8d75c67c80310bcbd01c96bc8439ab8237cdb35c",
+                    "reference": "8d75c67c80310bcbd01c96bc8439ab8237cdb35c",
+                    "shasum": ""
+                },
+                "time": "2022-11-04T11:06:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Core\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Mageplaza Core for Magento 2",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Core/tree/1.4.12.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Core/issues"
+                }
+            }
+        ]
+    }
+}

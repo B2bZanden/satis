@@ -1,0 +1,71 @@
+{
+    "packages": {
+        "b2bzanden/mageplaza-module-smtp": [
+            {
+                "name": "b2bzanden/mageplaza-module-smtp",
+                "version": "4.7.3.1",
+                "version_normalized": "4.7.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Smtp.git",
+                    "reference": "f099df67ccef446e805d4451d5d8c28eba6ae9d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Smtp/zipball/f099df67ccef446e805d4451d5d8c28eba6ae9d0",
+                    "reference": "f099df67ccef446e805d4451d5d8c28eba6ae9d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T11:06:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Smtp\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "SMTP Extension for Magento 2 helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers",
+                "keywords": [
+                    "email",
+                    "email marketing",
+                    "email settings",
+                    "facebook",
+                    "facebook ads",
+                    "gmail smtp",
+                    "google ads",
+                    "magento 2",
+                    "magento 2 smtp",
+                    "magento smtp",
+                    "mageplaza",
+                    "marketing automation",
+                    "messenger",
+                    "sms",
+                    "sms marketing",
+                    "smtp",
+                    "web push notification",
+                    "whatsapp"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Smtp/tree/4.7.3.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Smtp/issues"
+                }
+            }
+        ]
+    }
+}
