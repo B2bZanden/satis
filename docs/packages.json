@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$22c4924f2dcc65a0549fa43f67e0094d2dc5aaca.json": {
-            "sha1": "22c4924f2dcc65a0549fa43f67e0094d2dc5aaca"
+        "include/all$e06ddce833f02b2abd2bb6d0409d88e71a8b19d0.json": {
+            "sha1": "e06ddce833f02b2abd2bb6d0409d88e71a8b19d0"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -46,6 +46,7 @@
         "b2bzanden/importphotos",
         "b2bzanden/mageplaza-magento-2-product-slider",
         "b2bzanden/mageplaza-module-core",
+        "b2bzanden/mageplaza-module-customer-approval",
         "b2bzanden/mageplaza-module-edit-order",
         "b2bzanden/mageplaza-module-search",
         "b2bzanden/mageplaza-module-shipping-restriction",
@@ -54,7 +55,6 @@
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
         "b2bzanden/tig-gls-magento2",
-        "b2bzanden/tig-postnl-magento2",
-        "mageplaza/module-customer-approval"
+        "b2bzanden/tig-postnl-magento2"
     ]
 }
