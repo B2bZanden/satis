@@ -181,6 +181,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/Mageplaza_Module-Search"
     },
     {

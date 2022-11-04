@@ -7503,6 +7503,144 @@
                 }
             }
         },
+        "b2bzanden/mageplaza-module-payment-restriction": {
+            "4.0.2.1": {
+                "name": "b2bzanden/mageplaza-module-payment-restriction",
+                "version": "4.0.2.1",
+                "version_normalized": "4.0.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb",
+                    "reference": "fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.5"
+                },
+                "time": "2022-11-04T11:42:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\PaymentRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Payment Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.2.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/mageplaza-module-payment-restriction",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "d630cb840f2d7497488f5267b31ab9542926bc5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/d630cb840f2d7497488f5267b31ab9542926bc5d",
+                    "reference": "d630cb840f2d7497488f5267b31ab9542926bc5d",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.5"
+                },
+                "time": "2022-11-04T11:42:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\PaymentRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Payment Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/mageplaza-module-payment-restriction",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb",
+                    "reference": "fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.5"
+                },
+                "time": "2022-11-04T11:42:20+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\PaymentRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Payment Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.2.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
+                }
+            }
+        },
         "b2bzanden/mageplaza-module-search": {
             "4.0.5.1": {
                 "name": "b2bzanden/mageplaza-module-search",
