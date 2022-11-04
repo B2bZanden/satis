@@ -7825,6 +7825,51 @@
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/issues"
                 }
             },
+            "4.2.2.2": {
+                "name": "b2bzanden/mageplaza-module-shipping-restriction",
+                "version": "4.2.2.2",
+                "version_normalized": "4.2.2.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Shipping-Restriction.git",
+                    "reference": "5e25954cecfa7169be10498d7689be8572023bd5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Shipping-Restriction/zipball/5e25954cecfa7169be10498d7689be8572023bd5",
+                    "reference": "5e25954cecfa7169be10498d7689be8572023bd5",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T13:11:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\ShippingRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Shipping Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/tree/4.2.2.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/issues"
+                }
+            },
             "dev-develop": {
                 "name": "b2bzanden/mageplaza-module-shipping-restriction",
                 "version": "dev-develop",
@@ -7832,18 +7877,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Mageplaza_Module-Shipping-Restriction.git",
-                    "reference": "1b9c95a23d53f07ac62f6a3cbae959c0e9e4de02"
+                    "reference": "a6b4a0d9ddfc89b990e484e1ed145b0e0293ba5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Shipping-Restriction/zipball/1b9c95a23d53f07ac62f6a3cbae959c0e9e4de02",
-                    "reference": "1b9c95a23d53f07ac62f6a3cbae959c0e9e4de02",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Shipping-Restriction/zipball/a6b4a0d9ddfc89b990e484e1ed145b0e0293ba5c",
+                    "reference": "a6b4a0d9ddfc89b990e484e1ed145b0e0293ba5c",
                     "shasum": ""
                 },
                 "require": {
                     "b2bzanden/mageplaza-module-core": "^1.4.12"
                 },
-                "time": "2022-11-04T11:06:31+00:00",
+                "time": "2022-11-04T13:11:47+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -7877,18 +7922,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Mageplaza_Module-Shipping-Restriction.git",
-                    "reference": "856b55e00cce0b677fd3705189d7fb913d392541"
+                    "reference": "5e25954cecfa7169be10498d7689be8572023bd5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Shipping-Restriction/zipball/856b55e00cce0b677fd3705189d7fb913d392541",
-                    "reference": "856b55e00cce0b677fd3705189d7fb913d392541",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Shipping-Restriction/zipball/5e25954cecfa7169be10498d7689be8572023bd5",
+                    "reference": "5e25954cecfa7169be10498d7689be8572023bd5",
                     "shasum": ""
                 },
                 "require": {
                     "b2bzanden/mageplaza-module-core": "^1.4.12"
                 },
-                "time": "2022-11-04T11:06:31+00:00",
+                "time": "2022-11-04T13:11:47+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -7912,7 +7957,7 @@
                 ],
                 "description": "Magento 2 Shipping Restriction Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/tree/4.2.2.1",
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/tree/4.2.2.2",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/issues"
                 }
             }

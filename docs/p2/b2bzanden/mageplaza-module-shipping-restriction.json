@@ -45,6 +45,51 @@
                     "source": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/tree/4.2.2.1",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/issues"
                 }
+            },
+            {
+                "name": "b2bzanden/mageplaza-module-shipping-restriction",
+                "version": "4.2.2.2",
+                "version_normalized": "4.2.2.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Shipping-Restriction.git",
+                    "reference": "5e25954cecfa7169be10498d7689be8572023bd5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Shipping-Restriction/zipball/5e25954cecfa7169be10498d7689be8572023bd5",
+                    "reference": "5e25954cecfa7169be10498d7689be8572023bd5",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                },
+                "time": "2022-11-04T13:11:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\ShippingRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Shipping Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/tree/4.2.2.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction/issues"
+                }
             }
         ]
     }
