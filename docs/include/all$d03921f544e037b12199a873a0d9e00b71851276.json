@@ -8237,6 +8237,44 @@
                     "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.2"
                 }
             },
+            "1.12.1.2": {
+                "name": "b2bzanden/magmodules-magento2-channable",
+                "version": "1.12.1.2",
+                "version_normalized": "1.12.1.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
+                    "reference": "3599310bfc7e7bf5c1943081d3adf05b87385ae7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/3599310bfc7e7bf5c1943081d3adf05b87385ae7",
+                    "reference": "3599310bfc7e7bf5c1943081d3adf05b87385ae7",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-11-10T18:42:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Forked Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.1.2"
+                }
+            },
             "dev-develop": {
                 "name": "b2bzanden/magmodules-magento2-channable",
                 "version": "dev-develop",
@@ -8244,19 +8282,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "320b64ad3961e89877649556ccafcdf9adfe5e84"
+                    "reference": "7a4679d374b9e190fd564132e77c03d6b7ac391d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/320b64ad3961e89877649556ccafcdf9adfe5e84",
-                    "reference": "320b64ad3961e89877649556ccafcdf9adfe5e84",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/7a4679d374b9e190fd564132e77c03d6b7ac391d",
+                    "reference": "7a4679d374b9e190fd564132e77c03d6b7ac391d",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*",
                     "magento/framework": ">=102.0.3"
                 },
-                "time": "2022-11-02T12:15:34+00:00",
+                "time": "2022-11-10T18:42:20+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -8282,19 +8320,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "d69193e1710378f357bbc349919ef90aef58638c"
+                    "reference": "3599310bfc7e7bf5c1943081d3adf05b87385ae7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d69193e1710378f357bbc349919ef90aef58638c",
-                    "reference": "d69193e1710378f357bbc349919ef90aef58638c",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/3599310bfc7e7bf5c1943081d3adf05b87385ae7",
+                    "reference": "3599310bfc7e7bf5c1943081d3adf05b87385ae7",
                     "shasum": ""
                 },
                 "require": {
                     "ext-json": "*",
                     "magento/framework": ">=102.0.3"
                 },
-                "time": "2022-11-02T12:15:34+00:00",
+                "time": "2022-11-10T18:42:20+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -8311,7 +8349,45 @@
                 "description": "Forked Channable integration for Magento 2",
                 "homepage": "https://github.com/magmodules/magento2-channable",
                 "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.2"
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.1.2"
+                }
+            },
+            "dev-set-shipping-free": {
+                "name": "b2bzanden/magmodules-magento2-channable",
+                "version": "dev-set-shipping-free",
+                "version_normalized": "dev-set-shipping-free",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
+                    "reference": "fa1fd837ab666b769ba31c4fc36fced6e0895e20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/fa1fd837ab666b769ba31c4fc36fced6e0895e20",
+                    "reference": "fa1fd837ab666b769ba31c4fc36fced6e0895e20",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": ">=102.0.3"
+                },
+                "time": "2022-11-09T21:01:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magmodules\\Channable\\": ""
+                    }
+                },
+                "license": [
+                    "BSD-2-Clause"
+                ],
+                "description": "Forked Channable integration for Magento 2",
+                "homepage": "https://github.com/magmodules/magento2-channable",
+                "support": {
+                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/set-shipping-free"
                 }
             }
         },
