@@ -3,17 +3,17 @@
         "b2bzanden/categorydescriptionbottom": [
             {
                 "name": "b2bzanden/categorydescriptionbottom",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "c0b856f45251163b232db6a4989e7e8f0efc7932"
+                    "reference": "476be23407061abc503094b9ca9a8c01fc6a1f3d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/c0b856f45251163b232db6a4989e7e8f0efc7932",
-                    "reference": "c0b856f45251163b232db6a4989e7e8f0efc7932",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/476be23407061abc503094b9ca9a8c01fc6a1f3d",
+                    "reference": "476be23407061abc503094b9ca9a8c01fc6a1f3d",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,53 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2021-02-03T13:51:56+00:00",
+                "time": "2022-11-29T16:29:28+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\CategoryDescriptionBottom\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Description Bottom field",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CategoryDescriptionBottom",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/develop",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
+                }
+            },
+            {
+                "name": "b2bzanden/categorydescriptionbottom",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
+                    "reference": "d34c2ddf90c7474700f4c8b66149938ce8dc3282"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/d34c2ddf90c7474700f4c8b66149938ce8dc3282",
+                    "reference": "d34c2ddf90c7474700f4c8b66149938ce8dc3282",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2022-11-29T16:29:28+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -44,7 +90,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/1.0.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/1.1.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
                 }
             }
