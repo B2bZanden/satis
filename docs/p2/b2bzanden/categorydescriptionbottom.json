@@ -137,6 +137,52 @@
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/1.1.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
                 }
+            },
+            {
+                "name": "b2bzanden/categorydescriptionbottom",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
+                    "reference": "ab93f1681ac14c2b77dee84cef672e364e5df3d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/ab93f1681ac14c2b77dee84cef672e364e5df3d9",
+                    "reference": "ab93f1681ac14c2b77dee84cef672e364e5df3d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2022-12-05T11:41:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\CategoryDescriptionBottom\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Description Bottom field",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CategoryDescriptionBottom",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/1.2.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
+                }
             }
         ]
     }

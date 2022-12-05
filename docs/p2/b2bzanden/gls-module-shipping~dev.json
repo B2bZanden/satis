@@ -45,18 +45,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/GLS_Shipping.git",
-                    "reference": "251b6e96658ee71deec7ef077abdb03d2aef1341"
+                    "reference": "18cdd8905f4115aaec33aee97867baecdb4bbb58"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/251b6e96658ee71deec7ef077abdb03d2aef1341",
-                    "reference": "251b6e96658ee71deec7ef077abdb03d2aef1341",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/18cdd8905f4115aaec33aee97867baecdb4bbb58",
+                    "reference": "18cdd8905f4115aaec33aee97867baecdb4bbb58",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": ">=101.0"
                 },
-                "time": "2022-11-14T14:09:52+00:00",
+                "time": "2022-11-30T13:05:10+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -72,7 +72,7 @@
                 ],
                 "description": "Forked GLS shipping module",
                 "support": {
-                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/3.0.36.1",
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/main",
                     "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
                 }
             },

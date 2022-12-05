@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "476be23407061abc503094b9ca9a8c01fc6a1f3d"
+                    "reference": "ff6fd4b8fd40e0348622ed3e558fd2ad80040428"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/476be23407061abc503094b9ca9a8c01fc6a1f3d",
-                    "reference": "476be23407061abc503094b9ca9a8c01fc6a1f3d",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/ff6fd4b8fd40e0348622ed3e558fd2ad80040428",
+                    "reference": "ff6fd4b8fd40e0348622ed3e558fd2ad80040428",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2022-11-29T16:29:28+00:00",
+                "time": "2022-12-05T11:41:47+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -54,12 +54,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "d34c2ddf90c7474700f4c8b66149938ce8dc3282"
+                    "reference": "ab93f1681ac14c2b77dee84cef672e364e5df3d9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/d34c2ddf90c7474700f4c8b66149938ce8dc3282",
-                    "reference": "d34c2ddf90c7474700f4c8b66149938ce8dc3282",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/ab93f1681ac14c2b77dee84cef672e364e5df3d9",
+                    "reference": "ab93f1681ac14c2b77dee84cef672e364e5df3d9",
                     "shasum": ""
                 },
                 "require": {
@@ -69,7 +69,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2022-11-29T16:29:28+00:00",
+                "time": "2022-12-05T11:41:47+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -90,7 +90,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/1.1.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/1.2.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
                 }
             }
