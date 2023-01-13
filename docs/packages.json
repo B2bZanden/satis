@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$2db7509579fd5c46eb8ac445e1000cb9a3b36947.json": {
-            "sha1": "2db7509579fd5c46eb8ac445e1000cb9a3b36947"
+        "include/all$10457943f960fdd752db4772f586fb68943df64c.json": {
+            "sha1": "10457943f960fdd752db4772f586fb68943df64c"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -53,10 +53,10 @@
         "b2bzanden/mageplaza-module-search",
         "b2bzanden/mageplaza-module-shipping-restriction",
         "b2bzanden/mageplaza-module-smtp",
-        "b2bzanden/magmodules-magento2-channable",
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
         "b2bzanden/tig-gls-magento2",
-        "b2bzanden/tig-postnl-magento2"
+        "b2bzanden/tig-postnl-magento2",
+        "solvatech/magmodules-magento2-channable"
     ]
 }
