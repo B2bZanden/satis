@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "mageplaza/magento-2-product-slider": [
+            {
+                "name": "mageplaza/magento-2-product-slider",
+                "version": "4.0.2.1",
+                "version_normalized": "4.0.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Magento-2-Product-Slider.git",
+                    "reference": "63ad45ab3f970ed8117f6f2511d7cb1e4172e41b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Magento-2-Product-Slider/zipball/63ad45ab3f970ed8117f6f2511d7cb1e4172e41b",
+                    "reference": "63ad45ab3f970ed8117f6f2511d7cb1e4172e41b",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.5"
+                },
+                "time": "2022-11-04T11:06:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Productslider\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Product Slider",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider/tree/4.0.2.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider/issues"
+                }
+            }
+        ]
+    }
+}

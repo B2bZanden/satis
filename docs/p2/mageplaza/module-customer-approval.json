@@ -45,6 +45,51 @@
                     "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/4.0.5.1",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
                 }
+            },
+            {
+                "name": "mageplaza/module-customer-approval",
+                "version": "4.0.5.3",
+                "version_normalized": "4.0.5.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
+                    "reference": "d0de959659b39b333dda937c5c5314c02920a017"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/d0de959659b39b333dda937c5c5314c02920a017",
+                    "reference": "d0de959659b39b333dda937c5c5314c02920a017",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.12"
+                },
+                "time": "2023-03-24T12:15:23+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\CustomerApproval\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Customer Approval Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/4.0.5.3",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                }
             }
         ]
     }

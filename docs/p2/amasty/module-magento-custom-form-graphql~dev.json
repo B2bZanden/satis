@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "amasty/module-magento-custom-form-graphql": [
+            {
+                "name": "amasty/module-magento-custom-form-graphql",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form-graphql.git",
+                    "reference": "2ea1b303d43d1b53dc8002dad83c1402ec8154a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form-graphql/zipball/2ea1b303d43d1b53dc8002dad83c1402ec8154a3",
+                    "reference": "2ea1b303d43d1b53dc8002dad83c1402ec8154a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.2",
+                    "amasty/module-magento-custom-form": ">=1.17.3",
+                    "php": ">=7.3"
+                },
+                "time": "2023-03-24T11:44:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CustomformGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Custom Form Graphql by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/tree/develop",
+                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/issues"
+                }
+            },
+            {
+                "name": "amasty/module-magento-custom-form-graphql",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form-graphql.git",
+                    "reference": "67f37b325042f50c56806d9470719142e1c6b683"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form-graphql/zipball/67f37b325042f50c56806d9470719142e1c6b683",
+                    "reference": "67f37b325042f50c56806d9470719142e1c6b683",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.2",
+                    "amasty/module-magento-custom-form": ">=1.17.3",
+                    "php": ">=7.3"
+                },
+                "time": "2023-03-24T11:44:55+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CustomformGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Custom Form Graphql by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/tree/1.0.4.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/issues"
+                }
+            }
+        ]
+    }
+}

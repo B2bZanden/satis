@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "amasty/module-image-optimizer": [
+            {
+                "name": "amasty/module-image-optimizer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git",
+                    "reference": "c220203c8712b66922715d17fadaa408b61f61b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/c220203c8712b66922715d17fadaa408b61f61b9",
+                    "reference": "c220203c8712b66922715d17fadaa408b61f61b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.3",
+                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "php": ">=7.3"
+                },
+                "time": "2023-03-24T11:49:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Image Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/develop",
+                    "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
+                }
+            },
+            {
+                "name": "amasty/module-image-optimizer",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git",
+                    "reference": "aef3eb5c372a3c45d2fd02527f541c73a277dce0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/aef3eb5c372a3c45d2fd02527f541c73a277dce0",
+                    "reference": "aef3eb5c372a3c45d2fd02527f541c73a277dce0",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.3",
+                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "php": ">=7.3"
+                },
+                "time": "2023-03-24T11:49:57+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Image Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/1.1.5.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
+                }
+            }
+        ]
+    }
+}

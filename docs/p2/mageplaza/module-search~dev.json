@@ -1,32 +1,32 @@
 {
     "packages": {
-        "mageplaza/module-customer-approval": [
+        "mageplaza/module-search": [
             {
-                "name": "mageplaza/module-customer-approval",
+                "name": "mageplaza/module-search",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
-                    "reference": "a33ba6d3a183f882cf95b98603c3828c5d0d14bc"
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Search.git",
+                    "reference": "2e29f38d0d4925d146b778910f3c86c6e54f1e62"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/a33ba6d3a183f882cf95b98603c3828c5d0d14bc",
-                    "reference": "a33ba6d3a183f882cf95b98603c3828c5d0d14bc",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Search/zipball/2e29f38d0d4925d146b778910f3c86c6e54f1e62",
+                    "reference": "2e29f38d0d4925d146b778910f3c86c6e54f1e62",
                     "shasum": ""
                 },
                 "require": {
-                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                    "mageplaza/module-core": "^1.4.12"
                 },
-                "time": "2022-11-04T11:33:46+00:00",
+                "time": "2023-03-24T12:13:02+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\CustomerApproval\\": ""
+                        "Mageplaza\\Search\\": ""
                     }
                 },
                 "license": [
@@ -40,31 +40,31 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 Customer Approval Extension",
+                "description": "Magento 2 Search extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/develop",
-                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Search/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Search/issues"
                 }
             },
             {
-                "name": "mageplaza/module-customer-approval",
+                "name": "mageplaza/module-search",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
-                    "reference": "d0de959659b39b333dda937c5c5314c02920a017"
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Search.git",
+                    "reference": "5d21d9669fb6b4a52a62f95dc454eb2363f1733e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/d0de959659b39b333dda937c5c5314c02920a017",
-                    "reference": "d0de959659b39b333dda937c5c5314c02920a017",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Search/zipball/5d21d9669fb6b4a52a62f95dc454eb2363f1733e",
+                    "reference": "5d21d9669fb6b4a52a62f95dc454eb2363f1733e",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.12"
                 },
-                "time": "2023-03-24T12:15:23+00:00",
+                "time": "2023-03-24T12:13:12+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -72,7 +72,7 @@
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\CustomerApproval\\": ""
+                        "Mageplaza\\Search\\": ""
                     }
                 },
                 "license": [
@@ -86,10 +86,10 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 Customer Approval Extension",
+                "description": "Magento 2 Search extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/4.0.5.3",
-                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Search/tree/4.0.5.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Search/issues"
                 }
             }
         ]

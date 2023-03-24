@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "amasty/shopby-seo": [
+            {
+                "name": "amasty/shopby-seo",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
+                    "reference": "5971748466974de7c1de0911119269c341ce1f5a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/5971748466974de7c1de0911119269c341ce1f5a",
+                    "reference": "5971748466974de7c1de0911119269c341ce1f5a",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.0.1",
+                    "amasty/module-shop-by-base": ">=2.15.6",
+                    "php": ">=7.3.0"
+                },
+                "time": "2023-03-24T11:39:39+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbySeo\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Improved Layered Navigation by Amasty - SEO sub-module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/develop",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby-seo/issues"
+                }
+            },
+            {
+                "name": "amasty/shopby-seo",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
+                    "reference": "8fbcfdd6f7c5134096936d3060fafb2e57b30169"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/8fbcfdd6f7c5134096936d3060fafb2e57b30169",
+                    "reference": "8fbcfdd6f7c5134096936d3060fafb2e57b30169",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.0.1",
+                    "amasty/module-shop-by-base": ">=2.15.6",
+                    "php": ">=7.3.0"
+                },
+                "time": "2023-03-24T11:40:41+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbySeo\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Improved Layered Navigation by Amasty - SEO sub-module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/2.13.1.2",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby-seo/issues"
+                }
+            }
+        ]
+    }
+}

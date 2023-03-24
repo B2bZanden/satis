@@ -1,0 +1,96 @@
+{
+    "packages": {
+        "mageplaza/module-payment-restriction": [
+            {
+                "name": "mageplaza/module-payment-restriction",
+                "version": "4.0.2.1",
+                "version_normalized": "4.0.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb",
+                    "reference": "fc119b53ea40a2c6957125a448ffd3dc4e7b2ceb",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/mageplaza-module-core": "^1.4.5"
+                },
+                "time": "2022-11-04T11:42:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\PaymentRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Payment Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.2.1",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
+                }
+            },
+            {
+                "name": "mageplaza/module-payment-restriction",
+                "version": "4.0.2.2",
+                "version_normalized": "4.0.2.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "d571b9b5ba2277b4de6e25f89f27ac97ca6d9b9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/d571b9b5ba2277b4de6e25f89f27ac97ca6d9b9c",
+                    "reference": "d571b9b5ba2277b4de6e25f89f27ac97ca6d9b9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2023-03-24T12:12:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\PaymentRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Payment Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.2.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "packages": {
+        "amasty/module-mage24fix": [
+            {
+                "name": "amasty/module-mage24fix",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-mage24fix.git",
+                    "reference": "ee107cb05ae156e503da4f1ccab9371bad9b7e6c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-mage24fix/zipball/ee107cb05ae156e503da4f1ccab9371bad9b7e6c",
+                    "reference": "ee107cb05ae156e503da4f1ccab9371bad9b7e6c",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.3",
+                    "php": ">=7.3.0"
+                },
+                "time": "2023-03-24T11:46:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Mage24Fix\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Fix for Magento 2.4.0 by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-mage24fix/tree/develop",
+                    "issues": "https://github.com/B2bZanden/amasty-module-mage24fix/issues"
+                }
+            },
+            {
+                "name": "amasty/module-mage24fix",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-mage24fix.git",
+                    "reference": "9b1936f33268b3e402921b6d0f0f89d6446e5ad1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-mage24fix/zipball/9b1936f33268b3e402921b6d0f0f89d6446e5ad1",
+                    "reference": "9b1936f33268b3e402921b6d0f0f89d6446e5ad1",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.3",
+                    "php": ">=7.3.0"
+                },
+                "time": "2023-03-24T11:46:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Mage24Fix\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Fix for Magento 2.4.0 by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-mage24fix/tree/1.0.7.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-mage24fix/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,32 +1,32 @@
 {
     "packages": {
-        "mageplaza/module-customer-approval": [
+        "mageplaza/module-edit-order": [
             {
-                "name": "mageplaza/module-customer-approval",
+                "name": "mageplaza/module-edit-order",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
-                    "reference": "a33ba6d3a183f882cf95b98603c3828c5d0d14bc"
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
+                    "reference": "7265f2d33c0620072e0cd73c41e663aec87a2afe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/a33ba6d3a183f882cf95b98603c3828c5d0d14bc",
-                    "reference": "a33ba6d3a183f882cf95b98603c3828c5d0d14bc",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/7265f2d33c0620072e0cd73c41e663aec87a2afe",
+                    "reference": "7265f2d33c0620072e0cd73c41e663aec87a2afe",
                     "shasum": ""
                 },
                 "require": {
-                    "b2bzanden/mageplaza-module-core": "^1.4.12"
+                    "mageplaza/module-core": "^1.4.12"
                 },
-                "time": "2022-11-04T11:33:46+00:00",
+                "time": "2023-03-24T12:14:27+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\CustomerApproval\\": ""
+                        "Mageplaza\\EditOrder\\": ""
                     }
                 },
                 "license": [
@@ -40,31 +40,31 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 Customer Approval Extension",
+                "description": "Magento 2 Edit Order Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/develop",
-                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
                 }
             },
             {
-                "name": "mageplaza/module-customer-approval",
+                "name": "mageplaza/module-edit-order",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Customer-Approval.git",
-                    "reference": "d0de959659b39b333dda937c5c5314c02920a017"
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
+                    "reference": "059eb50b63a9b56b8869b3720b5f3b8e5aebffde"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Customer-Approval/zipball/d0de959659b39b333dda937c5c5314c02920a017",
-                    "reference": "d0de959659b39b333dda937c5c5314c02920a017",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/059eb50b63a9b56b8869b3720b5f3b8e5aebffde",
+                    "reference": "059eb50b63a9b56b8869b3720b5f3b8e5aebffde",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.4.12"
                 },
-                "time": "2023-03-24T12:15:23+00:00",
+                "time": "2023-03-24T12:14:47+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -72,7 +72,7 @@
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\CustomerApproval\\": ""
+                        "Mageplaza\\EditOrder\\": ""
                     }
                 },
                 "license": [
@@ -86,10 +86,10 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 Customer Approval Extension",
+                "description": "Magento 2 Edit Order Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/tree/4.0.5.3",
-                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval/issues"
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/4.2.2.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
                 }
             }
         ]

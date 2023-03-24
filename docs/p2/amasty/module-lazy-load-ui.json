@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "amasty/module-lazy-load-ui": [
+            {
+                "name": "amasty/module-lazy-load-ui",
+                "version": "1.0.1.1",
+                "version_normalized": "1.0.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git",
+                    "reference": "6a2a9f8ac299a770b32415933857d6e10241f45f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/6a2a9f8ac299a770b32415933857d6e10241f45f",
+                    "reference": "6a2a9f8ac299a770b32415933857d6e10241f45f",
+                    "shasum": ""
+                },
+                "require": {
+                    "b2bzanden/amasty-base": ">=1.13.3",
+                    "b2bzanden/amasty-module-lazy-load": ">=1.1.5",
+                    "php": ">=7.3"
+                },
+                "time": "2022-08-03T11:29:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\LazyLoadUi\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Lazy Load Admin Ui by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/tree/1.0.1.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/issues"
+                }
+            },
+            {
+                "name": "amasty/module-lazy-load-ui",
+                "version": "1.0.1.2",
+                "version_normalized": "1.0.1.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git",
+                    "reference": "b0c1f941c22bfd7471e0c0cf08565a9aaf986544"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/b0c1f941c22bfd7471e0c0cf08565a9aaf986544",
+                    "reference": "b0c1f941c22bfd7471e0c0cf08565a9aaf986544",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.13.3",
+                    "amasty/module-lazy-load": ">=1.1.5",
+                    "php": ">=7.3"
+                },
+                "time": "2023-03-24T11:46:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\LazyLoadUi\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Lazy Load Admin Ui by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/tree/1.0.1.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/issues"
+                }
+            }
+        ]
+    }
+}

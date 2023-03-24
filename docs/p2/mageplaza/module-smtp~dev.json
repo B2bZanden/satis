@@ -1,0 +1,137 @@
+{
+    "packages": {
+        "mageplaza/module-smtp": [
+            {
+                "name": "mageplaza/module-smtp",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Smtp.git",
+                    "reference": "03bd9ded403ed20260b52422afa3a7cb4332ef14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Smtp/zipball/03bd9ded403ed20260b52422afa3a7cb4332ef14",
+                    "reference": "03bd9ded403ed20260b52422afa3a7cb4332ef14",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.12"
+                },
+                "time": "2023-03-24T12:11:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Smtp\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "SMTP Extension for Magento 2 helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers",
+                "keywords": [
+                    "email",
+                    "email marketing",
+                    "email settings",
+                    "facebook",
+                    "facebook ads",
+                    "gmail smtp",
+                    "google ads",
+                    "magento 2",
+                    "magento 2 smtp",
+                    "magento smtp",
+                    "mageplaza",
+                    "marketing automation",
+                    "messenger",
+                    "sms",
+                    "sms marketing",
+                    "smtp",
+                    "web push notification",
+                    "whatsapp"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Smtp/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Smtp/issues"
+                }
+            },
+            {
+                "name": "mageplaza/module-smtp",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Smtp.git",
+                    "reference": "8860a1c68c47ae6f25ef5a5040565f5059d6b794"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Smtp/zipball/8860a1c68c47ae6f25ef5a5040565f5059d6b794",
+                    "reference": "8860a1c68c47ae6f25ef5a5040565f5059d6b794",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.12"
+                },
+                "time": "2023-03-24T12:12:06+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Smtp\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "SMTP Extension for Magento 2 helps the owner of store simply install SMTP (Simple Mail Transfer Protocol) server which transmits the messages into codes or numbers",
+                "keywords": [
+                    "email",
+                    "email marketing",
+                    "email settings",
+                    "facebook",
+                    "facebook ads",
+                    "gmail smtp",
+                    "google ads",
+                    "magento 2",
+                    "magento 2 smtp",
+                    "magento smtp",
+                    "mageplaza",
+                    "marketing automation",
+                    "messenger",
+                    "sms",
+                    "sms marketing",
+                    "smtp",
+                    "web push notification",
+                    "whatsapp"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Smtp/tree/4.7.3.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Smtp/issues"
+                }
+            }
+        ]
+    }
+}
