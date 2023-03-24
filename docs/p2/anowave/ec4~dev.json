@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Anowave_M2_EC4.git",
-                    "reference": "e8a9d86cd1de78ef8d6ef36a1d85d776f53341bf"
+                    "reference": "9bc47b070975ea8ae2920f464b1eb49e62935e58"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC4/zipball/e8a9d86cd1de78ef8d6ef36a1d85d776f53341bf",
-                    "reference": "e8a9d86cd1de78ef8d6ef36a1d85d776f53341bf",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC4/zipball/9bc47b070975ea8ae2920f464b1eb49e62935e58",
+                    "reference": "9bc47b070975ea8ae2920f464b1eb49e62935e58",
                     "shasum": ""
                 },
                 "require": {
-                    "anowave/ec": ">=100.5.8",
+                    "anowave/ec": ">=100.5.9",
                     "anowave/package": ">0.0.0",
                     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
                 },
-                "time": "2023-03-24T13:57:30+00:00",
+                "time": "2023-03-24T14:01:12+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -53,20 +53,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Anowave_M2_EC4.git",
-                    "reference": "966bd0b444451b47519fe9246b7259ba8ec599a3"
+                    "reference": "eca559e66e67f0344d649e6759232952ab695fd5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC4/zipball/966bd0b444451b47519fe9246b7259ba8ec599a3",
-                    "reference": "966bd0b444451b47519fe9246b7259ba8ec599a3",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC4/zipball/eca559e66e67f0344d649e6759232952ab695fd5",
+                    "reference": "eca559e66e67f0344d649e6759232952ab695fd5",
                     "shasum": ""
                 },
                 "require": {
-                    "anowave/ec": ">=100.5.8",
+                    "anowave/ec": ">=100.5.9",
                     "anowave/package": ">0.0.0",
                     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
                 },
-                "time": "2023-03-24T13:57:30+00:00",
+                "time": "2023-03-24T14:01:34+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -88,7 +88,7 @@
                 "description": "Magento 2 Google Tag Manager Enhanced Ecommerce (UA) Tracking (GA4)",
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/B2bZanden/Anowave_M2_EC4/tree/100.4.4.2",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_EC4/tree/100.7.3",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_EC4/issues"
                 }
             }
