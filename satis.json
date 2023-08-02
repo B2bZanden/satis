@@ -169,6 +169,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider"
     },
     {

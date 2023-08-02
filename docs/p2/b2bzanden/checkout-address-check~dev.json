@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutAddressCheck.git",
-                    "reference": "6eeb8f2e5860a98aaa3c597b8010f8203401086b"
+                    "reference": "c2cc858290b2867d9eb74e8ee8291ded6d78c0f2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/6eeb8f2e5860a98aaa3c597b8010f8203401086b",
-                    "reference": "6eeb8f2e5860a98aaa3c597b8010f8203401086b",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/c2cc858290b2867d9eb74e8ee8291ded6d78c0f2",
+                    "reference": "c2cc858290b2867d9eb74e8ee8291ded6d78c0f2",
                     "shasum": ""
                 },
                 "require": {
-                    "magento/framework": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/framework": "*",
                     "magento/module-backend": "*",
-                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4"
+                    "php": ">=7.1.0"
                 },
-                "time": "2022-10-10T12:27:57+00:00",
+                "time": "2023-08-02T11:09:03+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -55,20 +55,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutAddressCheck.git",
-                    "reference": "0d779c36ea09f8344f5ccdf342e5c9befc8006e8"
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/0d779c36ea09f8344f5ccdf342e5c9befc8006e8",
-                    "reference": "0d779c36ea09f8344f5ccdf342e5c9befc8006e8",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/e9c207fe134f85af103fc79111b9502cc4a30b3a",
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a",
                     "shasum": ""
                 },
                 "require": {
-                    "magento/framework": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/framework": "*",
                     "magento/module-backend": "*",
-                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4"
+                    "php": ">=7.1.0"
                 },
-                "time": "2022-10-10T12:27:57+00:00",
+                "time": "2023-08-02T11:09:04+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -92,7 +92,7 @@
                 "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
                 "homepage": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.3",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/issues"
                 }
             }

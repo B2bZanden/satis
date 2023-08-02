@@ -141,6 +141,53 @@
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.2",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/issues"
                 }
+            },
+            {
+                "name": "b2bzanden/checkout-address-check",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutAddressCheck.git",
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/e9c207fe134f85af103fc79111b9502cc4a30b3a",
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "php": ">=7.1.0"
+                },
+                "time": "2023-08-02T11:09:04+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CheckoutAddressCheck\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lars Damen",
+                        "email": "lars@d1m5n.nl"
+                    }
+                ],
+                "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
+                "homepage": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.3",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/issues"
+                }
             }
         ]
     }

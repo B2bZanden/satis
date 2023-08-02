@@ -5816,6 +5816,53 @@
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/issues"
                 }
             },
+            "1.0.3": {
+                "name": "b2bzanden/checkout-address-check",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutAddressCheck.git",
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/e9c207fe134f85af103fc79111b9502cc4a30b3a",
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "php": ">=7.1.0"
+                },
+                "time": "2023-08-02T11:09:04+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CheckoutAddressCheck\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lars Damen",
+                        "email": "lars@d1m5n.nl"
+                    }
+                ],
+                "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
+                "homepage": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.3",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/issues"
+                }
+            },
             "dev-develop": {
                 "name": "b2bzanden/checkout-address-check",
                 "version": "dev-develop",
@@ -5823,20 +5870,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutAddressCheck.git",
-                    "reference": "6eeb8f2e5860a98aaa3c597b8010f8203401086b"
+                    "reference": "c2cc858290b2867d9eb74e8ee8291ded6d78c0f2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/6eeb8f2e5860a98aaa3c597b8010f8203401086b",
-                    "reference": "6eeb8f2e5860a98aaa3c597b8010f8203401086b",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/c2cc858290b2867d9eb74e8ee8291ded6d78c0f2",
+                    "reference": "c2cc858290b2867d9eb74e8ee8291ded6d78c0f2",
                     "shasum": ""
                 },
                 "require": {
-                    "magento/framework": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/framework": "*",
                     "magento/module-backend": "*",
-                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4"
+                    "php": ">=7.1.0"
                 },
-                "time": "2022-10-10T12:27:57+00:00",
+                "time": "2023-08-02T11:09:03+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -5870,20 +5917,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CheckoutAddressCheck.git",
-                    "reference": "0d779c36ea09f8344f5ccdf342e5c9befc8006e8"
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/0d779c36ea09f8344f5ccdf342e5c9befc8006e8",
-                    "reference": "0d779c36ea09f8344f5ccdf342e5c9befc8006e8",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/zipball/e9c207fe134f85af103fc79111b9502cc4a30b3a",
+                    "reference": "e9c207fe134f85af103fc79111b9502cc4a30b3a",
                     "shasum": ""
                 },
                 "require": {
-                    "magento/framework": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/framework": "*",
                     "magento/module-backend": "*",
-                    "php": "~7.0|~7.1|~7.2|~7.3|~7.4"
+                    "php": ">=7.1.0"
                 },
-                "time": "2022-10-10T12:27:57+00:00",
+                "time": "2023-08-02T11:09:04+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -5907,7 +5954,7 @@
                 "description": "extra address check due to Chrome ignoring autocomplete off in checkout",
                 "homepage": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/tree/1.0.3",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck/issues"
                 }
             }
@@ -7925,18 +7972,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git",
-                    "reference": "656d7db3b29b6e4d57e729c5f66ba2c3e98b73e2"
+                    "reference": "fa4b3ad4686aace6cdaea83a44e91d746498bbf3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/656d7db3b29b6e4d57e729c5f66ba2c3e98b73e2",
-                    "reference": "656d7db3b29b6e4d57e729c5f66ba2c3e98b73e2",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/fa4b3ad4686aace6cdaea83a44e91d746498bbf3",
+                    "reference": "fa4b3ad4686aace6cdaea83a44e91d746498bbf3",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2022-11-03T15:02:50+00:00",
+                "time": "2023-03-31T12:33:42+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -10625,6 +10672,141 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/master"
+                }
+            }
+        },
+        "deved/magento2-disable-customer-registration": {
+            "2.1.6.1": {
+                "name": "deved/magento2-disable-customer-registration",
+                "version": "2.1.6.1",
+                "version_normalized": "2.1.6.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
+                    "reference": "acad59bc888a806ae23ca5442fb5fb15da12646c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/acad59bc888a806ae23ca5442fb5fb15da12646c",
+                    "reference": "acad59bc888a806ae23ca5442fb5fb15da12646c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "~100.0|~101.0|~102.0|~103.0",
+                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0",
+                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                },
+                "time": "2023-08-02T11:16:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Deved\\DisableRegistration\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Disable Customer Registration",
+                "support": {
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/v2.1.6.1"
+                }
+            },
+            "dev-develop": {
+                "name": "deved/magento2-disable-customer-registration",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
+                    "reference": "f5906b28aa88b905e8e448a6b0ddb1ae3da8470e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/f5906b28aa88b905e8e448a6b0ddb1ae3da8470e",
+                    "reference": "f5906b28aa88b905e8e448a6b0ddb1ae3da8470e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "~100.0|~101.0|~102.0|~103.0",
+                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0",
+                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                },
+                "time": "2023-08-02T11:16:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Deved\\DisableRegistration\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Disable Customer Registration",
+                "support": {
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/develop"
+                }
+            },
+            "dev-master": {
+                "name": "deved/magento2-disable-customer-registration",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
+                    "reference": "acad59bc888a806ae23ca5442fb5fb15da12646c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/acad59bc888a806ae23ca5442fb5fb15da12646c",
+                    "reference": "acad59bc888a806ae23ca5442fb5fb15da12646c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "~100.0|~101.0|~102.0|~103.0",
+                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0",
+                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                },
+                "time": "2023-08-02T11:16:03+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Deved\\DisableRegistration\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Disable Customer Registration",
+                "support": {
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/v2.1.6.1"
                 }
             }
         },

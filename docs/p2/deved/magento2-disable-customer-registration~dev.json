@@ -1,0 +1,95 @@
+{
+    "packages": {
+        "deved/magento2-disable-customer-registration": [
+            {
+                "name": "deved/magento2-disable-customer-registration",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
+                    "reference": "f5906b28aa88b905e8e448a6b0ddb1ae3da8470e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/f5906b28aa88b905e8e448a6b0ddb1ae3da8470e",
+                    "reference": "f5906b28aa88b905e8e448a6b0ddb1ae3da8470e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "~100.0|~101.0|~102.0|~103.0",
+                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0",
+                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                },
+                "time": "2023-08-02T11:16:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Deved\\DisableRegistration\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Disable Customer Registration",
+                "support": {
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/develop"
+                }
+            },
+            {
+                "name": "deved/magento2-disable-customer-registration",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
+                    "reference": "acad59bc888a806ae23ca5442fb5fb15da12646c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/acad59bc888a806ae23ca5442fb5fb15da12646c",
+                    "reference": "acad59bc888a806ae23ca5442fb5fb15da12646c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "~100.0|~101.0|~102.0|~103.0",
+                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0",
+                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                },
+                "time": "2023-08-02T11:16:03+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Deved\\DisableRegistration\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Disable Customer Registration",
+                "support": {
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/v2.1.6.1"
+                }
+            }
+        ]
+    }
+}
