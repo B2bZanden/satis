@@ -6413,6 +6413,162 @@
                 }
             }
         },
+        "b2bzanden/conneqtcheckprice": {
+            "1.0.0": {
+                "name": "b2bzanden/conneqtcheckprice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ConneqtCheckPrice.git",
+                    "reference": "fd4c7748eac0e1554b0248d53b8f365c58140718"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/zipball/fd4c7748eac0e1554b0248d53b8f365c58140718",
+                    "reference": "fd4c7748eac0e1554b0248d53b8f365c58140718",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2023-09-22T13:39:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ConneqtCheckPrice\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    }
+                ],
+                "description": "checks a unit4 / conneqt price for a customer (if available)",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/conneqtcheckprice",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ConneqtCheckPrice.git",
+                    "reference": "fd4c7748eac0e1554b0248d53b8f365c58140718"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/zipball/fd4c7748eac0e1554b0248d53b8f365c58140718",
+                    "reference": "fd4c7748eac0e1554b0248d53b8f365c58140718",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2023-09-22T13:39:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ConneqtCheckPrice\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    }
+                ],
+                "description": "checks a unit4 / conneqt price for a customer (if available)",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/issues"
+                }
+            },
+            "dev-master": {
+                "name": "b2bzanden/conneqtcheckprice",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ConneqtCheckPrice.git",
+                    "reference": "fd4c7748eac0e1554b0248d53b8f365c58140718"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/zipball/fd4c7748eac0e1554b0248d53b8f365c58140718",
+                    "reference": "fd4c7748eac0e1554b0248d53b8f365c58140718",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2023-09-22T13:39:38+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ConneqtCheckPrice\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    }
+                ],
+                "description": "checks a unit4 / conneqt price for a customer (if available)",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/issues"
+                }
+            }
+        },
         "b2bzanden/customstockstatus": {
             "0.2.0": {
                 "name": "b2bzanden/customstockstatus",

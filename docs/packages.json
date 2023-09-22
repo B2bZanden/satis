@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b1cefe32c729f253e539f42f252483efa5435877.json": {
-            "sha1": "b1cefe32c729f253e539f42f252483efa5435877"
+        "include/all$9028e7da44489253d1490ac9c58f45fa9afe5760.json": {
+            "sha1": "9028e7da44489253d1490ac9c58f45fa9afe5760"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -40,6 +40,7 @@
         "b2bzanden/checkout-address-check",
         "b2bzanden/checkoutcmsblock",
         "b2bzanden/conneqt-m2-specialprices",
+        "b2bzanden/conneqtcheckprice",
         "b2bzanden/customstockstatus",
         "b2bzanden/fastorder",
         "b2bzanden/fixpart",
