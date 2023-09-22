@@ -137,6 +137,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus"
     },
     {
@@ -173,7 +177,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider"
+      "url": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider",
     },
     {
       "type": "vcs",
