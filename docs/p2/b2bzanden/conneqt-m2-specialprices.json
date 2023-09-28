@@ -94,6 +94,53 @@
                     "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
                     "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.55"
                 }
+            },
+            {
+                "name": "b2bzanden/conneqt-m2-specialprices",
+                "version": "1.0.25.1",
+                "version_normalized": "1.0.25.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "03f2b275e69f09a70b85baea4185454c10a9c14b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/03f2b275e69f09a70b85baea4185454c10a9c14b",
+                    "reference": "03f2b275e69f09a70b85baea4185454c10a9c14b",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-09-28T20:12:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.25.1"
+                }
             }
         ]
     }
