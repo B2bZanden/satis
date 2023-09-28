@@ -6222,197 +6222,6 @@
                 }
             }
         },
-        "b2bzanden/conneqt-m2-specialprices": {
-            "1.0.15.54": {
-                "name": "b2bzanden/conneqt-m2-specialprices",
-                "version": "1.0.15.54",
-                "version_normalized": "1.0.15.54",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
-                    "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/2400aa1620e93549411ea678fbea9fec5979ca9f",
-                    "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f",
-                    "shasum": ""
-                },
-                "require": {
-                    "conneqt/m2-base": ">=1.0",
-                    "magento/framework": ">=101.0.0"
-                },
-                "time": "2021-09-15T06:31:17+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Conneqt\\SpecialPrices\\": ""
-                    }
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Conneqt",
-                        "email": "hello@conneqt.io",
-                        "homepage": "https://www.conneqt.io"
-                    }
-                ],
-                "description": "Conneqt Special Prices Module for Magento 2",
-                "homepage": "https://www.conneqt.io",
-                "support": {
-                    "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
-                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.54"
-                }
-            },
-            "1.0.15.55": {
-                "name": "b2bzanden/conneqt-m2-specialprices",
-                "version": "1.0.15.55",
-                "version_normalized": "1.0.15.55",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
-                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
-                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
-                    "shasum": ""
-                },
-                "require": {
-                    "conneqt/m2-base": ">=1.0",
-                    "magento/framework": ">=101.0.0"
-                },
-                "time": "2021-09-15T11:26:32+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Conneqt\\SpecialPrices\\": ""
-                    }
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Conneqt",
-                        "email": "hello@conneqt.io",
-                        "homepage": "https://www.conneqt.io"
-                    }
-                ],
-                "description": "Conneqt Special Prices Module for Magento 2",
-                "homepage": "https://www.conneqt.io",
-                "support": {
-                    "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
-                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.55"
-                }
-            },
-            "dev-main": {
-                "name": "b2bzanden/conneqt-m2-specialprices",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
-                    "reference": "43b367788d2410e26a454f77a9469e38619de565"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/43b367788d2410e26a454f77a9469e38619de565",
-                    "reference": "43b367788d2410e26a454f77a9469e38619de565",
-                    "shasum": ""
-                },
-                "require": {
-                    "conneqt/m2-base": ">=1.0",
-                    "magento/framework": ">=101.0.0"
-                },
-                "time": "2022-07-06T08:14:17+00:00",
-                "default-branch": true,
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Conneqt\\SpecialPrices\\": ""
-                    }
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Conneqt",
-                        "email": "hello@conneqt.io",
-                        "homepage": "https://www.conneqt.io"
-                    }
-                ],
-                "description": "Conneqt Special Prices Module for Magento 2",
-                "homepage": "https://www.conneqt.io",
-                "support": {
-                    "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
-                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/main"
-                }
-            },
-            "dev-master": {
-                "name": "b2bzanden/conneqt-m2-specialprices",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
-                    "reference": "185b281a95d626ac4510a5a1ed7e577f2d503954"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/185b281a95d626ac4510a5a1ed7e577f2d503954",
-                    "reference": "185b281a95d626ac4510a5a1ed7e577f2d503954",
-                    "shasum": ""
-                },
-                "require": {
-                    "conneqt/m2-base": ">=1.0",
-                    "magento/framework": ">=101.0.0"
-                },
-                "time": "2021-09-14T10:54:50+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Conneqt\\SpecialPrices\\": ""
-                    }
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Conneqt",
-                        "email": "hello@conneqt.io",
-                        "homepage": "https://www.conneqt.io"
-                    }
-                ],
-                "description": "Conneqt Special Prices Module for Magento 2",
-                "homepage": "https://www.conneqt.io",
-                "support": {
-                    "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
-                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/master"
-                }
-            }
-        },
         "b2bzanden/conneqtcheckprice": {
             "1.0.0": {
                 "name": "b2bzanden/conneqtcheckprice",
@@ -10925,6 +10734,291 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/master"
+                }
+            }
+        },
+        "conneqt/m2-specialprices": {
+            "1.0.15.54": {
+                "name": "conneqt/m2-specialprices",
+                "version": "1.0.15.54",
+                "version_normalized": "1.0.15.54",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/2400aa1620e93549411ea678fbea9fec5979ca9f",
+                    "reference": "2400aa1620e93549411ea678fbea9fec5979ca9f",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2021-09-15T06:31:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.54"
+                }
+            },
+            "1.0.15.55": {
+                "name": "conneqt/m2-specialprices",
+                "version": "1.0.15.55",
+                "version_normalized": "1.0.15.55",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
+                    "reference": "e2a2abb02f4bbbcfbacc6a23eb2b927c341d7005",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2021-09-15T11:26:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.15.55"
+                }
+            },
+            "1.0.25.1": {
+                "name": "conneqt/m2-specialprices",
+                "version": "1.0.25.1",
+                "version_normalized": "1.0.25.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "03f2b275e69f09a70b85baea4185454c10a9c14b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/03f2b275e69f09a70b85baea4185454c10a9c14b",
+                    "reference": "03f2b275e69f09a70b85baea4185454c10a9c14b",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-09-28T20:12:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.25.1"
+                }
+            },
+            "dev-develop": {
+                "name": "conneqt/m2-specialprices",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "75d1fadf4ef564a3cc74177eb80c1ec22c65a9f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/75d1fadf4ef564a3cc74177eb80c1ec22c65a9f4",
+                    "reference": "75d1fadf4ef564a3cc74177eb80c1ec22c65a9f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-09-28T20:12:06+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/develop"
+                }
+            },
+            "dev-main": {
+                "name": "conneqt/m2-specialprices",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "03f2b275e69f09a70b85baea4185454c10a9c14b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/03f2b275e69f09a70b85baea4185454c10a9c14b",
+                    "reference": "03f2b275e69f09a70b85baea4185454c10a9c14b",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-09-28T20:12:07+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/1.0.25.1"
+                }
+            },
+            "dev-master": {
+                "name": "conneqt/m2-specialprices",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/conneqt-m2-specialprices.git",
+                    "reference": "185b281a95d626ac4510a5a1ed7e577f2d503954"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices/zipball/185b281a95d626ac4510a5a1ed7e577f2d503954",
+                    "reference": "185b281a95d626ac4510a5a1ed7e577f2d503954",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": ">=1.0",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2021-09-14T10:54:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Special Prices Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices/tree/master"
                 }
             }
         },

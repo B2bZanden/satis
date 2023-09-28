@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$953e6c3a31becd95c4c92afd0f1003516ce3d305.json": {
-            "sha1": "953e6c3a31becd95c4c92afd0f1003516ce3d305"
+        "include/all$20c9728785259e40f69560f69b28d36245c709bc.json": {
+            "sha1": "20c9728785259e40f69560f69b28d36245c709bc"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -39,7 +39,6 @@
         "b2bzanden/changecategorytitle",
         "b2bzanden/checkout-address-check",
         "b2bzanden/checkoutcmsblock",
-        "b2bzanden/conneqt-m2-specialprices",
         "b2bzanden/conneqtcheckprice",
         "b2bzanden/customstockstatus",
         "b2bzanden/fastorder",
@@ -48,6 +47,7 @@
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
         "b2bzanden/tig-gls-magento2",
+        "conneqt/m2-specialprices",
         "deved/magento2-disable-customer-registration",
         "gls/module-shipping",
         "mageplaza/magento-2-product-slider",
