@@ -7,8 +7,14 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices-unit4.git",
                     "reference": "84a92654a2988cd3a5c4d6b5a226da6003c78e61"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices-unit4/zipball/84a92654a2988cd3a5c4d6b5a226da6003c78e61",
+                    "reference": "84a92654a2988cd3a5c4d6b5a226da6003c78e61",
+                    "shasum": ""
                 },
                 "require": {
                     "magento/framework": ">=101.0.0"
@@ -37,7 +43,8 @@
                 "homepage": "https://www.conneqt.io",
                 "support": {
                     "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues"
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices-unit4/tree/1.0.0"
                 }
             },
             {
@@ -46,8 +53,14 @@
                 "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
-                    "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices-unit4.git",
                     "reference": "2bcfa07e4c22f7f6319ecf13aff563eb6a5c085a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices-unit4/zipball/2bcfa07e4c22f7f6319ecf13aff563eb6a5c085a",
+                    "reference": "2bcfa07e4c22f7f6319ecf13aff563eb6a5c085a",
+                    "shasum": ""
                 },
                 "require": {
                     "magento/framework": ">=101.0.0"
@@ -76,7 +89,8 @@
                 "homepage": "https://www.conneqt.io",
                 "support": {
                     "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues"
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices-unit4/tree/1.0.4"
                 }
             },
             {
@@ -85,8 +99,14 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices-unit4.git",
                     "reference": "40df875f1157c163ffd3a7fedb3f28c0cc3419a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices-unit4/zipball/40df875f1157c163ffd3a7fedb3f28c0cc3419a7",
+                    "reference": "40df875f1157c163ffd3a7fedb3f28c0cc3419a7",
+                    "shasum": ""
                 },
                 "require": {
                     "conneqt/m2-specialprices": "1.0.15",
@@ -116,7 +136,55 @@
                 "homepage": "https://www.conneqt.io",
                 "support": {
                     "email": "support@conneqt.io",
-                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues"
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices-unit4/tree/1.1.0"
+                }
+            },
+            {
+                "name": "conneqt/m2-special-prices-unit4",
+                "version": "1.1.0.1",
+                "version_normalized": "1.1.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-specialprices-unit4.git",
+                    "reference": "abf38e96e15b958ec65f3d557976ac640461e705"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-specialprices-unit4/zipball/abf38e96e15b958ec65f3d557976ac640461e705",
+                    "reference": "abf38e96e15b958ec65f3d557976ac640461e705",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-specialprices": "1.0.15.55",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-10-18T13:59:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Unit4SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Unit 4 Special Prices module for Conneqt",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-specialprices-unit4/tree/1.1.0.1"
                 }
             }
         ]
