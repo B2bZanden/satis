@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4f75e3ffa60c69c75db9d18fae0261db238f8c86.json": {
-            "sha1": "4f75e3ffa60c69c75db9d18fae0261db238f8c86"
+        "include/all$95317a198e3352ce6afd7c96b97e33ff4643a94c.json": {
+            "sha1": "95317a198e3352ce6afd7c96b97e33ff4643a94c"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -48,6 +48,9 @@
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
         "b2bzanden/tig-gls-magento2",
+        "conneqt/m2-base",
+        "conneqt/m2-special-prices-unit4",
+        "conneqt/m2-specialprices",
         "deved/magento2-disable-customer-registration",
         "gls/module-shipping",
         "mageplaza/magento-2-product-slider",

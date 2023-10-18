@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "conneqt/m2-base": [
+            {
+                "name": "conneqt/m2-base",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2-base/",
+                    "reference": "c29992447b5a26904169bc3bc548c2b1cefd0a5e"
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-05-16T14:33:55+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues"
+                }
+            }
+        ]
+    }
+}

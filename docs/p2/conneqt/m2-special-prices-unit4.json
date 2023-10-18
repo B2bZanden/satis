@@ -1,0 +1,124 @@
+{
+    "packages": {
+        "conneqt/m2-special-prices-unit4": [
+            {
+                "name": "conneqt/m2-special-prices-unit4",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4",
+                    "reference": "84a92654a2988cd3a5c4d6b5a226da6003c78e61"
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2020-10-27T16:09:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Unit4SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Unit 4 Special Prices module for Conneqt",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues"
+                }
+            },
+            {
+                "name": "conneqt/m2-special-prices-unit4",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4",
+                    "reference": "2bcfa07e4c22f7f6319ecf13aff563eb6a5c085a"
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2021-08-16T14:35:31+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Unit4SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Unit 4 Special Prices module for Conneqt",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues"
+                }
+            },
+            {
+                "name": "conneqt/m2-special-prices-unit4",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4",
+                    "reference": "40df875f1157c163ffd3a7fedb3f28c0cc3419a7"
+                },
+                "require": {
+                    "conneqt/m2-specialprices": "1.0.15",
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2023-10-18T12:04:10+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Unit4SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Unit 4 Special Prices module for Conneqt",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4/issues"
+                }
+            }
+        ]
+    }
+}
