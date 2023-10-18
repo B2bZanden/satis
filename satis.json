@@ -221,10 +221,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices"
-    },
-    {
-      "type": "vcs",
       "url": "https://git.dev.epartment.nl/conneqt/m2-specialprices-unit4"
     }
   ],
