@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$bbec3f89f0e2448a01b000c878aabb58e00b5f5d.json": {
-            "sha1": "bbec3f89f0e2448a01b000c878aabb58e00b5f5d"
+        "include/all$f9f1a7e495ff00b9ffb2e253368e4ae2f1072576.json": {
+            "sha1": "f9f1a7e495ff00b9ffb2e253368e4ae2f1072576"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -50,6 +50,7 @@
         "conneqt/m2-base",
         "conneqt/m2-special-prices-unit4",
         "conneqt/m2-specialprices",
+        "conneqt/module-special-prices",
         "deved/magento2-disable-customer-registration",
         "gls/module-shipping",
         "mageplaza/magento-2-product-slider",

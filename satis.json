@@ -222,6 +222,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/conneqt-m2-specialprices-unit4"
+    },
+    {
+      "type": "vcs",
+      "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices"
     }
   ],
   "require-all": true
