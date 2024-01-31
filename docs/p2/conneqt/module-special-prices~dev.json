@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
-                    "reference": "33a6920e914ec00947d044c8fbe74d7ffe1a0ea2"
+                    "reference": "3bb470d2f7ebeb9a998d3d72d029c30e37ef4e15"
                 },
                 "require": {
                     "conneqt/m2-base": "*",
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2023-12-22T15:01:06+00:00",
+                "time": "2024-01-26T12:10:02+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -597,6 +597,35 @@
                     "php": ">=8.1"
                 },
                 "time": "2023-12-22T14:59:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/table-index",
+                "version_normalized": "dev-feature/table-index",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "9b4c8b5f33d21581baf23fc4612380cb1a966e29"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-01-24T15:54:57+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
