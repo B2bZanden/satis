@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_DisableShippingMethod.git",
-                    "reference": "4cd7e3924ea537ad7b74021b873e8402b784ace7"
+                    "reference": "0b174a1e19a4861051da97a217d1ffbd4ddf8f88"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableShippingMethod/zipball/4cd7e3924ea537ad7b74021b873e8402b784ace7",
-                    "reference": "4cd7e3924ea537ad7b74021b873e8402b784ace7",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableShippingMethod/zipball/0b174a1e19a4861051da97a217d1ffbd4ddf8f88",
+                    "reference": "0b174a1e19a4861051da97a217d1ffbd4ddf8f88",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2024-02-06T11:31:12+00:00",
+                "time": "2024-02-06T12:46:50+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -41,7 +41,7 @@
                 "description": "Magento 2 module to disable a shipping method on deeper scope",
                 "homepage": "https://github.com/B2bzanden/B2bzanden_M2_DisableShippingMethod",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/tree/1.0.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/tree/main",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/issues"
                 }
             }
