@@ -145,6 +145,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder"
     },
     {

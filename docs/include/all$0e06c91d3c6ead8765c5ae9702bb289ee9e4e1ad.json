@@ -6907,6 +6907,95 @@
                 }
             }
         },
+        "b2bzanden/disableshippingmethod": {
+            "1.0.0": {
+                "name": "b2bzanden/disableshippingmethod",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_DisableShippingMethod.git",
+                    "reference": "4cd7e3924ea537ad7b74021b873e8402b784ace7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableShippingMethod/zipball/4cd7e3924ea537ad7b74021b873e8402b784ace7",
+                    "reference": "4cd7e3924ea537ad7b74021b873e8402b784ace7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-checkout": "*",
+                    "php": ">=8.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2024-02-06T11:31:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\DisableShippingMethod\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to disable a shipping method on deeper scope",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_DisableShippingMethod",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/disableshippingmethod",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_DisableShippingMethod.git",
+                    "reference": "4cd7e3924ea537ad7b74021b873e8402b784ace7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableShippingMethod/zipball/4cd7e3924ea537ad7b74021b873e8402b784ace7",
+                    "reference": "4cd7e3924ea537ad7b74021b873e8402b784ace7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-checkout": "*",
+                    "php": ">=8.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2024-02-06T11:31:12+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\DisableShippingMethod\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to disable a shipping method on deeper scope",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_DisableShippingMethod",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod/issues"
+                }
+            }
+        },
         "b2bzanden/fastorder": {
             "0.0.1": {
                 "name": "b2bzanden/fastorder",
