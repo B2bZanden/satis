@@ -13351,6 +13351,64 @@
                 ],
                 "description": "N/A"
             },
+            "1.1.0": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "27e30945948afbc765003213f0fe81e0fa066d5f"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-08T09:51:03+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "1.1.1": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "c0802fc89dbdef93ea9512b6e6fc546119ddd4e5"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-12T09:09:37+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
             "dev-develop": {
                 "name": "conneqt/module-special-prices",
                 "version": "dev-develop",
@@ -13358,14 +13416,14 @@
                 "source": {
                     "type": "git",
                     "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
-                    "reference": "4d70ca736b6ff7feadbec66aa306e42956cf21a4"
+                    "reference": "c0802fc89dbdef93ea9512b6e6fc546119ddd4e5"
                 },
                 "require": {
                     "conneqt/m2-base": "*",
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2024-02-01T08:42:39+00:00",
+                "time": "2024-02-12T09:09:37+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -13903,6 +13961,35 @@
                 ],
                 "description": "N/A"
             },
+            "dev-feature/anti-error-caching": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/anti-error-caching",
+                "version_normalized": "dev-feature/anti-error-caching",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "5c7ba53b21083ca34b0220e5fbaca5c23622c483"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-09T15:14:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
             "dev-feature/autocleanup-cron": {
                 "name": "conneqt/module-special-prices",
                 "version": "dev-feature/autocleanup-cron",
@@ -13976,6 +14063,35 @@
                     "php": ">=8.1"
                 },
                 "time": "2023-12-22T14:59:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "dev-feature/support-for-product-options": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/support-for-product-options",
+                "version_normalized": "dev-feature/support-for-product-options",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "6593e8804ad47038651e85737e68021d604bbe94"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-08T08:31:20+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
