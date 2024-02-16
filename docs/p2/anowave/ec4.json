@@ -315,6 +315,51 @@
                     "source": "https://github.com/B2bZanden/Anowave_M2_EC4/tree/200.3.7",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_EC4/issues"
                 }
+            },
+            {
+                "name": "anowave/ec4",
+                "version": "200.4.4",
+                "version_normalized": "200.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_EC4.git",
+                    "reference": "e25e5b632d468164ae3671b0869185e90e83cd82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_EC4/zipball/e25e5b632d468164ae3671b0869185e90e83cd82",
+                    "reference": "e25e5b632d468164ae3671b0869185e90e83cd82",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/ec": ">=100.5.9",
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0"
+                },
+                "time": "2024-02-16T11:39:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Ec4\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 Google Analytics 4 Enhanced Ecommerce Tracking",
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_EC4/tree/200.4.4",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_EC4/issues"
+                }
             }
         ]
     }
