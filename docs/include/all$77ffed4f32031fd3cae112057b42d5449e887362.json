@@ -5410,6 +5410,87 @@
                 }
             }
         },
+        "b2bzanden/categorycustomtitle": {
+            "1.0.0": {
+                "name": "b2bzanden/categorycustomtitle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryCustomTitle.git",
+                    "reference": "d5bc942fc61b82119410d3cc64568912c944c460"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryCustomTitle/zipball/d5bc942fc61b82119410d3cc64568912c944c460",
+                    "reference": "d5bc942fc61b82119410d3cc64568912c944c460",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-06-12T14:19:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CategoryCustomTitle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Custom Title attribute",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/categorycustomtitle",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryCustomTitle.git",
+                    "reference": "d5bc942fc61b82119410d3cc64568912c944c460"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryCustomTitle/zipball/d5bc942fc61b82119410d3cc64568912c944c460",
+                    "reference": "d5bc942fc61b82119410d3cc64568912c944c460",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-06-12T14:19:46+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CategoryCustomTitle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Custom Title attribute",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/issues"
+                }
+            }
+        },
         "b2bzanden/categorydescriptionbottom": {
             "0.0.1": {
                 "name": "b2bzanden/categorydescriptionbottom",
@@ -8802,18 +8883,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git",
-                    "reference": "f8a3f4960b2703fa825d01b4cfedd46f4604102f"
+                    "reference": "baf4e3260b21af594487f40ee2ca53f6b69bef80"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/f8a3f4960b2703fa825d01b4cfedd46f4604102f",
-                    "reference": "f8a3f4960b2703fa825d01b4cfedd46f4604102f",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/baf4e3260b21af594487f40ee2ca53f6b69bef80",
+                    "reference": "baf4e3260b21af594487f40ee2ca53f6b69bef80",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2024-02-20T13:59:53+00:00",
+                "time": "2024-02-20T14:11:51+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -12567,6 +12648,84 @@
                     "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues"
                 }
             },
+            "1.2.2": {
+                "name": "conneqt/m2-base",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2-base/",
+                    "reference": "853be29c8950f2a475d904ad37e284ebfb815a49"
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2024-06-10T11:26:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues"
+                }
+            },
+            "dev-feature/sku-url-key": {
+                "name": "conneqt/m2-base",
+                "version": "dev-feature/sku-url-key",
+                "version_normalized": "dev-feature/sku-url-key",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2-base/",
+                    "reference": "cda23c86442e18b619e26bbc0a38aa5f29dcea06"
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2024-06-10T11:24:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues"
+                }
+            },
             "dev-master": {
                 "name": "conneqt/m2-base",
                 "version": "dev-master",
@@ -12574,12 +12733,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://git.dev.epartment.nl/conneqt/m2-base/",
-                    "reference": "c29992447b5a26904169bc3bc548c2b1cefd0a5e"
+                    "reference": "853be29c8950f2a475d904ad37e284ebfb815a49"
                 },
                 "require": {
                     "magento/framework": ">=101.0.0"
                 },
-                "time": "2023-05-16T14:33:55+00:00",
+                "time": "2024-06-10T11:26:20+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -13659,6 +13818,122 @@
                 ],
                 "description": "N/A"
             },
+            "1.1.3": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "84873b679f5235b307a92874d79cf8d4332c1ae2"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-26T15:00:39+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "1.1.4": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "a45e22f617eee4265e4aec32fd55b9e61d9988d2"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-27T15:25:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "1.1.5": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "bedfe2c43f7dae8ce8e542bbc5c7afb59da22e85"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-03-29T07:25:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "1.1.6": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "8a835f85dd008485d89deafc9bf370049c94d0a3"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-04-02T11:19:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
             "dev-develop": {
                 "name": "conneqt/module-special-prices",
                 "version": "dev-develop",
@@ -13666,14 +13941,14 @@
                 "source": {
                     "type": "git",
                     "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
-                    "reference": "e065ac17509037b92dfa9a7b004a8a7e350171f6"
+                    "reference": "8a835f85dd008485d89deafc9bf370049c94d0a3"
                 },
                 "require": {
                     "conneqt/m2-base": "*",
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2024-02-20T11:28:16+00:00",
+                "time": "2024-04-02T11:19:45+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -14182,6 +14457,35 @@
                 ],
                 "description": "N/A"
             },
+            "dev-feature/add-check-for-qty": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/add-check-for-qty",
+                "version_normalized": "dev-feature/add-check-for-qty",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "eee944083f1f5349b898ba3c6892abc770198041"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-03-28T14:21:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
             "dev-feature/admin-tables-data-fix": {
                 "name": "conneqt/module-special-prices",
                 "version": "dev-feature/admin-tables-data-fix",
@@ -14298,6 +14602,35 @@
                 ],
                 "description": "N/A"
             },
+            "dev-feature/caching-improvements": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/caching-improvements",
+                "version_normalized": "dev-feature/caching-improvements",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "b8e82fadef685f7191592226d76acace6b8a5e77"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-02-26T14:55:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
             "dev-feature/code-cleanup": {
                 "name": "conneqt/module-special-prices",
                 "version": "dev-feature/code-cleanup",
@@ -14313,6 +14646,35 @@
                     "php": ">=8.1"
                 },
                 "time": "2024-02-20T10:19:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "dev-feature/price-filter-improvements": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/price-filter-improvements",
+                "version_normalized": "dev-feature/price-filter-improvements",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "957cfa02a14d39bbf411ae00fe56275533a5b36b"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-04-02T10:20:52+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [

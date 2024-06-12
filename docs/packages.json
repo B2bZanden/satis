@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$67cbf6362f58337e5cd9cf24e13a8b40d6ec025e.json": {
-            "sha1": "67cbf6362f58337e5cd9cf24e13a8b40d6ec025e"
+        "include/all$77ffed4f32031fd3cae112057b42d5449e887362.json": {
+            "sha1": "77ffed4f32031fd3cae112057b42d5449e887362"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -35,6 +35,7 @@
         "b2bzanden/b2brules",
         "b2bzanden/b2bshipping",
         "b2bzanden/categorycreator",
+        "b2bzanden/categorycustomtitle",
         "b2bzanden/categorydescriptionbottom",
         "b2bzanden/changecategorytitle",
         "b2bzanden/checkout-address-check",

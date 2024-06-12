@@ -22,7 +22,7 @@ Add this Composer repository to your project's composer.json file, then you can 
 Pull the image:
 
 ```sh
-docker pull composer/satis
+docker pull composer/satis:latest
 ```
 
 Run the image (with Composer cache from host):
@@ -39,7 +39,7 @@ docker run --rm --init -it \
 - `<output-directory>` = `docs`
 
 ```sh
-docker pull composer/satis
+docker pull composer/satis:latest;
 docker run --rm --init -it \
   --user $(id -u):$(id -g) \
   --volume $(pwd):/build \
