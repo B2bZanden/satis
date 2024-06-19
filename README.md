@@ -41,6 +41,7 @@ docker run --rm --init -it \
 ```sh
 docker pull composer/satis:latest;
 docker run --rm --init -it \
+  --name satis \
   --user $(id -u):$(id -g) \
   --volume $(pwd):/build \
   --volume "${COMPOSER_HOME:-$HOME/.composer}:/composer" \
