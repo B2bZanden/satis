@@ -57,7 +57,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.1.0-RC1"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -115,7 +116,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.1.1-RC1"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -173,7 +175,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.2.0"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -231,7 +234,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.0"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -289,7 +293,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.1"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -347,7 +352,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.2"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -405,7 +411,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.2.1"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -463,7 +470,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.3.2.4"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -521,7 +529,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -579,7 +588,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.1"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -637,7 +647,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.10"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -695,7 +706,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.11"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -753,7 +765,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.12"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -811,7 +824,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.13"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -869,7 +883,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.14"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -927,7 +942,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.2"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -985,7 +1001,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.3"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -1043,7 +1060,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/v1.4.0.4"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -1101,7 +1119,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.5"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -1159,7 +1178,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.6"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -1217,7 +1237,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.7"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -1275,7 +1296,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.8"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -1333,7 +1355,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/1.4.0.9"
-                }
+                },
+                "abandoned": true
             }
         ]
     }

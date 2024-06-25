@@ -57,7 +57,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/dependabot/npm_and_yarn/qs-6.4.1"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -115,7 +116,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/develop"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/tig-gls-magento2",
@@ -174,7 +176,8 @@
                     "email": "support@tig.nl",
                     "issues": "https://portal.tig.nl/",
                     "source": "https://github.com/B2bZanden/gls-magento2/tree/master"
-                }
+                },
+                "abandoned": true
             }
         ]
     }
