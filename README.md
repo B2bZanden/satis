@@ -39,15 +39,15 @@ docker run --rm --init -it \
 - `<output-directory>` = `docs`
 
 ```sh
-docker pull composer/satis:latest;
+docker pull composer/satis:latest &&
 docker run --rm --init -it \
   --name satis \
   --user $(id -u):$(id -g) \
   --volume $(pwd):/build \
   --volume "${COMPOSER_HOME:-$HOME/.composer}:/composer" \
-  composer/satis build satis.json docs;
-git add -A;
-git commit -m ":arrow_up: update dependencies";
+  composer/satis build satis.json docs &&
+git add -A &&
+git commit -m ":arrow_up: update dependencies" &&
 git push;
 ```
 

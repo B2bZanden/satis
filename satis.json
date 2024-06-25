@@ -21,6 +21,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-grouped-options"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form"
     },
     {
@@ -61,6 +65,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-lib-swiper-js"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer"
     },
     {
@@ -77,7 +85,23 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-shop-by-brand-graphql"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-shopby-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/amasty-shopby"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-shopby-graphql"
     },
     {
       "type": "vcs",

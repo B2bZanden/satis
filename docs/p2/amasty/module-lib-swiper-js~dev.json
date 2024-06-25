@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "amasty/module-lib-swiper-js": [
+            {
+                "name": "amasty/module-lib-swiper-js",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-lib-swiper-js.git",
+                    "reference": "6a94819e4e26f7e6830dee2db10b38770c82f11f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lib-swiper-js/zipball/6a94819e4e26f7e6830dee2db10b38770c82f11f",
+                    "reference": "6a94819e4e26f7e6830dee2db10b38770c82f11f",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.6",
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-21T13:09:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\LibSwiperJs\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Lib Swiper Js by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-lib-swiper-js/tree/1.0.6",
+                    "issues": "https://github.com/B2bZanden/amasty-module-lib-swiper-js/issues"
+                }
+            },
+            {
+                "name": "amasty/module-lib-swiper-js",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-lib-swiper-js.git",
+                    "reference": "6a94819e4e26f7e6830dee2db10b38770c82f11f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lib-swiper-js/zipball/6a94819e4e26f7e6830dee2db10b38770c82f11f",
+                    "reference": "6a94819e4e26f7e6830dee2db10b38770c82f11f",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.6",
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-21T13:09:08+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\LibSwiperJs\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Lib Swiper Js by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-lib-swiper-js/tree/1.0.6",
+                    "issues": "https://github.com/B2bZanden/amasty-module-lib-swiper-js/issues"
+                }
+            }
+        ]
+    }
+}

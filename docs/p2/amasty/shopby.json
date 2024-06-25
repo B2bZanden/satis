@@ -102,6 +102,57 @@
                     "source": "https://github.com/B2bZanden/amasty-shopby/tree/2.18.6.2",
                     "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
                 }
+            },
+            {
+                "name": "amasty/shopby",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby.git",
+                    "reference": "e0d1af6997d95c197239c373fd439102a6f48608"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/e0d1af6997d95c197239c373fd439102a6f48608",
+                    "reference": "e0d1af6997d95c197239c373fd439102a6f48608",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.15.2",
+                    "amasty/module-improved-layered-navigation-page": ">=2.8.0",
+                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/module-shop-by-brand": ">=2.17.0",
+                    "amasty/shopby-seo": ">=2.15.2",
+                    "magento/module-catalog-search": ">=101.0.2",
+                    "magento/module-layered-navigation": ">=100.2.0",
+                    "magento/module-swatches": ">=100.2.0",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "amasty/module-grouped-options": "Install module-grouped-options module to activate Grouped Options integration.",
+                    "amasty/module-mage-2.4.5-fix": "Install module-mage-2.4.5-fix to fix bugs with Product Collection Changes that were added in 2.4.5 version.",
+                    "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
+                    "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
+                },
+                "time": "2024-06-21T13:12:35+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Shopby\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.1.1",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
+                }
             }
         ]
     }

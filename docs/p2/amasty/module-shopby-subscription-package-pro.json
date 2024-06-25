@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "amasty/module-shopby-subscription-package-pro": [
+            {
+                "name": "amasty/module-shopby-subscription-package-pro",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shopby-subscription-package-pro.git",
+                    "reference": "b4ce5feeabbc71f15d09be40a7ea49187a44f186"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-subscription-package-pro/zipball/b4ce5feeabbc71f15d09be40a7ea49187a44f186",
+                    "reference": "b4ce5feeabbc71f15d09be40a7ea49187a44f186",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.15.2",
+                    "amasty/module-shopby-pro": ">=3.1.0",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/module-improved-layered-navigation-page-export-entity": "Install this package for Export Custom Pages compatibility.",
+                    "amasty/module-improved-layered-navigation-page-import-entity": "Install this package for Import Custom Pages compatibility.",
+                    "amasty/module-shop-by-base-hyva-compatibility": "Install module-shop-by-base-hyva-compatibility module to activate the integration Base module with Hyva Theme",
+                    "amasty/module-shop-by-brand-hyva-compatibility": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Brand module with Hyva Theme",
+                    "amasty/module-shop-by-brand-subscription-functionality": "Install this package for compatibility with subscription features.",
+                    "amasty/module-shop-by-filter-highlight": "Install this package in order to use custom filter highlight color functionality",
+                    "amasty/module-shopby-grouped-options-hyva": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Grouper Options module with Hyva Theme",
+                    "amasty/module-shopby-hyva-compatibility": "Install module-shopby-hyva-compatibility module to activate the integration with Hyva Theme",
+                    "amasty/module-shopby-setting-export-entity": "Install this package for Export compatibility",
+                    "amasty/module-shopby-setting-import-entity": "Install this package for Import compatibility",
+                    "amasty/module-shopby-subscription-functionality": "Install this package for compatibility with subscription features.",
+                    "amasty/shop-by-brand-widget": "Install this package in order to manage Slider Widget Brands.",
+                    "amasty/shop-by-redirect": "Install this package to enable 301 redirect for SEO-optimized Urls functionality"
+                },
+                "time": "2024-06-21T13:33:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbySubscriptionPackagePro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Shopby Subscription Package Pro by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/tree/3.1.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/issues"
+                }
+            }
+        ]
+    }
+}

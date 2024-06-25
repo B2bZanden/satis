@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "amasty/module-grouped-options": [
+            {
+                "name": "amasty/module-grouped-options",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-grouped-options.git",
+                    "reference": "4720a4f1f6470723f68428608743a3e2249d608e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-grouped-options/zipball/4720a4f1f6470723f68428608743a3e2249d608e",
+                    "reference": "4720a4f1f6470723f68428608743a3e2249d608e",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.15.1",
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-21T12:57:43+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\GroupedOptions\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Grouped Options by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-grouped-options/tree/1.0.6",
+                    "issues": "https://github.com/B2bZanden/amasty-module-grouped-options/issues"
+                }
+            },
+            {
+                "name": "amasty/module-grouped-options",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-grouped-options.git",
+                    "reference": "4720a4f1f6470723f68428608743a3e2249d608e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-grouped-options/zipball/4720a4f1f6470723f68428608743a3e2249d608e",
+                    "reference": "4720a4f1f6470723f68428608743a3e2249d608e",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.15.1",
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-21T12:57:43+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\GroupedOptions\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Grouped Options by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-grouped-options/tree/1.0.6",
+                    "issues": "https://github.com/B2bZanden/amasty-module-grouped-options/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$05b05ded6c17a14bdd554c07b579dad69ec961fd.json": {
-            "sha1": "05b05ded6c17a14bdd554c07b579dad69ec961fd"
+        "include/all$68f938fc5a17ceb6445a3e44bece5edd31735191.json": {
+            "sha1": "68f938fc5a17ceb6445a3e44bece5edd31735191"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -12,12 +12,14 @@
         "amasty/cron-schedule-list",
         "amasty/cron-scheduler",
         "amasty/module-customer-attributes",
+        "amasty/module-grouped-options",
         "amasty/module-hide-price",
         "amasty/module-image-optimizer",
         "amasty/module-image-optimizer-ui",
         "amasty/module-improved-layered-navigation-page",
         "amasty/module-lazy-load",
         "amasty/module-lazy-load-ui",
+        "amasty/module-lib-swiper-js",
         "amasty/module-mage24fix",
         "amasty/module-magento-custom-form",
         "amasty/module-magento-custom-form-graphql",
@@ -25,7 +27,11 @@
         "amasty/module-page-speed-tools",
         "amasty/module-shop-by-base",
         "amasty/module-shop-by-brand",
+        "amasty/module-shop-by-brand-graphql",
+        "amasty/module-shopby-pro",
+        "amasty/module-shopby-subscription-package-pro",
         "amasty/shopby",
+        "amasty/shopby-graphql",
         "amasty/shopby-seo",
         "anowave/ec",
         "anowave/ec4",
@@ -35,12 +41,12 @@
         "b2bzanden/b2brules",
         "b2bzanden/b2bshipping",
         "b2bzanden/categorycreator",
-        "b2bzanden/categorycustomtitle",
         "b2bzanden/categorydescriptionbottom",
         "b2bzanden/changecategorytitle",
         "b2bzanden/checkout-address-check",
         "b2bzanden/checkoutcmsblock",
         "b2bzanden/conneqtcheckprice",
+        "b2bzanden/customcategorytitle",
         "b2bzanden/customstockstatus",
         "b2bzanden/disableshippingmethod",
         "b2bzanden/fastorder",

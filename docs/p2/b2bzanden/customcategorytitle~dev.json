@@ -1,26 +1,26 @@
 {
     "packages": {
-        "b2bzanden/categorycustomtitle": [
+        "b2bzanden/customcategorytitle": [
             {
-                "name": "b2bzanden/categorycustomtitle",
+                "name": "b2bzanden/customcategorytitle",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryCustomTitle.git",
-                    "reference": "62489eff18e1b2b81d9c14894e10d7c0065153f8"
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
+                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryCustomTitle/zipball/62489eff18e1b2b81d9c14894e10d7c0065153f8",
-                    "reference": "62489eff18e1b2b81d9c14894e10d7c0065153f8",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
+                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": "103.0.*",
                     "php": ">=8.1.0"
                 },
-                "time": "2024-06-19T11:30:47+00:00",
+                "time": "2024-06-21T14:23:42+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -34,32 +34,32 @@
                     "OSL-3.0",
                     "AFL-3.0"
                 ],
-                "description": "Magento 2 module to add Category Custom Title attribute",
+                "description": "Magento 2 module to add Custom Category Title attribute",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/tree/develop",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/issues"
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/develop",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
                 }
             },
             {
-                "name": "b2bzanden/categorycustomtitle",
+                "name": "b2bzanden/customcategorytitle",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryCustomTitle.git",
-                    "reference": "0dbd3c591718191b5b68d612561e971ddebd02c9"
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
+                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryCustomTitle/zipball/0dbd3c591718191b5b68d612561e971ddebd02c9",
-                    "reference": "0dbd3c591718191b5b68d612561e971ddebd02c9",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
+                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": "103.0.*",
                     "php": ">=8.1.0"
                 },
-                "time": "2024-06-19T14:11:03+00:00",
+                "time": "2024-06-21T14:23:42+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -74,10 +74,10 @@
                     "OSL-3.0",
                     "AFL-3.0"
                 ],
-                "description": "Magento 2 module to add Category Custom Title attribute",
+                "description": "Magento 2 module to add Custom Category Title attribute",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/tree/main",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCustomTitle/issues"
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/develop",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
                 }
             }
         ]

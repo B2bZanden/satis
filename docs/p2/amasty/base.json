@@ -37,6 +37,45 @@
                     "source": "https://github.com/B2bZanden/amasty-base/tree/1.13.4.1",
                     "issues": "https://github.com/B2bZanden/amasty-base/issues"
                 }
+            },
+            {
+                "name": "amasty/base",
+                "version": "1.16.0",
+                "version_normalized": "1.16.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-base.git",
+                    "reference": "afdab60c9f951619744a2180d103a217976205fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/afdab60c9f951619744a2180d103a217976205fc",
+                    "reference": "afdab60c9f951619744a2180d103a217976205fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "monolog/monolog": ">=1.17",
+                    "php": ">=7.3"
+                },
+                "time": "2024-06-21T12:56:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Amasty Base",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-base/tree/1.16.0",
+                    "issues": "https://github.com/B2bZanden/amasty-base/issues"
+                }
             }
         ]
     }

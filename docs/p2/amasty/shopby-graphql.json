@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "amasty/shopby-graphql": [
+            {
+                "name": "amasty/shopby-graphql",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby-graphql.git",
+                    "reference": "70715454f61f44c2528564f219513c58b0fcf2af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-graphql/zipball/70715454f61f44c2528564f219513c58b0fcf2af",
+                    "reference": "70715454f61f44c2528564f219513c58b0fcf2af",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.16.0",
+                    "amasty/shopby": ">=2.22.0",
+                    "magento/module-layered-navigation": ">=100.0",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-06-21T13:24:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation GraphQl by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby-graphql/tree/1.0.7",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby-graphql/issues"
+                }
+            }
+        ]
+    }
+}
