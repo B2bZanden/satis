@@ -7897,26 +7897,26 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
-                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291"
+                    "reference": "274a41d6dafb4650795c20ac5864479dbbdf458f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
-                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/274a41d6dafb4650795c20ac5864479dbbdf458f",
+                    "reference": "274a41d6dafb4650795c20ac5864479dbbdf458f",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": "103.0.*",
                     "php": ">=8.1.0"
                 },
-                "time": "2024-06-21T14:23:42+00:00",
+                "time": "2024-06-26T06:53:06+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "B2bzanden\\CategoryCustomTitle\\": ""
+                        "B2bzanden\\CustomCategoryTitle\\": ""
                     }
                 },
                 "license": [
@@ -7936,19 +7936,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
-                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291"
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
-                    "reference": "1ce4ff9a70cab7ca38b809a7aec087c7bf42b291",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": "103.0.*",
                     "php": ">=8.1.0"
                 },
-                "time": "2024-06-21T14:23:42+00:00",
+                "time": "2024-06-26T06:53:26+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -7956,7 +7956,7 @@
                         "registration.php"
                     ],
                     "psr-4": {
-                        "B2bzanden\\CategoryCustomTitle\\": ""
+                        "B2bzanden\\CustomCategoryTitle\\": ""
                     }
                 },
                 "license": [
@@ -7965,7 +7965,7 @@
                 ],
                 "description": "Magento 2 module to add Custom Category Title attribute",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/develop",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/main",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
                 }
             }
