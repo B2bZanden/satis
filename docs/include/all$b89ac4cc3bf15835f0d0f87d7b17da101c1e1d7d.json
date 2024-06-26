@@ -7890,6 +7890,45 @@
             }
         },
         "b2bzanden/customcategorytitle": {
+            "1.0.0": {
+                "name": "b2bzanden/customcategorytitle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-06-26T06:53:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomCategoryTitle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 module to add Custom Category Title attribute",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
+                }
+            },
             "dev-develop": {
                 "name": "b2bzanden/customcategorytitle",
                 "version": "dev-develop",
@@ -7965,7 +8004,7 @@
                 ],
                 "description": "Magento 2 module to add Custom Category Title attribute",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/main",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/1.0.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
                 }
             }
