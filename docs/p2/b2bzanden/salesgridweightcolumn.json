@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "b2bzanden/salesgridweightcolumn": [
+            {
+                "name": "b2bzanden/salesgridweightcolumn",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.0"
+                },
+                "time": "2024-07-02T19:34:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\SalesGridWeightColumn\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    },
+                    {
+                        "name": "Hans Kuijpers",
+                        "email": "hans2103@gmail.com"
+                    }
+                ],
+                "description": "Add an extra column to Admin Sales Grid",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
+                }
+            }
+        ]
+    }
+}

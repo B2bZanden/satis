@@ -7889,126 +7889,6 @@
                 }
             }
         },
-        "b2bzanden/customcategorytitle": {
-            "1.0.0": {
-                "name": "b2bzanden/customcategorytitle",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
-                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/7d120412cdb5695bcefe79ad96bba042dc0b6d02",
-                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento/framework": "103.0.*",
-                    "php": ">=8.1.0"
-                },
-                "time": "2024-06-26T06:53:26+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "B2bzanden\\CustomCategoryTitle\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "Magento 2 module to add Custom Category Title attribute",
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/1.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
-                }
-            },
-            "dev-develop": {
-                "name": "b2bzanden/customcategorytitle",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
-                    "reference": "274a41d6dafb4650795c20ac5864479dbbdf458f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/274a41d6dafb4650795c20ac5864479dbbdf458f",
-                    "reference": "274a41d6dafb4650795c20ac5864479dbbdf458f",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento/framework": "103.0.*",
-                    "php": ">=8.1.0"
-                },
-                "time": "2024-06-26T06:53:06+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "B2bzanden\\CustomCategoryTitle\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "Magento 2 module to add Custom Category Title attribute",
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/develop",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
-                }
-            },
-            "dev-main": {
-                "name": "b2bzanden/customcategorytitle",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
-                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/7d120412cdb5695bcefe79ad96bba042dc0b6d02",
-                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02",
-                    "shasum": ""
-                },
-                "require": {
-                    "magento/framework": "103.0.*",
-                    "php": ">=8.1.0"
-                },
-                "time": "2024-06-26T06:53:26+00:00",
-                "default-branch": true,
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "B2bzanden\\CustomCategoryTitle\\": ""
-                    }
-                },
-                "license": [
-                    "OSL-3.0",
-                    "AFL-3.0"
-                ],
-                "description": "Magento 2 module to add Custom Category Title attribute",
-                "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/1.0.0",
-                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
-                }
-            }
-        },
         "b2bzanden/customstockstatus": {
             "0.2.0": {
                 "name": "b2bzanden/customstockstatus",
@@ -10352,6 +10232,150 @@
                 "support": {
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/3.1.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
+            }
+        },
+        "b2bzanden/salesgridweightcolumn": {
+            "1.0.0": {
+                "name": "b2bzanden/salesgridweightcolumn",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.0"
+                },
+                "time": "2024-07-02T19:34:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\SalesGridWeightColumn\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    },
+                    {
+                        "name": "Hans Kuijpers",
+                        "email": "hans2103@gmail.com"
+                    }
+                ],
+                "description": "Add an extra column to Admin Sales Grid",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/salesgridweightcolumn",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.0"
+                },
+                "time": "2024-07-02T19:34:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\SalesGridWeightColumn\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    },
+                    {
+                        "name": "Hans Kuijpers",
+                        "email": "hans2103@gmail.com"
+                    }
+                ],
+                "description": "Add an extra column to Admin Sales Grid",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/salesgridweightcolumn",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "reference": "debab6515aacfc68fdd1b168a9e119aebdf5d4f2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.0"
+                },
+                "time": "2024-07-02T19:34:13+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\SalesGridWeightColumn\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    },
+                    {
+                        "name": "Hans Kuijpers",
+                        "email": "hans2103@gmail.com"
+                    }
+                ],
+                "description": "Add an extra column to Admin Sales Grid",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
                 }
             }
         },
@@ -15740,6 +15764,35 @@
                     "php": ">=8.1"
                 },
                 "time": "2024-02-20T10:19:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            "dev-feature/enable-disable-feature": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-feature/enable-disable-feature",
+                "version_normalized": "dev-feature/enable-disable-feature",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "3d534bb2cff886f4c6768f2960e929a7da3e728a"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-07-01T07:41:21+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
