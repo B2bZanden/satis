@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$349c2477bc37043faa140da221960a0cdd03aa5f.json": {
-            "sha1": "349c2477bc37043faa140da221960a0cdd03aa5f"
+        "include/all$6f14b5b2eec856ed8f412820f2720db3d978c964.json": {
+            "sha1": "6f14b5b2eec856ed8f412820f2720db3d978c964"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -46,6 +46,7 @@
         "b2bzanden/checkout-address-check",
         "b2bzanden/checkoutcmsblock",
         "b2bzanden/conneqtcheckprice",
+        "b2bzanden/customcategorytitle",
         "b2bzanden/customstockstatus",
         "b2bzanden/disableshippingmethod",
         "b2bzanden/fastorder",

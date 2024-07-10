@@ -8,14 +8,14 @@
                 "source": {
                     "type": "git",
                     "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
-                    "reference": "8a835f85dd008485d89deafc9bf370049c94d0a3"
+                    "reference": "a4b8768f9fd1a0f1479314c2f3ae08e4f51a525f"
                 },
                 "require": {
                     "conneqt/m2-base": "*",
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2024-04-02T11:19:45+00:00",
+                "time": "2024-07-04T06:33:14+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {

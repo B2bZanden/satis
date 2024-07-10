@@ -7889,6 +7889,126 @@
                 }
             }
         },
+        "b2bzanden/customcategorytitle": {
+            "1.0.0": {
+                "name": "b2bzanden/customcategorytitle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-06-26T06:53:26+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomCategoryTitle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 module to add Custom Category Title attribute",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/customcategorytitle",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
+                    "reference": "274a41d6dafb4650795c20ac5864479dbbdf458f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/274a41d6dafb4650795c20ac5864479dbbdf458f",
+                    "reference": "274a41d6dafb4650795c20ac5864479dbbdf458f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-06-26T06:53:06+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomCategoryTitle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 module to add Custom Category Title attribute",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/develop",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/customcategorytitle",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomCategoryTitle.git",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomCategoryTitle/zipball/7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "reference": "7d120412cdb5695bcefe79ad96bba042dc0b6d02",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": ">=8.1.0"
+                },
+                "time": "2024-06-26T06:53:26+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomCategoryTitle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 module to add Custom Category Title attribute",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle/issues"
+                }
+            }
+        },
         "b2bzanden/customstockstatus": {
             "0.2.0": {
                 "name": "b2bzanden/customstockstatus",
@@ -15052,6 +15172,35 @@
                 ],
                 "description": "N/A"
             },
+            "1.1.7": {
+                "name": "conneqt/module-special-prices",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
+                    "reference": "a4b8768f9fd1a0f1479314c2f3ae08e4f51a525f"
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2024-07-04T06:33:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
             "dev-develop": {
                 "name": "conneqt/module-special-prices",
                 "version": "dev-develop",
@@ -15059,14 +15208,14 @@
                 "source": {
                     "type": "git",
                     "url": "https://git.dev.epartment.nl/conneqt/m2/special-prices",
-                    "reference": "8a835f85dd008485d89deafc9bf370049c94d0a3"
+                    "reference": "a4b8768f9fd1a0f1479314c2f3ae08e4f51a525f"
                 },
                 "require": {
                     "conneqt/m2-base": "*",
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2024-04-02T11:19:45+00:00",
+                "time": "2024-07-04T06:33:14+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
