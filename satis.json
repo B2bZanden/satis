@@ -250,6 +250,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/conneqt-module-special-prices"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/dv-profitmetrics"
     }
   ],
   "require-all": true

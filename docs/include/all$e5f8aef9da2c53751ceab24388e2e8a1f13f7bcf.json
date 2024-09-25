@@ -13090,6 +13090,91 @@
                 }
             }
         },
+        "dv/profit-metrics": {
+            "1.1.32": {
+                "name": "dv/profit-metrics",
+                "version": "1.1.32",
+                "version_normalized": "1.1.32.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
+                    "reference": "5026e9f43f28cbfd1bb6368f4f3682e0db3e0dc0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/5026e9f43f28cbfd1bb6368f4f3682e0db3e0dc0",
+                    "reference": "5026e9f43f28cbfd1bb6368f4f3682e0db3e0dc0",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-curl": "*",
+                    "ext-simplexml": "*",
+                    "magento/framework": ">=101",
+                    "php": "~7.0.13||~7.1.0||~7.2.0||~7.3.0||~7.4.0||~8.0.0||~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2024-09-25T12:17:33+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DV\\ProfitMetrics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/B2bZanden/dv-profitmetrics/tree/1.1.32",
+                    "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
+                }
+            },
+            "dev-main": {
+                "name": "dv/profit-metrics",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
+                    "reference": "5026e9f43f28cbfd1bb6368f4f3682e0db3e0dc0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/5026e9f43f28cbfd1bb6368f4f3682e0db3e0dc0",
+                    "reference": "5026e9f43f28cbfd1bb6368f4f3682e0db3e0dc0",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-curl": "*",
+                    "ext-simplexml": "*",
+                    "magento/framework": ">=101",
+                    "php": "~7.0.13||~7.1.0||~7.2.0||~7.3.0||~7.4.0||~8.0.0||~8.1.0||~8.2.0||~8.3.0"
+                },
+                "time": "2024-09-25T12:17:33+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DV\\ProfitMetrics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/B2bZanden/dv-profitmetrics/tree/1.1.32",
+                    "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
+                }
+            }
+        },
         "gls/module-shipping": {
             "3.0.35": {
                 "name": "gls/module-shipping",
