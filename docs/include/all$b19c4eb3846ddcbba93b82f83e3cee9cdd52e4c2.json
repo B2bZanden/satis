@@ -12874,6 +12874,101 @@
                 "abandoned": true
             }
         },
+        "conneqt/m2-base": {
+            "1.2.2": {
+                "name": "conneqt/m2-base",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-base.git",
+                    "reference": "09968b4ff672d7828c51c27f8b3919874d34b987"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-base/zipball/09968b4ff672d7828c51c27f8b3919874d34b987",
+                    "reference": "09968b4ff672d7828c51c27f8b3919874d34b987",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2024-09-25T13:16:28+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.2.2"
+                }
+            },
+            "dev-main": {
+                "name": "conneqt/m2-base",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-base.git",
+                    "reference": "09968b4ff672d7828c51c27f8b3919874d34b987"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-base/zipball/09968b4ff672d7828c51c27f8b3919874d34b987",
+                    "reference": "09968b4ff672d7828c51c27f8b3919874d34b987",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0"
+                },
+                "time": "2024-09-25T13:16:28+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.2.2"
+                }
+            }
+        },
         "conneqt/module-special-prices": {
             "1.2.1": {
                 "name": "conneqt/module-special-prices",

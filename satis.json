@@ -253,6 +253,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/conneqt-m2-base"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/dv-profitmetrics"
     }
   ],
