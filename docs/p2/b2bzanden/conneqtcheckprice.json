@@ -50,7 +50,8 @@
                 "support": {
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/tree/1.0.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/issues"
-                }
+                },
+                "abandoned": true
             },
             {
                 "name": "b2bzanden/conneqtcheckprice",
@@ -101,7 +102,8 @@
                 "support": {
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/tree/1.0.1",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice/issues"
-                }
+                },
+                "abandoned": true
             }
         ]
     }
