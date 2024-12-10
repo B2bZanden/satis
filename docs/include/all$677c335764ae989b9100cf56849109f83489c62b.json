@@ -11335,19 +11335,19 @@
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
                 }
             },
-            "dev-develop": {
+            "24.50.0": {
                 "name": "b2bzanden/suitablefor",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "24.50.0",
+                "version_normalized": "24.50.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
-                    "reference": "fe14ce058e587f26fe7578c063e38861d644e638"
+                    "reference": "2163a4bbbfd5d759cb77083b3eee477b2c54ba93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/fe14ce058e587f26fe7578c063e38861d644e638",
-                    "reference": "fe14ce058e587f26fe7578c063e38861d644e638",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/2163a4bbbfd5d759cb77083b3eee477b2c54ba93",
+                    "reference": "2163a4bbbfd5d759cb77083b3eee477b2c54ba93",
                     "shasum": ""
                 },
                 "require": {
@@ -11357,7 +11357,53 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2024-11-25T12:57:38+00:00",
+                "time": "2024-12-10T10:58:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\SuitableFor\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for suitable for product numbers",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_SuitableFor",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/24.50.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/suitablefor",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
+                    "reference": "db0745610c6793cdca2516199f7fb0eed0d1dde6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/db0745610c6793cdca2516199f7fb0eed0d1dde6",
+                    "reference": "db0745610c6793cdca2516199f7fb0eed0d1dde6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2024-12-10T10:58:48+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -11388,12 +11434,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
-                    "reference": "9094bca303739503bf2f00d548714bc4784f2b1c"
+                    "reference": "2163a4bbbfd5d759cb77083b3eee477b2c54ba93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/9094bca303739503bf2f00d548714bc4784f2b1c",
-                    "reference": "9094bca303739503bf2f00d548714bc4784f2b1c",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/2163a4bbbfd5d759cb77083b3eee477b2c54ba93",
+                    "reference": "2163a4bbbfd5d759cb77083b3eee477b2c54ba93",
                     "shasum": ""
                 },
                 "require": {
@@ -11403,7 +11449,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2024-11-25T12:57:38+00:00",
+                "time": "2024-12-10T10:58:51+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -11424,7 +11470,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/24.48.1",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/24.50.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
                 }
             }
