@@ -4828,19 +4828,19 @@
                     "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
                 }
             },
-            "dev-develop": {
+            "3.2.2.1": {
                 "name": "amasty/shopby",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "3.2.2.1",
+                "version_normalized": "3.2.2.1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby.git",
-                    "reference": "3c0cd7a40f8124bba33f12c0f9d1f663c19bf80e"
+                    "reference": "022a84d549bf95a1fe80d23bc65055986fb2edcf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/3c0cd7a40f8124bba33f12c0f9d1f663c19bf80e",
-                    "reference": "3c0cd7a40f8124bba33f12c0f9d1f663c19bf80e",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/022a84d549bf95a1fe80d23bc65055986fb2edcf",
+                    "reference": "022a84d549bf95a1fe80d23bc65055986fb2edcf",
                     "shasum": ""
                 },
                 "require": {
@@ -4861,7 +4861,59 @@
                     "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
                     "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
                 },
-                "time": "2024-12-18T10:50:29+00:00",
+                "time": "2024-12-18T13:16:29+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Shopby\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.2.2.1",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/shopby",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby.git",
+                    "reference": "0a6d366b80e5cf76f8f6bd9790057e4fc40f886d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/0a6d366b80e5cf76f8f6bd9790057e4fc40f886d",
+                    "reference": "0a6d366b80e5cf76f8f6bd9790057e4fc40f886d",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-composite-product-price-indexer": ">=1.0.1",
+                    "amasty/module-improved-layered-navigation-page": ">=2.8.2",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "amasty/module-shop-by-brand": ">=2.18.0",
+                    "amasty/shopby-seo": ">=2.16.0",
+                    "magento/module-catalog-search": ">=101.0.2",
+                    "magento/module-layered-navigation": ">=100.2.0",
+                    "magento/module-swatches": ">=100.2.0",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "amasty/module-grouped-options": "Install module-grouped-options module to activate Grouped Options integration.",
+                    "amasty/module-mage-2.4.5-fix": "Install module-mage-2.4.5-fix to fix bugs with Product Collection Changes that were added in 2.4.5 version.",
+                    "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
+                    "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
+                },
+                "time": "2024-12-18T13:16:28+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -4887,12 +4939,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby.git",
-                    "reference": "4b3c86755ea18b58925cc980d1ca764197450a8d"
+                    "reference": "022a84d549bf95a1fe80d23bc65055986fb2edcf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/4b3c86755ea18b58925cc980d1ca764197450a8d",
-                    "reference": "4b3c86755ea18b58925cc980d1ca764197450a8d",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/022a84d549bf95a1fe80d23bc65055986fb2edcf",
+                    "reference": "022a84d549bf95a1fe80d23bc65055986fb2edcf",
                     "shasum": ""
                 },
                 "require": {
@@ -4913,7 +4965,7 @@
                     "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
                     "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
                 },
-                "time": "2024-12-18T10:58:54+00:00",
+                "time": "2024-12-18T13:16:29+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -4929,7 +4981,7 @@
                 ],
                 "description": "Improved Layered Navigation by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.2.2",
+                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.2.2.1",
                     "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
                 }
             }
