@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git",
-                    "reference": "f4ab5bf7f434b3699921c64d3401e28253227b7c"
+                    "reference": "4b7c98d952f477f4e3b63ae5ec540cf1a8921cba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/f4ab5bf7f434b3699921c64d3401e28253227b7c",
-                    "reference": "f4ab5bf7f434b3699921c64d3401e28253227b7c",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/4b7c98d952f477f4e3b63ae5ec540cf1a8921cba",
+                    "reference": "4b7c98d952f477f4e3b63ae5ec540cf1a8921cba",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-page-speed-tools": ">=2.0.1",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:53:20+00:00",
+                "time": "2024-12-18T11:21:39+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -32,7 +32,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Lazy Load by Amasty",
                 "support": {
@@ -47,20 +47,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git",
-                    "reference": "252ab4b4f9666b21d5dfd154dd28d051523067ef"
+                    "reference": "eb4e5533b7b4331c935141d7ddf965fdb6a7b222"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/252ab4b4f9666b21d5dfd154dd28d051523067ef",
-                    "reference": "252ab4b4f9666b21d5dfd154dd28d051523067ef",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/eb4e5533b7b4331c935141d7ddf965fdb6a7b222",
+                    "reference": "eb4e5533b7b4331c935141d7ddf965fdb6a7b222",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-page-speed-tools": ">=2.0.1",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:53:33+00:00",
+                "time": "2024-12-18T11:21:55+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -72,11 +72,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Lazy Load by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load/tree/1.1.5.3",
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load/tree/2.3.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-lazy-load/issues"
                 }
             }

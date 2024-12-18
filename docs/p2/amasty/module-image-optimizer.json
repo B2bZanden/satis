@@ -78,6 +78,46 @@
                     "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/1.1.5.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
                 }
+            },
+            {
+                "name": "amasty/module-image-optimizer",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git",
+                    "reference": "c50625a05273e8bf550a5308fbc4f0026873af9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/c50625a05273e8bf550a5308fbc4f0026873af9b",
+                    "reference": "c50625a05273e8bf550a5308fbc4f0026873af9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-page-speed-tools": ">=2.0.3",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:18:33+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Image Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/2.2.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
+                }
             }
         ]
     }

@@ -1,0 +1,85 @@
+{
+    "packages": {
+        "amasty/module-composite-product-price-indexer": [
+            {
+                "name": "amasty/module-composite-product-price-indexer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-composite-product-price-indexer.git",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-composite-product-price-indexer/zipball/3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:03:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CompositeProductPriceIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Composite Product Price Indexer by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/tree/1.0.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/issues"
+                }
+            },
+            {
+                "name": "amasty/module-composite-product-price-indexer",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-composite-product-price-indexer.git",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-composite-product-price-indexer/zipball/3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:03:08+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CompositeProductPriceIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Composite Product Price Indexer by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/tree/1.0.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/issues"
+                }
+            }
+        ]
+    }
+}

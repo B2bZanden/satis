@@ -82,6 +82,47 @@
                     "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/2.2.1.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
                 }
+            },
+            {
+                "name": "amasty/module-page-speed-optimizer",
+                "version": "2.2.7",
+                "version_normalized": "2.2.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git",
+                    "reference": "eee16ae00f720b59973557a2f920ddd1a7c84fc2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/eee16ae00f720b59973557a2f920ddd1a7c84fc2",
+                    "reference": "eee16ae00f720b59973557a2f920ddd1a7c84fc2",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-lazy-load-ui": "*",
+                    "amasty/module-page-speed-tools": ">=2.0.2",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:24:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Google Page Speed Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/2.2.7",
+                    "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
+                }
             }
         ]
     }

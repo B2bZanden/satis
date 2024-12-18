@@ -78,6 +78,45 @@
                     "source": "https://github.com/B2bZanden/amasty-module-hide-price/tree/1.5.23.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-hide-price/issues"
                 }
+            },
+            {
+                "name": "amasty/module-hide-price",
+                "version": "1.7.1",
+                "version_normalized": "1.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-hide-price.git",
+                    "reference": "c1255c5c4b6c4f24b56158ce9b2ca04727f164a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-hide-price/zipball/c1255c5c4b6c4f24b56158ce9b2ca04727f164a3",
+                    "reference": "c1255c5c4b6c4f24b56158ce9b2ca04727f164a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.16.0",
+                    "laminas/laminas-dom": "*",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:13:11+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\HidePrice\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Hide Price by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-hide-price/tree/1.7.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-hide-price/issues"
+                }
             }
         ]
     }

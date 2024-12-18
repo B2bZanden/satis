@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git",
-                    "reference": "24c9b0d58081f08717769ade217288117237e3c8"
+                    "reference": "f467e1babae7dd89b3a2a333a66d19521737363c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/24c9b0d58081f08717769ade217288117237e3c8",
-                    "reference": "24c9b0d58081f08717769ade217288117237e3c8",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/f467e1babae7dd89b3a2a333a66d19521737363c",
+                    "reference": "f467e1babae7dd89b3a2a333a66d19521737363c",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:43:23+00:00",
+                "time": "2024-12-18T11:25:57+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -31,7 +31,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Google Page Speed Tools by Amasty",
                 "support": {
@@ -46,19 +46,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git",
-                    "reference": "c44286d6749c202e5a8bc0ae5edb78c9b0a7604f"
+                    "reference": "79ad0f99247cdc7d82d22cb6c85d8b3a69f44525"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/c44286d6749c202e5a8bc0ae5edb78c9b0a7604f",
-                    "reference": "c44286d6749c202e5a8bc0ae5edb78c9b0a7604f",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/79ad0f99247cdc7d82d22cb6c85d8b3a69f44525",
+                    "reference": "79ad0f99247cdc7d82d22cb6c85d8b3a69f44525",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:43:33+00:00",
+                "time": "2024-12-18T11:26:09+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -70,11 +70,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Google Page Speed Tools by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-tools/tree/1.0.6.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-tools/tree/2.1.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-page-speed-tools/issues"
                 }
             }

@@ -473,19 +473,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git",
-                    "reference": "2f5ab99ba3918e055fe72fe95509b38f630e5a18"
+                    "reference": "87c674195a0930b34d7b21f38c63a8e797d6e32d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-schedule-list/zipball/2f5ab99ba3918e055fe72fe95509b38f630e5a18",
-                    "reference": "2f5ab99ba3918e055fe72fe95509b38f630e5a18",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-schedule-list/zipball/87c674195a0930b34d7b21f38c63a8e797d6e32d",
+                    "reference": "87c674195a0930b34d7b21f38c63a8e797d6e32d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
+                    "amasty/base": ">=1.14.6",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:55:01+00:00",
+                "time": "2024-12-18T11:09:54+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -496,7 +496,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Cron Schedule List by Amasty",
                 "support": {
@@ -511,19 +511,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git",
-                    "reference": "308643b44273b3dd72f01afeb8a123ca145a62e5"
+                    "reference": "f2e003f5cb49212a35141be9d70c5b2addb27fa6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-schedule-list/zipball/308643b44273b3dd72f01afeb8a123ca145a62e5",
-                    "reference": "308643b44273b3dd72f01afeb8a123ca145a62e5",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-schedule-list/zipball/f2e003f5cb49212a35141be9d70c5b2addb27fa6",
+                    "reference": "f2e003f5cb49212a35141be9d70c5b2addb27fa6",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
+                    "amasty/base": ">=1.14.6",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:55:10+00:00",
+                "time": "2024-12-18T11:10:05+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -535,11 +535,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Cron Schedule List by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-cron-schedule-list/tree/1.0.6.2",
+                    "source": "https://github.com/B2bZanden/amasty-cron-schedule-list/tree/1.0.7",
                     "issues": "https://github.com/B2bZanden/amasty-cron-schedule-list/issues"
                 }
             }
@@ -708,20 +708,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git",
-                    "reference": "8c61bf7ff44e89ac931542143d4c5439505c287a"
+                    "reference": "fdb12a2d48964399c15a60bac8183293eff3f63d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-scheduler/zipball/8c61bf7ff44e89ac931542143d4c5439505c287a",
-                    "reference": "8c61bf7ff44e89ac931542143d4c5439505c287a",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-scheduler/zipball/fdb12a2d48964399c15a60bac8183293eff3f63d",
+                    "reference": "fdb12a2d48964399c15a60bac8183293eff3f63d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
-                    "amasty/cron-schedule-list": ">=1.0.6",
+                    "amasty/base": ">=1.14.2",
+                    "amasty/cron-schedule-list": ">=1.0.3",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:54:27+00:00",
+                "time": "2024-12-18T11:08:26+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -747,20 +747,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git",
-                    "reference": "7d6c7526eabe1af8ad58cdf32b0186dd9938cdf9"
+                    "reference": "c9d71e7027e81eae10745cc72016a6d3d91cf1a8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-scheduler/zipball/7d6c7526eabe1af8ad58cdf32b0186dd9938cdf9",
-                    "reference": "7d6c7526eabe1af8ad58cdf32b0186dd9938cdf9",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-scheduler/zipball/c9d71e7027e81eae10745cc72016a6d3d91cf1a8",
+                    "reference": "c9d71e7027e81eae10745cc72016a6d3d91cf1a8",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
-                    "amasty/cron-schedule-list": ">=1.0.6",
+                    "amasty/base": ">=1.14.2",
+                    "amasty/cron-schedule-list": ">=1.0.3",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:54:45+00:00",
+                "time": "2024-12-18T11:08:35+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -776,8 +776,170 @@
                 ],
                 "description": "Cron Scheduler by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-cron-scheduler/tree/1.0.10.3",
+                    "source": "https://github.com/B2bZanden/amasty-cron-scheduler/tree/1.0.11",
                     "issues": "https://github.com/B2bZanden/amasty-cron-scheduler/issues"
+                }
+            }
+        },
+        "amasty/image-optimizer-speed-size": {
+            "dev-main": {
+                "name": "amasty/image-optimizer-speed-size",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-image-optimizer-speed-size.git",
+                    "reference": "e0cd34b637a1404994d23081d4d01cb5e29abe12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-image-optimizer-speed-size/zipball/e0cd34b637a1404994d23081d4d01cb5e29abe12",
+                    "reference": "e0cd34b637a1404994d23081d4d01cb5e29abe12",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.6",
+                    "amasty/module-image-optimizer-ui": ">=1.1.6",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:32:51+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizerSpeedSize\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Speed Size Image Optimizer Integration by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-image-optimizer-speed-size/tree/main",
+                    "issues": "https://github.com/B2bZanden/amasty-image-optimizer-speed-size/issues"
+                }
+            }
+        },
+        "amasty/module-composite-product-price-indexer": {
+            "1.0.1": {
+                "name": "amasty/module-composite-product-price-indexer",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-composite-product-price-indexer.git",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-composite-product-price-indexer/zipball/3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:03:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CompositeProductPriceIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Composite Product Price Indexer by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/tree/1.0.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-composite-product-price-indexer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-composite-product-price-indexer.git",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-composite-product-price-indexer/zipball/3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:03:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CompositeProductPriceIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Composite Product Price Indexer by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/tree/1.0.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/issues"
+                }
+            },
+            "dev-main": {
+                "name": "amasty/module-composite-product-price-indexer",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-composite-product-price-indexer.git",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-composite-product-price-indexer/zipball/3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "reference": "3b1cea84326e68b7fe445930e81e9b35413e20b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:03:08+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CompositeProductPriceIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Composite Product Price Indexer by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/tree/1.0.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer/issues"
                 }
             }
         },
@@ -1135,27 +1297,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-hide-price/issues"
                 }
             },
-            "dev-develop": {
+            "1.7.1": {
                 "name": "amasty/module-hide-price",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.7.1",
+                "version_normalized": "1.7.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-hide-price.git",
-                    "reference": "5420ff69ebce86173e84d697e83c60da1199ae38"
+                    "reference": "c1255c5c4b6c4f24b56158ce9b2ca04727f164a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-hide-price/zipball/5420ff69ebce86173e84d697e83c60da1199ae38",
-                    "reference": "5420ff69ebce86173e84d697e83c60da1199ae38",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-hide-price/zipball/c1255c5c4b6c4f24b56158ce9b2ca04727f164a3",
+                    "reference": "c1255c5c4b6c4f24b56158ce9b2ca04727f164a3",
                     "shasum": ""
                 },
                 "require": {
-                    "b2bzanden/amasty-base": ">=1.13.2",
+                    "amasty/base": ">=1.16.0",
                     "laminas/laminas-dom": "*",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:52:07+00:00",
+                "time": "2024-12-18T11:13:11+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1166,7 +1328,46 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Hide Price by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-hide-price/tree/1.7.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-hide-price/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-hide-price",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-hide-price.git",
+                    "reference": "4ccaf1d596517432c3604f04a809fc9a5e3466b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-hide-price/zipball/4ccaf1d596517432c3604f04a809fc9a5e3466b7",
+                    "reference": "4ccaf1d596517432c3604f04a809fc9a5e3466b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.16.0",
+                    "laminas/laminas-dom": "*",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:13:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\HidePrice\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Hide Price by Amasty",
                 "support": {
@@ -1181,20 +1382,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-hide-price.git",
-                    "reference": "35ac46b719fc52e035670f0987dfa3722a360455"
+                    "reference": "c1255c5c4b6c4f24b56158ce9b2ca04727f164a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-hide-price/zipball/35ac46b719fc52e035670f0987dfa3722a360455",
-                    "reference": "35ac46b719fc52e035670f0987dfa3722a360455",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-hide-price/zipball/c1255c5c4b6c4f24b56158ce9b2ca04727f164a3",
+                    "reference": "c1255c5c4b6c4f24b56158ce9b2ca04727f164a3",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
+                    "amasty/base": ">=1.16.0",
                     "laminas/laminas-dom": "*",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:52:07+00:00",
+                "time": "2024-12-18T11:13:11+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1206,11 +1407,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Hide Price by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-hide-price/tree/1.5.23.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-hide-price/tree/1.7.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-hide-price/issues"
                 }
             }
@@ -1294,27 +1495,28 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
                 }
             },
-            "dev-develop": {
+            "2.2.0": {
                 "name": "amasty/module-image-optimizer",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git",
-                    "reference": "c220203c8712b66922715d17fadaa408b61f61b9"
+                    "reference": "c50625a05273e8bf550a5308fbc4f0026873af9b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/c220203c8712b66922715d17fadaa408b61f61b9",
-                    "reference": "c220203c8712b66922715d17fadaa408b61f61b9",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/c50625a05273e8bf550a5308fbc4f0026873af9b",
+                    "reference": "c50625a05273e8bf550a5308fbc4f0026873af9b",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-page-speed-tools": ">=2.0.3",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:49:47+00:00",
+                "time": "2024-12-18T11:18:33+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1325,7 +1527,47 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Image Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/2.2.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-image-optimizer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git",
+                    "reference": "c7336081080afe9681ca3f1d5e7fca1db5a2340c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/c7336081080afe9681ca3f1d5e7fca1db5a2340c",
+                    "reference": "c7336081080afe9681ca3f1d5e7fca1db5a2340c",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-page-speed-tools": ">=2.0.3",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:18:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Image Optimizer by Amasty",
                 "support": {
@@ -1340,20 +1582,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-image-optimizer.git",
-                    "reference": "aef3eb5c372a3c45d2fd02527f541c73a277dce0"
+                    "reference": "c50625a05273e8bf550a5308fbc4f0026873af9b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/aef3eb5c372a3c45d2fd02527f541c73a277dce0",
-                    "reference": "aef3eb5c372a3c45d2fd02527f541c73a277dce0",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer/zipball/c50625a05273e8bf550a5308fbc4f0026873af9b",
+                    "reference": "c50625a05273e8bf550a5308fbc4f0026873af9b",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-page-speed-tools": ">=2.0.3",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:49:57+00:00",
+                "time": "2024-12-18T11:18:33+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1365,11 +1608,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Image Optimizer by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/1.1.5.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer/tree/2.2.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer/issues"
                 }
             }
@@ -1453,27 +1696,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/issues"
                 }
             },
-            "dev-develop": {
+            "2.2.0": {
                 "name": "amasty/module-image-optimizer-ui",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-image-optimizer-ui.git",
-                    "reference": "6ff6f5240943a04bbefcd5446ec7166481e03a36"
+                    "reference": "0b1829a09eb074478c950f90c0ca237dd90f5945"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer-ui/zipball/6ff6f5240943a04bbefcd5446ec7166481e03a36",
-                    "reference": "6ff6f5240943a04bbefcd5446ec7166481e03a36",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer-ui/zipball/0b1829a09eb074478c950f90c0ca237dd90f5945",
+                    "reference": "0b1829a09eb074478c950f90c0ca237dd90f5945",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.4",
-                    "amasty/module-image-optimizer": ">=1.1.3",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer": ">=2.0.2",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:49:15+00:00",
+                "time": "2024-12-18T11:20:14+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1484,7 +1727,46 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Image Optimizer Ui by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/tree/2.2.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-image-optimizer-ui",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-image-optimizer-ui.git",
+                    "reference": "3d4bc30143b3182e2155d661e62478295743f516"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer-ui/zipball/3d4bc30143b3182e2155d661e62478295743f516",
+                    "reference": "3d4bc30143b3182e2155d661e62478295743f516",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer": ">=2.0.2",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:20:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizerUi\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Image Optimizer Ui by Amasty",
                 "support": {
@@ -1499,20 +1781,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-image-optimizer-ui.git",
-                    "reference": "8f080efbb18710d1d884cb8494de8bcb5ee511f4"
+                    "reference": "0b1829a09eb074478c950f90c0ca237dd90f5945"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer-ui/zipball/8f080efbb18710d1d884cb8494de8bcb5ee511f4",
-                    "reference": "8f080efbb18710d1d884cb8494de8bcb5ee511f4",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer-ui/zipball/0b1829a09eb074478c950f90c0ca237dd90f5945",
+                    "reference": "0b1829a09eb074478c950f90c0ca237dd90f5945",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.4",
-                    "amasty/module-image-optimizer": ">=1.1.3",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer": ">=2.0.2",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:49:25+00:00",
+                "time": "2024-12-18T11:20:14+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1524,11 +1806,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Image Optimizer Ui by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/tree/1.1.4.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/tree/2.2.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/issues"
                 }
             }
@@ -1849,27 +2131,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-lazy-load/issues"
                 }
             },
-            "dev-develop": {
+            "2.3.0": {
                 "name": "amasty/module-lazy-load",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git",
-                    "reference": "f4ab5bf7f434b3699921c64d3401e28253227b7c"
+                    "reference": "eb4e5533b7b4331c935141d7ddf965fdb6a7b222"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/f4ab5bf7f434b3699921c64d3401e28253227b7c",
-                    "reference": "f4ab5bf7f434b3699921c64d3401e28253227b7c",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/eb4e5533b7b4331c935141d7ddf965fdb6a7b222",
+                    "reference": "eb4e5533b7b4331c935141d7ddf965fdb6a7b222",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-page-speed-tools": ">=2.0.1",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:53:20+00:00",
+                "time": "2024-12-18T11:21:55+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1880,7 +2162,46 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Lazy Load by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load/tree/2.3.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-lazy-load/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-lazy-load",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git",
+                    "reference": "4b7c98d952f477f4e3b63ae5ec540cf1a8921cba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/4b7c98d952f477f4e3b63ae5ec540cf1a8921cba",
+                    "reference": "4b7c98d952f477f4e3b63ae5ec540cf1a8921cba",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-page-speed-tools": ">=2.0.1",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:21:39+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\LazyLoad\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Lazy Load by Amasty",
                 "support": {
@@ -1895,20 +2216,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-lazy-load.git",
-                    "reference": "252ab4b4f9666b21d5dfd154dd28d051523067ef"
+                    "reference": "eb4e5533b7b4331c935141d7ddf965fdb6a7b222"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/252ab4b4f9666b21d5dfd154dd28d051523067ef",
-                    "reference": "252ab4b4f9666b21d5dfd154dd28d051523067ef",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load/zipball/eb4e5533b7b4331c935141d7ddf965fdb6a7b222",
+                    "reference": "eb4e5533b7b4331c935141d7ddf965fdb6a7b222",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-page-speed-tools": ">=2.0.1",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:53:33+00:00",
+                "time": "2024-12-18T11:21:55+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1920,11 +2241,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Lazy Load by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load/tree/1.1.5.3",
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load/tree/2.3.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-lazy-load/issues"
                 }
             }
@@ -2008,27 +2329,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/issues"
                 }
             },
-            "dev-develop": {
+            "1.1.0": {
                 "name": "amasty/module-lazy-load-ui",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git",
-                    "reference": "adbf4c142bc0e300f45f409d298ccf7450d0f0e2"
+                    "reference": "17314f044ccb5897a76f948f302f4f1dfe027312"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/adbf4c142bc0e300f45f409d298ccf7450d0f0e2",
-                    "reference": "adbf4c142bc0e300f45f409d298ccf7450d0f0e2",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/17314f044ccb5897a76f948f302f4f1dfe027312",
+                    "reference": "17314f044ccb5897a76f948f302f4f1dfe027312",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-lazy-load": ">=1.1.5",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-lazy-load": ">=2.2.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:46:33+00:00",
+                "time": "2024-12-18T11:23:12+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2039,7 +2360,46 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Lazy Load Admin Ui by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/tree/1.1.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-lazy-load-ui",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git",
+                    "reference": "1245764b5fe24a1070872e969c4c248e28c18bc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/1245764b5fe24a1070872e969c4c248e28c18bc1",
+                    "reference": "1245764b5fe24a1070872e969c4c248e28c18bc1",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-lazy-load": ">=2.2.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:22:55+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\LazyLoadUi\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Lazy Load Admin Ui by Amasty",
                 "support": {
@@ -2054,20 +2414,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-lazy-load-ui.git",
-                    "reference": "b0c1f941c22bfd7471e0c0cf08565a9aaf986544"
+                    "reference": "17314f044ccb5897a76f948f302f4f1dfe027312"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/b0c1f941c22bfd7471e0c0cf08565a9aaf986544",
-                    "reference": "b0c1f941c22bfd7471e0c0cf08565a9aaf986544",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-lazy-load-ui/zipball/17314f044ccb5897a76f948f302f4f1dfe027312",
+                    "reference": "17314f044ccb5897a76f948f302f4f1dfe027312",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-lazy-load": ">=1.1.5",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-lazy-load": ">=2.2.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:46:45+00:00",
+                "time": "2024-12-18T11:23:12+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2079,11 +2439,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Lazy Load Admin Ui by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/tree/1.0.1.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/tree/1.1.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-lazy-load-ui/issues"
                 }
             }
@@ -2708,6 +3068,138 @@
                 }
             }
         },
+        "amasty/module-optimizer-pro": {
+            "3.5.0": {
+                "name": "amasty/module-optimizer-pro",
+                "version": "3.5.0",
+                "version_normalized": "3.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-optimizer-pro.git",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-optimizer-pro/zipball/f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/image-optimizer-speed-size": ">=2.0.0",
+                    "amasty/module-page-speed-optimizer": ">=2.2.6",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/amp": "Install amasty/amp module to create accelerated mobile pages with the Webp images to improve the mobile score."
+                },
+                "time": "2024-12-18T11:27:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizerPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Speed Optimizer Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-optimizer-pro/tree/3.5.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-optimizer-pro/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-optimizer-pro",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-optimizer-pro.git",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-optimizer-pro/zipball/f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/image-optimizer-speed-size": ">=2.0.0",
+                    "amasty/module-page-speed-optimizer": ">=2.2.6",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/amp": "Install amasty/amp module to create accelerated mobile pages with the Webp images to improve the mobile score."
+                },
+                "time": "2024-12-18T11:27:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizerPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Speed Optimizer Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-optimizer-pro/tree/3.5.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-optimizer-pro/issues"
+                }
+            },
+            "dev-main": {
+                "name": "amasty/module-optimizer-pro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-optimizer-pro.git",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-optimizer-pro/zipball/f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/image-optimizer-speed-size": ">=2.0.0",
+                    "amasty/module-page-speed-optimizer": ">=2.2.6",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/amp": "Install amasty/amp module to create accelerated mobile pages with the Webp images to improve the mobile score."
+                },
+                "time": "2024-12-18T11:27:36+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizerPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Speed Optimizer Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-optimizer-pro/tree/3.5.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-optimizer-pro/issues"
+                }
+            }
+        },
         "amasty/module-page-speed-optimizer": {
             "2.2.1.1": {
                 "name": "amasty/module-page-speed-optimizer",
@@ -2791,29 +3283,29 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
                 }
             },
-            "dev-develop": {
+            "2.2.7": {
                 "name": "amasty/module-page-speed-optimizer",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.2.7",
+                "version_normalized": "2.2.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git",
-                    "reference": "bb3430053b632ceba55bb08719041cc0eb33019a"
+                    "reference": "eee16ae00f720b59973557a2f920ddd1a7c84fc2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/bb3430053b632ceba55bb08719041cc0eb33019a",
-                    "reference": "bb3430053b632ceba55bb08719041cc0eb33019a",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/eee16ae00f720b59973557a2f920ddd1a7c84fc2",
+                    "reference": "eee16ae00f720b59973557a2f920ddd1a7c84fc2",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-image-optimizer-ui": ">=1.1.3",
-                    "amasty/module-lazy-load-ui": ">=1.0.0",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-lazy-load-ui": "*",
+                    "amasty/module-page-speed-tools": ">=2.0.2",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:43:57+00:00",
+                "time": "2024-12-18T11:24:44+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2824,7 +3316,48 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Google Page Speed Optimizer by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/2.2.7",
+                    "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-page-speed-optimizer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git",
+                    "reference": "176df05ea790d8433f11f160aab52ef806328324"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/176df05ea790d8433f11f160aab52ef806328324",
+                    "reference": "176df05ea790d8433f11f160aab52ef806328324",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-lazy-load-ui": "*",
+                    "amasty/module-page-speed-tools": ">=2.0.2",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:24:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Google Page Speed Optimizer by Amasty",
                 "support": {
@@ -2839,22 +3372,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-page-speed-optimizer.git",
-                    "reference": "d19cd3227669a822f9640a0af16f1177234f5c33"
+                    "reference": "eee16ae00f720b59973557a2f920ddd1a7c84fc2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/d19cd3227669a822f9640a0af16f1177234f5c33",
-                    "reference": "d19cd3227669a822f9640a0af16f1177234f5c33",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-optimizer/zipball/eee16ae00f720b59973557a2f920ddd1a7c84fc2",
+                    "reference": "eee16ae00f720b59973557a2f920ddd1a7c84fc2",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
-                    "amasty/module-image-optimizer-ui": ">=1.1.3",
-                    "amasty/module-lazy-load-ui": ">=1.0.0",
-                    "amasty/module-page-speed-tools": ">=1.0.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer-ui": ">=2.0.4",
+                    "amasty/module-lazy-load-ui": "*",
+                    "amasty/module-page-speed-tools": ">=2.0.2",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:44:08+00:00",
+                "time": "2024-12-18T11:24:44+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2866,11 +3399,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Google Page Speed Optimizer by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/2.2.1.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/tree/2.2.7",
                     "issues": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer/issues"
                 }
             }
@@ -2952,26 +3485,26 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-page-speed-tools/issues"
                 }
             },
-            "dev-develop": {
+            "2.1.1": {
                 "name": "amasty/module-page-speed-tools",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git",
-                    "reference": "24c9b0d58081f08717769ade217288117237e3c8"
+                    "reference": "79ad0f99247cdc7d82d22cb6c85d8b3a69f44525"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/24c9b0d58081f08717769ade217288117237e3c8",
-                    "reference": "24c9b0d58081f08717769ade217288117237e3c8",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/79ad0f99247cdc7d82d22cb6c85d8b3a69f44525",
+                    "reference": "79ad0f99247cdc7d82d22cb6c85d8b3a69f44525",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:43:23+00:00",
+                "time": "2024-12-18T11:26:09+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2982,7 +3515,45 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Google Page Speed Tools by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-tools/tree/2.1.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-page-speed-tools/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-page-speed-tools",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git",
+                    "reference": "f467e1babae7dd89b3a2a333a66d19521737363c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/f467e1babae7dd89b3a2a333a66d19521737363c",
+                    "reference": "f467e1babae7dd89b3a2a333a66d19521737363c",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:25:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedTools\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Google Page Speed Tools by Amasty",
                 "support": {
@@ -2997,19 +3568,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-page-speed-tools.git",
-                    "reference": "c44286d6749c202e5a8bc0ae5edb78c9b0a7604f"
+                    "reference": "79ad0f99247cdc7d82d22cb6c85d8b3a69f44525"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/c44286d6749c202e5a8bc0ae5edb78c9b0a7604f",
-                    "reference": "c44286d6749c202e5a8bc0ae5edb78c9b0a7604f",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-page-speed-tools/zipball/79ad0f99247cdc7d82d22cb6c85d8b3a69f44525",
+                    "reference": "79ad0f99247cdc7d82d22cb6c85d8b3a69f44525",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:43:33+00:00",
+                "time": "2024-12-18T11:26:09+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -3021,11 +3592,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Google Page Speed Tools by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-tools/tree/1.0.6.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-page-speed-tools/tree/2.1.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-page-speed-tools/issues"
                 }
             }

@@ -1,0 +1,93 @@
+{
+    "packages": {
+        "amasty/module-optimizer-pro": [
+            {
+                "name": "amasty/module-optimizer-pro",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-optimizer-pro.git",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-optimizer-pro/zipball/f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/image-optimizer-speed-size": ">=2.0.0",
+                    "amasty/module-page-speed-optimizer": ">=2.2.6",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/amp": "Install amasty/amp module to create accelerated mobile pages with the Webp images to improve the mobile score."
+                },
+                "time": "2024-12-18T11:27:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizerPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Speed Optimizer Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-optimizer-pro/tree/3.5.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-optimizer-pro/issues"
+                }
+            },
+            {
+                "name": "amasty/module-optimizer-pro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-optimizer-pro.git",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-optimizer-pro/zipball/f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "reference": "f41ea3d3505b28d3b69a6a978680c057b3e1ca47",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/image-optimizer-speed-size": ">=2.0.0",
+                    "amasty/module-page-speed-optimizer": ">=2.2.6",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/amp": "Install amasty/amp module to create accelerated mobile pages with the Webp images to improve the mobile score."
+                },
+                "time": "2024-12-18T11:27:36+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\PageSpeedOptimizerPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Speed Optimizer Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-optimizer-pro/tree/3.5.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-optimizer-pro/issues"
+                }
+            }
+        ]
+    }
+}

@@ -13,27 +13,19 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-cron-schedule-list"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/amasty-cron-scheduler"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-grouped-options"
+      "url": "https://github.com/B2bZanden/amasty-cron-schedule-list"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form"
+      "url": "https://github.com/B2bZanden/amasty-image-optimizer-speed-size"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes"
+      "url": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer"
     },
     {
       "type": "vcs",
@@ -53,10 +45,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-mage24fix"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/amasty-module-lazy-load"
     },
     {
@@ -65,7 +53,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-lib-swiper-js"
+      "url": "https://github.com/B2bZanden/amasty-module-optimizer-pro"
     },
     {
       "type": "vcs",
@@ -101,11 +89,35 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-shopby-graphql"
+      "url": "https://github.com/B2bZanden/amasty-shopby-seo"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-shopby-seo"
+      "url": "https://github.com/B2bZanden/amasty-module-grouped-options"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-mage24fix"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-module-lib-swiper-js"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/amasty-shopby-graphql"
     },
     {
       "type": "vcs",

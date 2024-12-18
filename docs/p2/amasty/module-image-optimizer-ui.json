@@ -78,6 +78,45 @@
                     "source": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/tree/1.1.4.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/issues"
                 }
+            },
+            {
+                "name": "amasty/module-image-optimizer-ui",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-image-optimizer-ui.git",
+                    "reference": "0b1829a09eb074478c950f90c0ca237dd90f5945"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-image-optimizer-ui/zipball/0b1829a09eb074478c950f90c0ca237dd90f5945",
+                    "reference": "0b1829a09eb074478c950f90c0ca237dd90f5945",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-image-optimizer": ">=2.0.2",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:20:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizerUi\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Image Optimizer Ui by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/tree/2.2.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui/issues"
+                }
             }
         ]
     }

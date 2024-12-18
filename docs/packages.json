@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$18c0303e4d989f9b913bceb118e314a88e41a3bb.json": {
-            "sha1": "18c0303e4d989f9b913bceb118e314a88e41a3bb"
+        "include/all$b351ec8dbab7c69dbd519c07b6608c99ba707e73.json": {
+            "sha1": "b351ec8dbab7c69dbd519c07b6608c99ba707e73"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -11,6 +11,8 @@
         "amasty/base",
         "amasty/cron-schedule-list",
         "amasty/cron-scheduler",
+        "amasty/image-optimizer-speed-size",
+        "amasty/module-composite-product-price-indexer",
         "amasty/module-customer-attributes",
         "amasty/module-grouped-options",
         "amasty/module-hide-price",
@@ -23,6 +25,7 @@
         "amasty/module-mage24fix",
         "amasty/module-magento-custom-form",
         "amasty/module-magento-custom-form-graphql",
+        "amasty/module-optimizer-pro",
         "amasty/module-page-speed-optimizer",
         "amasty/module-page-speed-tools",
         "amasty/module-shop-by-base",

@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "amasty/image-optimizer-speed-size": [
+            {
+                "name": "amasty/image-optimizer-speed-size",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-image-optimizer-speed-size.git",
+                    "reference": "e0cd34b637a1404994d23081d4d01cb5e29abe12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-image-optimizer-speed-size/zipball/e0cd34b637a1404994d23081d4d01cb5e29abe12",
+                    "reference": "e0cd34b637a1404994d23081d4d01cb5e29abe12",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.6",
+                    "amasty/module-image-optimizer-ui": ">=1.1.6",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:32:51+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ImageOptimizerSpeedSize\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Speed Size Image Optimizer Integration by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-image-optimizer-speed-size/tree/main",
+                    "issues": "https://github.com/B2bZanden/amasty-image-optimizer-speed-size/issues"
+                }
+            }
+        ]
+    }
+}
