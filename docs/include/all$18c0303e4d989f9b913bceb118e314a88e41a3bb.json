@@ -232,19 +232,19 @@
                     "issues": "https://github.com/B2bZanden/amasty-base/issues"
                 }
             },
-            "dev-develop": {
+            "1.17.0": {
                 "name": "amasty/base",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.17.0",
+                "version_normalized": "1.17.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-base.git",
-                    "reference": "46a14c1d268a39f4d0948e7f07c76c0890576434"
+                    "reference": "e37dbdd8c8462c76ce3bc1ef0ddde1348261d71f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/46a14c1d268a39f4d0948e7f07c76c0890576434",
-                    "reference": "46a14c1d268a39f4d0948e7f07c76c0890576434",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/e37dbdd8c8462c76ce3bc1ef0ddde1348261d71f",
+                    "reference": "e37dbdd8c8462c76ce3bc1ef0ddde1348261d71f",
                     "shasum": ""
                 },
                 "require": {
@@ -252,7 +252,46 @@
                     "monolog/monolog": ">=1.17",
                     "php": ">=7.3"
                 },
-                "time": "2024-06-21T12:55:47+00:00",
+                "time": "2024-12-18T10:27:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Amasty Base",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-base/tree/1.17.0",
+                    "issues": "https://github.com/B2bZanden/amasty-base/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/base",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-base.git",
+                    "reference": "ece5c06c7d0b12b8363ff838b382ba9dc86dad33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/ece5c06c7d0b12b8363ff838b382ba9dc86dad33",
+                    "reference": "ece5c06c7d0b12b8363ff838b382ba9dc86dad33",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-dom": "*",
+                    "monolog/monolog": ">=1.17",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T10:27:14+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -278,12 +317,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-base.git",
-                    "reference": "afdab60c9f951619744a2180d103a217976205fc"
+                    "reference": "e37dbdd8c8462c76ce3bc1ef0ddde1348261d71f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/afdab60c9f951619744a2180d103a217976205fc",
-                    "reference": "afdab60c9f951619744a2180d103a217976205fc",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-base/zipball/e37dbdd8c8462c76ce3bc1ef0ddde1348261d71f",
+                    "reference": "e37dbdd8c8462c76ce3bc1ef0ddde1348261d71f",
                     "shasum": ""
                 },
                 "require": {
@@ -291,7 +330,7 @@
                     "monolog/monolog": ">=1.17",
                     "php": ">=7.3"
                 },
-                "time": "2024-06-21T12:56:01+00:00",
+                "time": "2024-12-18T10:27:41+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -307,7 +346,7 @@
                 ],
                 "description": "Amasty Base",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-base/tree/1.16.0",
+                    "source": "https://github.com/B2bZanden/amasty-base/tree/1.17.0",
                     "issues": "https://github.com/B2bZanden/amasty-base/issues"
                 }
             }
@@ -386,6 +425,44 @@
                 "description": "Cron Schedule List by Amasty",
                 "support": {
                     "source": "https://github.com/B2bZanden/amasty-cron-schedule-list/tree/1.0.6.2",
+                    "issues": "https://github.com/B2bZanden/amasty-cron-schedule-list/issues"
+                }
+            },
+            "1.0.7": {
+                "name": "amasty/cron-schedule-list",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-cron-schedule-list.git",
+                    "reference": "f2e003f5cb49212a35141be9d70c5b2addb27fa6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-schedule-list/zipball/f2e003f5cb49212a35141be9d70c5b2addb27fa6",
+                    "reference": "f2e003f5cb49212a35141be9d70c5b2addb27fa6",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.6",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:10:05+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CronScheduleList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Cron Schedule List by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-cron-schedule-list/tree/1.0.7",
                     "issues": "https://github.com/B2bZanden/amasty-cron-schedule-list/issues"
                 }
             },
@@ -582,6 +659,45 @@
                 "description": "Cron Scheduler by Amasty",
                 "support": {
                     "source": "https://github.com/B2bZanden/amasty-cron-scheduler/tree/1.0.10.3",
+                    "issues": "https://github.com/B2bZanden/amasty-cron-scheduler/issues"
+                }
+            },
+            "1.0.11": {
+                "name": "amasty/cron-scheduler",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git",
+                    "reference": "c9d71e7027e81eae10745cc72016a6d3d91cf1a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-scheduler/zipball/c9d71e7027e81eae10745cc72016a6d3d91cf1a8",
+                    "reference": "c9d71e7027e81eae10745cc72016a6d3d91cf1a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.2",
+                    "amasty/cron-schedule-list": ">=1.0.3",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:08:35+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CronScheduler\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Cron Scheduler by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-cron-scheduler/tree/1.0.11",
                     "issues": "https://github.com/B2bZanden/amasty-cron-scheduler/issues"
                 }
             },
@@ -1535,27 +1651,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/issues"
                 }
             },
-            "dev-develop": {
+            "2.8.2": {
                 "name": "amasty/module-improved-layered-navigation-page",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.8.2",
+                "version_normalized": "2.8.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git",
-                    "reference": "3b07b4afb94feec2c1bea1bddb66c93dee177706"
+                    "reference": "3a2030bb828c9b9574ed3519bc6f0a31679a8a1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/3b07b4afb94feec2c1bea1bddb66c93dee177706",
-                    "reference": "3b07b4afb94feec2c1bea1bddb66c93dee177706",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/3a2030bb828c9b9574ed3519bc6f0a31679a8a1d",
+                    "reference": "3a2030bb828c9b9574ed3519bc6f0a31679a8a1d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.0.1",
-                    "amasty/module-shop-by-base": ">=2.15.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2023-03-24T11:47:42+00:00",
+                "time": "2024-12-18T10:38:46+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1566,7 +1682,46 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation by Amasty - Page sub-module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/tree/2.8.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-improved-layered-navigation-page",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git",
+                    "reference": "d396b7c570bc4264c9bc2f9f45803a5c3d2f2537"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/d396b7c570bc4264c9bc2f9f45803a5c3d2f2537",
+                    "reference": "d396b7c570bc4264c9bc2f9f45803a5c3d2f2537",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T10:38:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyPage\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Improved Layered Navigation by Amasty - Page sub-module",
                 "support": {
@@ -1581,20 +1736,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git",
-                    "reference": "c7fcc9c454d065633f6d748c643033e75f82a4e7"
+                    "reference": "3a2030bb828c9b9574ed3519bc6f0a31679a8a1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/c7fcc9c454d065633f6d748c643033e75f82a4e7",
-                    "reference": "c7fcc9c454d065633f6d748c643033e75f82a4e7",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/3a2030bb828c9b9574ed3519bc6f0a31679a8a1d",
+                    "reference": "3a2030bb828c9b9574ed3519bc6f0a31679a8a1d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.7",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2024-06-21T13:26:58+00:00",
+                "time": "2024-12-18T10:38:46+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1610,7 +1765,7 @@
                 ],
                 "description": "Improved Layered Navigation by Amasty - Page sub-module",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/tree/2.8.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/tree/2.8.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/issues"
                 }
             }
@@ -3002,6 +3157,48 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-base/issues"
                 }
             },
+            "2.17.1": {
+                "name": "amasty/module-shop-by-base",
+                "version": "2.17.1",
+                "version_normalized": "2.17.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
+                    "reference": "7bb28a3ea37147f2b29e78d2c0d0bd6232485b19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/7bb28a3ea37147f2b29e78d2c0d0bd6232485b19",
+                    "reference": "7bb28a3ea37147f2b29e78d2c0d0bd6232485b19",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-lib-swiper-js": ">=9.1.1",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
+                },
+                "time": "2024-12-18T10:49:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyBase\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation Base by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/2.17.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shop-by-base/issues"
+                }
+            },
             "dev-develop": {
                 "name": "amasty/module-shop-by-base",
                 "version": "dev-develop",
@@ -3009,23 +3206,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
-                    "reference": "4e6b93cedba3639af73cc6cf8817334c0ec2b8e0"
+                    "reference": "2b6212b76b055b1543b4b0c053a8c4be343f0143"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/4e6b93cedba3639af73cc6cf8817334c0ec2b8e0",
-                    "reference": "4e6b93cedba3639af73cc6cf8817334c0ec2b8e0",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/2b6212b76b055b1543b4b0c053a8c4be343f0143",
+                    "reference": "2b6212b76b055b1543b4b0c053a8c4be343f0143",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
+                    "amasty/base": ">=1.17.0",
                     "amasty/module-lib-swiper-js": ">=9.1.1",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
                 },
-                "time": "2024-06-21T13:16:01+00:00",
+                "time": "2024-12-18T10:49:01+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -3051,23 +3248,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
-                    "reference": "bdae2be9083d0e7efc1ae4829318a26373c670ab"
+                    "reference": "7bb28a3ea37147f2b29e78d2c0d0bd6232485b19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/bdae2be9083d0e7efc1ae4829318a26373c670ab",
-                    "reference": "bdae2be9083d0e7efc1ae4829318a26373c670ab",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/7bb28a3ea37147f2b29e78d2c0d0bd6232485b19",
+                    "reference": "7bb28a3ea37147f2b29e78d2c0d0bd6232485b19",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
+                    "amasty/base": ">=1.17.0",
                     "amasty/module-lib-swiper-js": ">=9.1.1",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
                 },
-                "time": "2024-06-21T13:16:19+00:00",
+                "time": "2024-12-18T10:49:13+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -3083,7 +3280,7 @@
                 ],
                 "description": "Improved Layered Navigation Base by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/2.16.11",
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/2.17.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-base/issues"
                 }
             }
@@ -3215,6 +3412,48 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand/issues"
                 }
             },
+            "2.19.0": {
+                "name": "amasty/module-shop-by-brand",
+                "version": "2.19.0",
+                "version_normalized": "2.19.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git",
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/895c362c742c3546ed9e276fdd7d4833216d69ce",
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "amasty/module-shop-by-brand-graphql": "Install module-shop-by-brand-graphql module to activate GraphQl and Shop By Brand integration."
+                },
+                "time": "2024-12-18T10:42:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyBrand\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Shop by Brand by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.19.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand/issues"
+                }
+            },
             "dev-develop": {
                 "name": "amasty/module-shop-by-brand",
                 "version": "dev-develop",
@@ -3222,23 +3461,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git",
-                    "reference": "edd9a85b4f9354549a369fe604852ac5e80805b4"
+                    "reference": "af3fb65b875081a3bc334aed886fb73bb7ca26fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/edd9a85b4f9354549a369fe604852ac5e80805b4",
-                    "reference": "edd9a85b4f9354549a369fe604852ac5e80805b4",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/af3fb65b875081a3bc334aed886fb73bb7ca26fc",
+                    "reference": "af3fb65b875081a3bc334aed886fb73bb7ca26fc",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "amasty/module-shop-by-brand-graphql": "Install module-shop-by-brand-graphql module to activate GraphQl and Shop By Brand integration."
                 },
-                "time": "2024-06-21T13:17:54+00:00",
+                "time": "2024-12-18T10:42:40+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -3264,23 +3503,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git",
-                    "reference": "e337f1429750077059fd0779e07c6a50a4d9d725"
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/e337f1429750077059fd0779e07c6a50a4d9d725",
-                    "reference": "e337f1429750077059fd0779e07c6a50a4d9d725",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/895c362c742c3546ed9e276fdd7d4833216d69ce",
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "amasty/module-shop-by-brand-graphql": "Install module-shop-by-brand-graphql module to activate GraphQl and Shop By Brand integration."
                 },
-                "time": "2024-06-21T13:18:37+00:00",
+                "time": "2024-12-18T10:42:52+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -3296,7 +3535,7 @@
                 ],
                 "description": "Shop by Brand by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.17.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.19.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand/issues"
                 }
             }
@@ -3349,12 +3588,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand-graphql.git",
-                    "reference": "3a0c0c35f4843c63bdc99a1f52966c27ee48a3a5"
+                    "reference": "8d0630217c05c36eb0dab715ab6de95cf7ec407e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand-graphql/zipball/3a0c0c35f4843c63bdc99a1f52966c27ee48a3a5",
-                    "reference": "3a0c0c35f4843c63bdc99a1f52966c27ee48a3a5",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand-graphql/zipball/8d0630217c05c36eb0dab715ab6de95cf7ec407e",
+                    "reference": "8d0630217c05c36eb0dab715ab6de95cf7ec407e",
                     "shasum": ""
                 },
                 "require": {
@@ -3363,7 +3602,7 @@
                     "magento/module-graph-ql": "*",
                     "php": ">=7.3"
                 },
-                "time": "2024-06-21T13:19:33+00:00",
+                "time": "2024-12-18T10:41:18+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -3378,7 +3617,7 @@
                 ],
                 "description": "Shop by Brand Graphql By Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand-graphql/tree/1.1.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand-graphql/tree/develop",
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand-graphql/issues"
                 }
             },
@@ -3464,27 +3703,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-pro/issues"
                 }
             },
-            "dev-develop": {
+            "3.2.2": {
                 "name": "amasty/module-shopby-pro",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shopby-pro.git",
-                    "reference": "7804ae74d3e959516ab1e355d7dbd0bb46c36d1d"
+                    "reference": "f2902db31d2c06cd3244c2a73312820ff50b4ba1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-pro/zipball/7804ae74d3e959516ab1e355d7dbd0bb46c36d1d",
-                    "reference": "7804ae74d3e959516ab1e355d7dbd0bb46c36d1d",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-pro/zipball/f2902db31d2c06cd3244c2a73312820ff50b4ba1",
+                    "reference": "f2902db31d2c06cd3244c2a73312820ff50b4ba1",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/shopby": ">=3.1.0",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/shopby": ">=3.2.1",
                     "php": ">=7.3.0"
                 },
-                "time": "2024-06-21T13:28:24+00:00",
+                "time": "2024-12-18T10:36:49+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -3499,7 +3738,46 @@
                 ],
                 "description": "Improved Layered Navigation Pro by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/3.1.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/3.2.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shopby-pro/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-shopby-pro",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shopby-pro.git",
+                    "reference": "c506b3f310bbb9fefe9d007332624244e6250d66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-pro/zipball/c506b3f310bbb9fefe9d007332624244e6250d66",
+                    "reference": "c506b3f310bbb9fefe9d007332624244e6250d66",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/shopby": ">=3.2.1",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T10:36:39+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/develop",
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-pro/issues"
                 }
             },
@@ -3510,20 +3788,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shopby-pro.git",
-                    "reference": "7804ae74d3e959516ab1e355d7dbd0bb46c36d1d"
+                    "reference": "f2902db31d2c06cd3244c2a73312820ff50b4ba1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-pro/zipball/7804ae74d3e959516ab1e355d7dbd0bb46c36d1d",
-                    "reference": "7804ae74d3e959516ab1e355d7dbd0bb46c36d1d",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-pro/zipball/f2902db31d2c06cd3244c2a73312820ff50b4ba1",
+                    "reference": "f2902db31d2c06cd3244c2a73312820ff50b4ba1",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/shopby": ">=3.1.0",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/shopby": ">=3.2.1",
                     "php": ">=7.3.0"
                 },
-                "time": "2024-06-21T13:28:24+00:00",
+                "time": "2024-12-18T10:36:49+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -3539,7 +3817,7 @@
                 ],
                 "description": "Improved Layered Navigation Pro by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/3.1.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/3.2.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-pro/issues"
                 }
             }
@@ -3600,32 +3878,34 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/issues"
                 }
             },
-            "dev-develop": {
+            "3.2.3": {
                 "name": "amasty/module-shopby-subscription-package-pro",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "3.2.3",
+                "version_normalized": "3.2.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shopby-subscription-package-pro.git",
-                    "reference": "b4ce5feeabbc71f15d09be40a7ea49187a44f186"
+                    "reference": "0340e9f72d948a464bdfa9b162268eba0aa5b43b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-subscription-package-pro/zipball/b4ce5feeabbc71f15d09be40a7ea49187a44f186",
-                    "reference": "b4ce5feeabbc71f15d09be40a7ea49187a44f186",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-subscription-package-pro/zipball/0340e9f72d948a464bdfa9b162268eba0aa5b43b",
+                    "reference": "0340e9f72d948a464bdfa9b162268eba0aa5b43b",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shopby-pro": ">=3.1.0",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shopby-pro": ">=3.2.2",
                     "php": ">=7.3"
                 },
                 "suggest": {
+                    "amasty/module-ai-shop-by-brand-content-generator": "Install this package for Ai Content Generator module compatibility.",
                     "amasty/module-improved-layered-navigation-page-export-entity": "Install this package for Export Custom Pages compatibility.",
                     "amasty/module-improved-layered-navigation-page-import-entity": "Install this package for Import Custom Pages compatibility.",
                     "amasty/module-shop-by-base-hyva-compatibility": "Install module-shop-by-base-hyva-compatibility module to activate the integration Base module with Hyva Theme",
                     "amasty/module-shop-by-brand-hyva-compatibility": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Brand module with Hyva Theme",
                     "amasty/module-shop-by-brand-subscription-functionality": "Install this package for compatibility with subscription features.",
+                    "amasty/module-shop-by-brand-subscription-functionality-hyva": "Install this package to ensure the Shop By Brand Subscription Functionality works with Hyvä Theme.",
                     "amasty/module-shop-by-filter-highlight": "Install this package in order to use custom filter highlight color functionality",
                     "amasty/module-shopby-grouped-options-hyva": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Grouper Options module with Hyva Theme",
                     "amasty/module-shopby-hyva-compatibility": "Install module-shopby-hyva-compatibility module to activate the integration with Hyva Theme",
@@ -3635,7 +3915,7 @@
                     "amasty/shop-by-brand-widget": "Install this package in order to manage Slider Widget Brands.",
                     "amasty/shop-by-redirect": "Install this package to enable 301 redirect for SEO-optimized Urls functionality"
                 },
-                "time": "2024-06-21T13:33:07+00:00",
+                "time": "2024-12-18T10:29:20+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -3651,7 +3931,64 @@
                 "description": "Shopby Subscription Package Pro by Amasty",
                 "homepage": "https://amasty.com/",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/tree/3.1.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/tree/3.2.3",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-shopby-subscription-package-pro",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shopby-subscription-package-pro.git",
+                    "reference": "3447e0191abeb45e645ffba97545acfa4e6ef9af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-subscription-package-pro/zipball/3447e0191abeb45e645ffba97545acfa4e6ef9af",
+                    "reference": "3447e0191abeb45e645ffba97545acfa4e6ef9af",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shopby-pro": ">=3.2.2",
+                    "php": ">=7.3"
+                },
+                "suggest": {
+                    "amasty/module-ai-shop-by-brand-content-generator": "Install this package for Ai Content Generator module compatibility.",
+                    "amasty/module-improved-layered-navigation-page-export-entity": "Install this package for Export Custom Pages compatibility.",
+                    "amasty/module-improved-layered-navigation-page-import-entity": "Install this package for Import Custom Pages compatibility.",
+                    "amasty/module-shop-by-base-hyva-compatibility": "Install module-shop-by-base-hyva-compatibility module to activate the integration Base module with Hyva Theme",
+                    "amasty/module-shop-by-brand-hyva-compatibility": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Brand module with Hyva Theme",
+                    "amasty/module-shop-by-brand-subscription-functionality": "Install this package for compatibility with subscription features.",
+                    "amasty/module-shop-by-brand-subscription-functionality-hyva": "Install this package to ensure the Shop By Brand Subscription Functionality works with Hyvä Theme.",
+                    "amasty/module-shop-by-filter-highlight": "Install this package in order to use custom filter highlight color functionality",
+                    "amasty/module-shopby-grouped-options-hyva": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Grouper Options module with Hyva Theme",
+                    "amasty/module-shopby-hyva-compatibility": "Install module-shopby-hyva-compatibility module to activate the integration with Hyva Theme",
+                    "amasty/module-shopby-setting-export-entity": "Install this package for Export compatibility",
+                    "amasty/module-shopby-setting-import-entity": "Install this package for Import compatibility",
+                    "amasty/module-shopby-subscription-functionality": "Install this package for compatibility with subscription features.",
+                    "amasty/shop-by-brand-widget": "Install this package in order to manage Slider Widget Brands.",
+                    "amasty/shop-by-redirect": "Install this package to enable 301 redirect for SEO-optimized Urls functionality"
+                },
+                "time": "2024-12-18T10:29:11+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbySubscriptionPackagePro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Shopby Subscription Package Pro by Amasty",
+                "homepage": "https://amasty.com/",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/tree/develop",
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/issues"
                 }
             },
@@ -3662,25 +3999,27 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shopby-subscription-package-pro.git",
-                    "reference": "b4ce5feeabbc71f15d09be40a7ea49187a44f186"
+                    "reference": "0340e9f72d948a464bdfa9b162268eba0aa5b43b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-subscription-package-pro/zipball/b4ce5feeabbc71f15d09be40a7ea49187a44f186",
-                    "reference": "b4ce5feeabbc71f15d09be40a7ea49187a44f186",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-subscription-package-pro/zipball/0340e9f72d948a464bdfa9b162268eba0aa5b43b",
+                    "reference": "0340e9f72d948a464bdfa9b162268eba0aa5b43b",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shopby-pro": ">=3.1.0",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shopby-pro": ">=3.2.2",
                     "php": ">=7.3"
                 },
                 "suggest": {
+                    "amasty/module-ai-shop-by-brand-content-generator": "Install this package for Ai Content Generator module compatibility.",
                     "amasty/module-improved-layered-navigation-page-export-entity": "Install this package for Export Custom Pages compatibility.",
                     "amasty/module-improved-layered-navigation-page-import-entity": "Install this package for Import Custom Pages compatibility.",
                     "amasty/module-shop-by-base-hyva-compatibility": "Install module-shop-by-base-hyva-compatibility module to activate the integration Base module with Hyva Theme",
                     "amasty/module-shop-by-brand-hyva-compatibility": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Brand module with Hyva Theme",
                     "amasty/module-shop-by-brand-subscription-functionality": "Install this package for compatibility with subscription features.",
+                    "amasty/module-shop-by-brand-subscription-functionality-hyva": "Install this package to ensure the Shop By Brand Subscription Functionality works with Hyvä Theme.",
                     "amasty/module-shop-by-filter-highlight": "Install this package in order to use custom filter highlight color functionality",
                     "amasty/module-shopby-grouped-options-hyva": "Install module-shop-by-brand-hyva-compatibility module to activate the integration Grouper Options module with Hyva Theme",
                     "amasty/module-shopby-hyva-compatibility": "Install module-shopby-hyva-compatibility module to activate the integration with Hyva Theme",
@@ -3690,7 +4029,7 @@
                     "amasty/shop-by-brand-widget": "Install this package in order to manage Slider Widget Brands.",
                     "amasty/shop-by-redirect": "Install this package to enable 301 redirect for SEO-optimized Urls functionality"
                 },
-                "time": "2024-06-21T13:33:07+00:00",
+                "time": "2024-12-18T10:29:20+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -3707,7 +4046,7 @@
                 "description": "Shopby Subscription Package Pro by Amasty",
                 "homepage": "https://amasty.com/",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/tree/3.1.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/tree/3.2.3",
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro/issues"
                 }
             }
@@ -3866,27 +4205,28 @@
                     "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
                 }
             },
-            "dev-develop": {
+            "3.2.2": {
                 "name": "amasty/shopby",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby.git",
-                    "reference": "fd7c4de24c30dfc811d44ebea7b9d47102fe1246"
+                    "reference": "4b3c86755ea18b58925cc980d1ca764197450a8d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/fd7c4de24c30dfc811d44ebea7b9d47102fe1246",
-                    "reference": "fd7c4de24c30dfc811d44ebea7b9d47102fe1246",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/4b3c86755ea18b58925cc980d1ca764197450a8d",
+                    "reference": "4b3c86755ea18b58925cc980d1ca764197450a8d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-improved-layered-navigation-page": ">=2.8.0",
-                    "amasty/module-shop-by-base": ">=2.16.10",
-                    "amasty/module-shop-by-brand": ">=2.17.0",
-                    "amasty/shopby-seo": ">=2.15.2",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-composite-product-price-indexer": ">=1.0.1",
+                    "amasty/module-improved-layered-navigation-page": ">=2.8.2",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "amasty/module-shop-by-brand": ">=2.18.0",
+                    "amasty/shopby-seo": ">=2.16.0",
                     "magento/module-catalog-search": ">=101.0.2",
                     "magento/module-layered-navigation": ">=100.2.0",
                     "magento/module-swatches": ">=100.2.0",
@@ -3898,7 +4238,59 @@
                     "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
                     "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
                 },
-                "time": "2024-06-21T13:12:13+00:00",
+                "time": "2024-12-18T10:58:54+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Shopby\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.2.2",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/shopby",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby.git",
+                    "reference": "3c0cd7a40f8124bba33f12c0f9d1f663c19bf80e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/3c0cd7a40f8124bba33f12c0f9d1f663c19bf80e",
+                    "reference": "3c0cd7a40f8124bba33f12c0f9d1f663c19bf80e",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-composite-product-price-indexer": ">=1.0.1",
+                    "amasty/module-improved-layered-navigation-page": ">=2.8.2",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "amasty/module-shop-by-brand": ">=2.18.0",
+                    "amasty/shopby-seo": ">=2.16.0",
+                    "magento/module-catalog-search": ">=101.0.2",
+                    "magento/module-layered-navigation": ">=100.2.0",
+                    "magento/module-swatches": ">=100.2.0",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "amasty/module-grouped-options": "Install module-grouped-options module to activate Grouped Options integration.",
+                    "amasty/module-mage-2.4.5-fix": "Install module-mage-2.4.5-fix to fix bugs with Product Collection Changes that were added in 2.4.5 version.",
+                    "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
+                    "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
+                },
+                "time": "2024-12-18T10:50:29+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -3924,20 +4316,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby.git",
-                    "reference": "e0d1af6997d95c197239c373fd439102a6f48608"
+                    "reference": "4b3c86755ea18b58925cc980d1ca764197450a8d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/e0d1af6997d95c197239c373fd439102a6f48608",
-                    "reference": "e0d1af6997d95c197239c373fd439102a6f48608",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby/zipball/4b3c86755ea18b58925cc980d1ca764197450a8d",
+                    "reference": "4b3c86755ea18b58925cc980d1ca764197450a8d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-improved-layered-navigation-page": ">=2.8.0",
-                    "amasty/module-shop-by-base": ">=2.16.10",
-                    "amasty/module-shop-by-brand": ">=2.17.0",
-                    "amasty/shopby-seo": ">=2.15.2",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-composite-product-price-indexer": ">=1.0.1",
+                    "amasty/module-improved-layered-navigation-page": ">=2.8.2",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "amasty/module-shop-by-brand": ">=2.18.0",
+                    "amasty/shopby-seo": ">=2.16.0",
                     "magento/module-catalog-search": ">=101.0.2",
                     "magento/module-layered-navigation": ">=100.2.0",
                     "magento/module-swatches": ">=100.2.0",
@@ -3949,7 +4342,7 @@
                     "amasty/module-shopby-mftf-3": "Install module-shopby-mftf-3 module to implement mftf-tests for Magento 2.4.5+ versions.",
                     "amasty/shopby-graphql": "Install shopby-graph-ql module to activate GraphQl and Shopby integration."
                 },
-                "time": "2024-06-21T13:12:35+00:00",
+                "time": "2024-12-18T10:58:54+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -3965,7 +4358,7 @@
                 ],
                 "description": "Improved Layered Navigation by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.1.1",
+                    "source": "https://github.com/B2bZanden/amasty-shopby/tree/3.2.2",
                     "issues": "https://github.com/B2bZanden/amasty-shopby/issues"
                 }
             }
@@ -4211,27 +4604,27 @@
                     "issues": "https://github.com/B2bZanden/amasty-shopby-seo/issues"
                 }
             },
-            "dev-develop": {
+            "2.16.0": {
                 "name": "amasty/shopby-seo",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.16.0",
+                "version_normalized": "2.16.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
-                    "reference": "5971748466974de7c1de0911119269c341ce1f5a"
+                    "reference": "31f747d358396ff37c8e522681c60963cc21da78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/5971748466974de7c1de0911119269c341ce1f5a",
-                    "reference": "5971748466974de7c1de0911119269c341ce1f5a",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/31f747d358396ff37c8e522681c60963cc21da78",
+                    "reference": "31f747d358396ff37c8e522681c60963cc21da78",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.0.1",
-                    "amasty/module-shop-by-base": ">=2.15.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2023-03-24T11:39:39+00:00",
+                "time": "2024-12-18T10:31:19+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -4242,7 +4635,46 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation by Amasty - SEO sub-module",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/2.16.0",
+                    "issues": "https://github.com/B2bZanden/amasty-shopby-seo/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/shopby-seo",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
+                    "reference": "36d124096c3c09caeeaec40eb2fdbf60bd646a87"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/36d124096c3c09caeeaec40eb2fdbf60bd646a87",
+                    "reference": "36d124096c3c09caeeaec40eb2fdbf60bd646a87",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T10:31:11+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbySeo\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Improved Layered Navigation by Amasty - SEO sub-module",
                 "support": {
@@ -4257,20 +4689,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
-                    "reference": "475df5da6e6024c2f42d37fcdc017b520a1df904"
+                    "reference": "31f747d358396ff37c8e522681c60963cc21da78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/475df5da6e6024c2f42d37fcdc017b520a1df904",
-                    "reference": "475df5da6e6024c2f42d37fcdc017b520a1df904",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/31f747d358396ff37c8e522681c60963cc21da78",
+                    "reference": "31f747d358396ff37c8e522681c60963cc21da78",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2024-06-21T13:31:02+00:00",
+                "time": "2024-12-18T10:31:19+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -4286,7 +4718,7 @@
                 ],
                 "description": "Improved Layered Navigation by Amasty - SEO sub-module",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/2.15.3",
+                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/2.16.0",
                     "issues": "https://github.com/B2bZanden/amasty-shopby-seo/issues"
                 }
             }

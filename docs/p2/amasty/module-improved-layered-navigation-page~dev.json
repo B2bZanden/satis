@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git",
-                    "reference": "3b07b4afb94feec2c1bea1bddb66c93dee177706"
+                    "reference": "d396b7c570bc4264c9bc2f9f45803a5c3d2f2537"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/3b07b4afb94feec2c1bea1bddb66c93dee177706",
-                    "reference": "3b07b4afb94feec2c1bea1bddb66c93dee177706",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/d396b7c570bc4264c9bc2f9f45803a5c3d2f2537",
+                    "reference": "d396b7c570bc4264c9bc2f9f45803a5c3d2f2537",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.0.1",
-                    "amasty/module-shop-by-base": ">=2.15.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2023-03-24T11:47:42+00:00",
+                "time": "2024-12-18T10:38:36+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -32,7 +32,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Improved Layered Navigation by Amasty - Page sub-module",
                 "support": {
@@ -47,20 +47,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-improved-layered-navigation-page.git",
-                    "reference": "c7fcc9c454d065633f6d748c643033e75f82a4e7"
+                    "reference": "3a2030bb828c9b9574ed3519bc6f0a31679a8a1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/c7fcc9c454d065633f6d748c643033e75f82a4e7",
-                    "reference": "c7fcc9c454d065633f6d748c643033e75f82a4e7",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-improved-layered-navigation-page/zipball/3a2030bb828c9b9574ed3519bc6f0a31679a8a1d",
+                    "reference": "3a2030bb828c9b9574ed3519bc6f0a31679a8a1d",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.7",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2024-06-21T13:26:58+00:00",
+                "time": "2024-12-18T10:38:46+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -76,7 +76,7 @@
                 ],
                 "description": "Improved Layered Navigation by Amasty - Page sub-module",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/tree/2.8.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/tree/2.8.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page/issues"
                 }
             }

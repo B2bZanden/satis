@@ -126,6 +126,48 @@
                     "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.17.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand/issues"
                 }
+            },
+            {
+                "name": "amasty/module-shop-by-brand",
+                "version": "2.19.0",
+                "version_normalized": "2.19.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git",
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/895c362c742c3546ed9e276fdd7d4833216d69ce",
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
+                    "php": ">=7.3.0"
+                },
+                "suggest": {
+                    "amasty/module-shop-by-brand-graphql": "Install module-shop-by-brand-graphql module to activate GraphQl and Shop By Brand integration."
+                },
+                "time": "2024-12-18T10:42:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyBrand\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Shop by Brand by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.19.0",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand/issues"
+                }
             }
         ]
     }

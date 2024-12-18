@@ -117,6 +117,45 @@
                     "source": "https://github.com/B2bZanden/amasty-cron-scheduler/tree/1.0.10.3",
                     "issues": "https://github.com/B2bZanden/amasty-cron-scheduler/issues"
                 }
+            },
+            {
+                "name": "amasty/cron-scheduler",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-cron-scheduler.git",
+                    "reference": "c9d71e7027e81eae10745cc72016a6d3d91cf1a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-cron-scheduler/zipball/c9d71e7027e81eae10745cc72016a6d3d91cf1a8",
+                    "reference": "c9d71e7027e81eae10745cc72016a6d3d91cf1a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.14.2",
+                    "amasty/cron-schedule-list": ">=1.0.3",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T11:08:35+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CronScheduler\\": ""
+                    }
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "description": "Cron Scheduler by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-cron-scheduler/tree/1.0.11",
+                    "issues": "https://github.com/B2bZanden/amasty-cron-scheduler/issues"
+                }
             }
         ]
     }

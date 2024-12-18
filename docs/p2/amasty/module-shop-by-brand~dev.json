@@ -8,23 +8,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git",
-                    "reference": "edd9a85b4f9354549a369fe604852ac5e80805b4"
+                    "reference": "af3fb65b875081a3bc334aed886fb73bb7ca26fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/edd9a85b4f9354549a369fe604852ac5e80805b4",
-                    "reference": "edd9a85b4f9354549a369fe604852ac5e80805b4",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/af3fb65b875081a3bc334aed886fb73bb7ca26fc",
+                    "reference": "af3fb65b875081a3bc334aed886fb73bb7ca26fc",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "amasty/module-shop-by-brand-graphql": "Install module-shop-by-brand-graphql module to activate GraphQl and Shop By Brand integration."
                 },
-                "time": "2024-06-21T13:17:54+00:00",
+                "time": "2024-12-18T10:42:40+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -50,23 +50,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-brand.git",
-                    "reference": "e337f1429750077059fd0779e07c6a50a4d9d725"
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/e337f1429750077059fd0779e07c6a50a4d9d725",
-                    "reference": "e337f1429750077059fd0779e07c6a50a4d9d725",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-brand/zipball/895c362c742c3546ed9e276fdd7d4833216d69ce",
+                    "reference": "895c362c742c3546ed9e276fdd7d4833216d69ce",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "amasty/module-shop-by-brand-graphql": "Install module-shop-by-brand-graphql module to activate GraphQl and Shop By Brand integration."
                 },
-                "time": "2024-06-21T13:18:37+00:00",
+                "time": "2024-12-18T10:42:52+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -82,7 +82,7 @@
                 ],
                 "description": "Shop by Brand by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.17.1",
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-brand/tree/2.19.0",
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-brand/issues"
                 }
             }

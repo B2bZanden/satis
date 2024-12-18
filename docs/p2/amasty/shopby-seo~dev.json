@@ -8,20 +8,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
-                    "reference": "5971748466974de7c1de0911119269c341ce1f5a"
+                    "reference": "36d124096c3c09caeeaec40eb2fdbf60bd646a87"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/5971748466974de7c1de0911119269c341ce1f5a",
-                    "reference": "5971748466974de7c1de0911119269c341ce1f5a",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/36d124096c3c09caeeaec40eb2fdbf60bd646a87",
+                    "reference": "36d124096c3c09caeeaec40eb2fdbf60bd646a87",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.0.1",
-                    "amasty/module-shop-by-base": ">=2.15.6",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2023-03-24T11:39:39+00:00",
+                "time": "2024-12-18T10:31:11+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -32,7 +32,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Improved Layered Navigation by Amasty - SEO sub-module",
                 "support": {
@@ -47,20 +47,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-shopby-seo.git",
-                    "reference": "475df5da6e6024c2f42d37fcdc017b520a1df904"
+                    "reference": "31f747d358396ff37c8e522681c60963cc21da78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/475df5da6e6024c2f42d37fcdc017b520a1df904",
-                    "reference": "475df5da6e6024c2f42d37fcdc017b520a1df904",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-shopby-seo/zipball/31f747d358396ff37c8e522681c60963cc21da78",
+                    "reference": "31f747d358396ff37c8e522681c60963cc21da78",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
-                    "amasty/module-shop-by-base": ">=2.16.10",
+                    "amasty/base": ">=1.17.0",
+                    "amasty/module-shop-by-base": ">=2.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2024-06-21T13:31:02+00:00",
+                "time": "2024-12-18T10:31:19+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -76,7 +76,7 @@
                 ],
                 "description": "Improved Layered Navigation by Amasty - SEO sub-module",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/2.15.3",
+                    "source": "https://github.com/B2bZanden/amasty-shopby-seo/tree/2.16.0",
                     "issues": "https://github.com/B2bZanden/amasty-shopby-seo/issues"
                 }
             }

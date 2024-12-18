@@ -39,6 +39,45 @@
                     "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/3.1.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-shopby-pro/issues"
                 }
+            },
+            {
+                "name": "amasty/module-shopby-pro",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-shopby-pro.git",
+                    "reference": "f2902db31d2c06cd3244c2a73312820ff50b4ba1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shopby-pro/zipball/f2902db31d2c06cd3244c2a73312820ff50b4ba1",
+                    "reference": "f2902db31d2c06cd3244c2a73312820ff50b4ba1",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "amasty/shopby": ">=3.2.1",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T10:36:49+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\ShopbyPro\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Improved Layered Navigation Pro by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-shopby-pro/tree/3.2.2",
+                    "issues": "https://github.com/B2bZanden/amasty-module-shopby-pro/issues"
+                }
             }
         ]
     }

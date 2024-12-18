@@ -8,23 +8,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
-                    "reference": "4e6b93cedba3639af73cc6cf8817334c0ec2b8e0"
+                    "reference": "2b6212b76b055b1543b4b0c053a8c4be343f0143"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/4e6b93cedba3639af73cc6cf8817334c0ec2b8e0",
-                    "reference": "4e6b93cedba3639af73cc6cf8817334c0ec2b8e0",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/2b6212b76b055b1543b4b0c053a8c4be343f0143",
+                    "reference": "2b6212b76b055b1543b4b0c053a8c4be343f0143",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
+                    "amasty/base": ">=1.17.0",
                     "amasty/module-lib-swiper-js": ">=9.1.1",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
                 },
-                "time": "2024-06-21T13:16:01+00:00",
+                "time": "2024-12-18T10:49:01+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -50,23 +50,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-shop-by-base.git",
-                    "reference": "bdae2be9083d0e7efc1ae4829318a26373c670ab"
+                    "reference": "7bb28a3ea37147f2b29e78d2c0d0bd6232485b19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/bdae2be9083d0e7efc1ae4829318a26373c670ab",
-                    "reference": "bdae2be9083d0e7efc1ae4829318a26373c670ab",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-shop-by-base/zipball/7bb28a3ea37147f2b29e78d2c0d0bd6232485b19",
+                    "reference": "7bb28a3ea37147f2b29e78d2c0d0bd6232485b19",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.15.2",
+                    "amasty/base": ">=1.17.0",
                     "amasty/module-lib-swiper-js": ">=9.1.1",
                     "php": ">=7.3.0"
                 },
                 "suggest": {
                     "mobiledetect/mobiledetectlib": "We recommend using the 3rd-party library to improve the mobile detection algorithm."
                 },
-                "time": "2024-06-21T13:16:19+00:00",
+                "time": "2024-12-18T10:49:13+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -82,7 +82,7 @@
                 ],
                 "description": "Improved Layered Navigation Base by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/2.16.11",
+                    "source": "https://github.com/B2bZanden/amasty-module-shop-by-base/tree/2.17.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-shop-by-base/issues"
                 }
             }
