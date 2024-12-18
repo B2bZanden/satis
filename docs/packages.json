@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$17a2d5a1d57889ab511f7e76b3dcb46906fc0850.json": {
-            "sha1": "17a2d5a1d57889ab511f7e76b3dcb46906fc0850"
+        "include/all$cc5b36497967d15d720e222eddd6fa4561aab5e4.json": {
+            "sha1": "cc5b36497967d15d720e222eddd6fa4561aab5e4"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -14,6 +14,7 @@
         "amasty/image-optimizer-speed-size",
         "amasty/module-composite-product-price-indexer",
         "amasty/module-customer-attributes",
+        "amasty/module-customer-attributes-lite",
         "amasty/module-grouped-options",
         "amasty/module-hide-price",
         "amasty/module-image-optimizer",
@@ -24,7 +25,6 @@
         "amasty/module-lib-swiper-js",
         "amasty/module-mage24fix",
         "amasty/module-magento-custom-form",
-        "amasty/module-magento-custom-form-graphql",
         "amasty/module-optimizer-pro",
         "amasty/module-page-speed-optimizer",
         "amasty/module-page-speed-tools",

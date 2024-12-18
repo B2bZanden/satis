@@ -101,11 +101,11 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql"
+      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes"
+      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite"
     },
     {
       "type": "vcs",

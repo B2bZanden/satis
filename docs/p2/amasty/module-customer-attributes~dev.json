@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git",
-                    "reference": "2565a56a4a26ad119c8b7337dc14f200b669929e"
+                    "reference": "b9c8e643835de43bfbd6ddac8460304623cc3143"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/2565a56a4a26ad119c8b7337dc14f200b669929e",
-                    "reference": "2565a56a4a26ad119c8b7337dc14f200b669929e",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/b9c8e643835de43bfbd6ddac8460304623cc3143",
+                    "reference": "b9c8e643835de43bfbd6ddac8460304623cc3143",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:54:01+00:00",
+                "time": "2024-12-18T13:35:51+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -31,7 +31,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Customer Attributes by Amasty",
                 "support": {
@@ -46,19 +46,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git",
-                    "reference": "6b33806b3a2adf67c419dfcd089c0cc61f38c828"
+                    "reference": "4f087219797c2823dcd3f686630059c4a9c85b5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/6b33806b3a2adf67c419dfcd089c0cc61f38c828",
-                    "reference": "6b33806b3a2adf67c419dfcd089c0cc61f38c828",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/4f087219797c2823dcd3f686630059c4a9c85b5c",
+                    "reference": "4f087219797c2823dcd3f686630059c4a9c85b5c",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:54:08+00:00",
+                "time": "2024-12-18T13:36:06+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -70,11 +70,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Customer Attributes by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes/tree/2.3.3.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes/tree/2.5.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes/issues"
                 }
             }

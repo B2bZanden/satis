@@ -8,27 +8,27 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form.git",
-                    "reference": "51af54c32927b92466373f3515f92d4eb0697cb6"
+                    "reference": "6164d09b6a27ba6580d04e0d407bc4a1c875f849"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/51af54c32927b92466373f3515f92d4eb0697cb6",
-                    "reference": "51af54c32927b92466373f3515f92d4eb0697cb6",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/6164d09b6a27ba6580d04e0d407bc4a1c875f849",
+                    "reference": "6164d09b6a27ba6580d04e0d407bc4a1c875f849",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/aminvisiblecaptcha": ">=2.4.5",
-                    "amasty/base": ">=1.13.2",
-                    "php": ">=7.3.0"
+                    "amasty/aminvisiblecaptcha": ">=2.5.2",
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0",
+                    "symfony/mime": ">=5.4.0"
                 },
                 "suggest": {
                     "amasty/module-custom-form-to-builder": "Install Amasty_CustomFormToBuilder module to activate the integration with Custom Reports Builder extension and create valuable reports about your Custom Forms.",
+                    "amasty/module-graphql-application-server-compatibility": "Install this package for compatibility with GraphQL Application Server.",
                     "amasty/module-magento-custom-form-graphql": "Install amasty/module-magento-custom-form-graphql module to activate Graphql and Custom Forms integration.",
-                    "amasty/module-magento-custom-form-mftf-2": "Install magento-custom-form-mftf-2 module to be able to run Custom Form MFTF tests for Magento 2.3.5+ version",
-                    "amasty/module-magento-custom-form-mftf-3": "Install magento-custom-form-mftf-3 module to be able to run Custom Form MFTF tests for Magento 2.4.0+ version",
                     "dompdf/dompdf": "To use PDF functionality, please install the library dompdf/dompdf."
                 },
-                "time": "2023-03-24T11:45:29+00:00",
+                "time": "2024-12-18T13:37:56+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -39,7 +39,7 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Custom Form by Amasty",
                 "support": {
@@ -54,27 +54,27 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form.git",
-                    "reference": "7912a3f9cd522d67aa394b660ffe61f99b76cdce"
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/7912a3f9cd522d67aa394b660ffe61f99b76cdce",
-                    "reference": "7912a3f9cd522d67aa394b660ffe61f99b76cdce",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/73649a65ac9241a19446864b66de302bc537654e",
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/aminvisiblecaptcha": ">=2.4.5",
-                    "amasty/base": ">=1.13.2",
-                    "php": ">=7.3.0"
+                    "amasty/aminvisiblecaptcha": ">=2.5.2",
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0",
+                    "symfony/mime": ">=5.4.0"
                 },
                 "suggest": {
                     "amasty/module-custom-form-to-builder": "Install Amasty_CustomFormToBuilder module to activate the integration with Custom Reports Builder extension and create valuable reports about your Custom Forms.",
+                    "amasty/module-graphql-application-server-compatibility": "Install this package for compatibility with GraphQL Application Server.",
                     "amasty/module-magento-custom-form-graphql": "Install amasty/module-magento-custom-form-graphql module to activate Graphql and Custom Forms integration.",
-                    "amasty/module-magento-custom-form-mftf-2": "Install magento-custom-form-mftf-2 module to be able to run Custom Form MFTF tests for Magento 2.3.5+ version",
-                    "amasty/module-magento-custom-form-mftf-3": "Install magento-custom-form-mftf-3 module to be able to run Custom Form MFTF tests for Magento 2.4.0+ version",
                     "dompdf/dompdf": "To use PDF functionality, please install the library dompdf/dompdf."
                 },
-                "time": "2023-03-24T11:45:42+00:00",
+                "time": "2024-12-18T13:38:07+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -86,11 +86,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Custom Form by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.17.3.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.19.3",
                     "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form/issues"
                 }
             }

@@ -77,26 +77,26 @@
                     "issues": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/issues"
                 }
             },
-            "dev-develop": {
+            "2.5.3": {
                 "name": "amasty/aminvisiblecaptcha",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-aminvisiblecaptcha.git",
-                    "reference": "4e3d25f4e6b22c7b0b2cb717d1b95ae11182a45f"
+                    "reference": "1a271e8bda731a49312df952dcaec2a4567ec082"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-aminvisiblecaptcha/zipball/4e3d25f4e6b22c7b0b2cb717d1b95ae11182a45f",
-                    "reference": "4e3d25f4e6b22c7b0b2cb717d1b95ae11182a45f",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-aminvisiblecaptcha/zipball/1a271e8bda731a49312df952dcaec2a4567ec082",
+                    "reference": "1a271e8bda731a49312df952dcaec2a4567ec082",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2023-03-24T11:38:34+00:00",
+                "time": "2024-12-18T13:34:42+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -107,7 +107,45 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Amasty Google Invisible Captcha",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/tree/2.5.3",
+                    "issues": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/aminvisiblecaptcha",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-aminvisiblecaptcha.git",
+                    "reference": "9d5f7526f17485723b4329f5b807a140a692d83b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-aminvisiblecaptcha/zipball/9d5f7526f17485723b4329f5b807a140a692d83b",
+                    "reference": "9d5f7526f17485723b4329f5b807a140a692d83b",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T13:34:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\InvisibleCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Amasty Google Invisible Captcha",
                 "support": {
@@ -122,19 +160,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-aminvisiblecaptcha.git",
-                    "reference": "93f94f10f483093e1e919c7186ba0db988854d63"
+                    "reference": "1a271e8bda731a49312df952dcaec2a4567ec082"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-aminvisiblecaptcha/zipball/93f94f10f483093e1e919c7186ba0db988854d63",
-                    "reference": "93f94f10f483093e1e919c7186ba0db988854d63",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-aminvisiblecaptcha/zipball/1a271e8bda731a49312df952dcaec2a4567ec082",
+                    "reference": "1a271e8bda731a49312df952dcaec2a4567ec082",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.2",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3.0"
                 },
-                "time": "2023-03-24T11:56:07+00:00",
+                "time": "2024-12-18T13:34:42+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -146,11 +184,11 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Amasty Google Invisible Captcha",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/tree/2.4.5.2",
+                    "source": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/tree/2.5.3",
                     "issues": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/issues"
                 }
             }
@@ -1020,26 +1058,26 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes/issues"
                 }
             },
-            "dev-develop": {
+            "2.5.1": {
                 "name": "amasty/module-customer-attributes",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git",
-                    "reference": "2565a56a4a26ad119c8b7337dc14f200b669929e"
+                    "reference": "4f087219797c2823dcd3f686630059c4a9c85b5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/2565a56a4a26ad119c8b7337dc14f200b669929e",
-                    "reference": "2565a56a4a26ad119c8b7337dc14f200b669929e",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/4f087219797c2823dcd3f686630059c4a9c85b5c",
+                    "reference": "4f087219797c2823dcd3f686630059c4a9c85b5c",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:54:01+00:00",
+                "time": "2024-12-18T13:36:06+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1050,7 +1088,45 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Customer Attributes by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes/tree/2.5.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-customer-attributes",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git",
+                    "reference": "b9c8e643835de43bfbd6ddac8460304623cc3143"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/b9c8e643835de43bfbd6ddac8460304623cc3143",
+                    "reference": "b9c8e643835de43bfbd6ddac8460304623cc3143",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3"
+                },
+                "time": "2024-12-18T13:35:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CustomerAttributes\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Customer Attributes by Amasty",
                 "support": {
@@ -1065,19 +1141,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-customer-attributes.git",
-                    "reference": "6b33806b3a2adf67c419dfcd089c0cc61f38c828"
+                    "reference": "4f087219797c2823dcd3f686630059c4a9c85b5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/6b33806b3a2adf67c419dfcd089c0cc61f38c828",
-                    "reference": "6b33806b3a2adf67c419dfcd089c0cc61f38c828",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes/zipball/4f087219797c2823dcd3f686630059c4a9c85b5c",
+                    "reference": "4f087219797c2823dcd3f686630059c4a9c85b5c",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/base": ">=1.13.3",
+                    "amasty/base": ">=1.17.0",
                     "php": ">=7.3"
                 },
-                "time": "2023-03-24T11:54:08+00:00",
+                "time": "2024-12-18T13:36:06+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1089,12 +1165,129 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Customer Attributes by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes/tree/2.3.3.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes/tree/2.5.1",
                     "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes/issues"
+                }
+            }
+        },
+        "amasty/module-customer-attributes-lite": {
+            "2.5.1": {
+                "name": "amasty/module-customer-attributes-lite",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-customer-attributes-lite.git",
+                    "reference": "f31b718a0d17b0e394f0a6086111ce2ca3ca008b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes-lite/zipball/f31b718a0d17b0e394f0a6086111ce2ca3ca008b",
+                    "reference": "f31b718a0d17b0e394f0a6086111ce2ca3ca008b",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/module-customer-attributes": "*",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T13:40:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CustomerAttributesLite\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Customer Attributes Lite by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite/tree/2.5.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-customer-attributes-lite",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-customer-attributes-lite.git",
+                    "reference": "f31b718a0d17b0e394f0a6086111ce2ca3ca008b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes-lite/zipball/f31b718a0d17b0e394f0a6086111ce2ca3ca008b",
+                    "reference": "f31b718a0d17b0e394f0a6086111ce2ca3ca008b",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/module-customer-attributes": "*",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T13:40:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CustomerAttributesLite\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Customer Attributes Lite by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite/tree/2.5.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite/issues"
+                }
+            },
+            "dev-main": {
+                "name": "amasty/module-customer-attributes-lite",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-customer-attributes-lite.git",
+                    "reference": "f31b718a0d17b0e394f0a6086111ce2ca3ca008b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-customer-attributes-lite/zipball/f31b718a0d17b0e394f0a6086111ce2ca3ca008b",
+                    "reference": "f31b718a0d17b0e394f0a6086111ce2ca3ca008b",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/module-customer-attributes": "*",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T13:40:02+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\CustomerAttributesLite\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Customer Attributes Lite by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite/tree/2.5.1",
+                    "issues": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite/issues"
                 }
             }
         },
@@ -2815,34 +3008,34 @@
                     "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form/issues"
                 }
             },
-            "dev-develop": {
+            "1.19.3": {
                 "name": "amasty/module-magento-custom-form",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.19.3",
+                "version_normalized": "1.19.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form.git",
-                    "reference": "51af54c32927b92466373f3515f92d4eb0697cb6"
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/51af54c32927b92466373f3515f92d4eb0697cb6",
-                    "reference": "51af54c32927b92466373f3515f92d4eb0697cb6",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/73649a65ac9241a19446864b66de302bc537654e",
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/aminvisiblecaptcha": ">=2.4.5",
-                    "amasty/base": ">=1.13.2",
-                    "php": ">=7.3.0"
+                    "amasty/aminvisiblecaptcha": ">=2.5.2",
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0",
+                    "symfony/mime": ">=5.4.0"
                 },
                 "suggest": {
                     "amasty/module-custom-form-to-builder": "Install Amasty_CustomFormToBuilder module to activate the integration with Custom Reports Builder extension and create valuable reports about your Custom Forms.",
+                    "amasty/module-graphql-application-server-compatibility": "Install this package for compatibility with GraphQL Application Server.",
                     "amasty/module-magento-custom-form-graphql": "Install amasty/module-magento-custom-form-graphql module to activate Graphql and Custom Forms integration.",
-                    "amasty/module-magento-custom-form-mftf-2": "Install magento-custom-form-mftf-2 module to be able to run Custom Form MFTF tests for Magento 2.3.5+ version",
-                    "amasty/module-magento-custom-form-mftf-3": "Install magento-custom-form-mftf-3 module to be able to run Custom Form MFTF tests for Magento 2.4.0+ version",
                     "dompdf/dompdf": "To use PDF functionality, please install the library dompdf/dompdf."
                 },
-                "time": "2023-03-24T11:45:29+00:00",
+                "time": "2024-12-18T13:38:07+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -2853,7 +3046,53 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
+                ],
+                "description": "Custom Form by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.19.3",
+                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "amasty/module-magento-custom-form",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form.git",
+                    "reference": "6164d09b6a27ba6580d04e0d407bc4a1c875f849"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/6164d09b6a27ba6580d04e0d407bc4a1c875f849",
+                    "reference": "6164d09b6a27ba6580d04e0d407bc4a1c875f849",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/aminvisiblecaptcha": ">=2.5.2",
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0",
+                    "symfony/mime": ">=5.4.0"
+                },
+                "suggest": {
+                    "amasty/module-custom-form-to-builder": "Install Amasty_CustomFormToBuilder module to activate the integration with Custom Reports Builder extension and create valuable reports about your Custom Forms.",
+                    "amasty/module-graphql-application-server-compatibility": "Install this package for compatibility with GraphQL Application Server.",
+                    "amasty/module-magento-custom-form-graphql": "Install amasty/module-magento-custom-form-graphql module to activate Graphql and Custom Forms integration.",
+                    "dompdf/dompdf": "To use PDF functionality, please install the library dompdf/dompdf."
+                },
+                "time": "2024-12-18T13:37:56+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Customform\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
                 ],
                 "description": "Custom Form by Amasty",
                 "support": {
@@ -2868,27 +3107,27 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form.git",
-                    "reference": "7912a3f9cd522d67aa394b660ffe61f99b76cdce"
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/7912a3f9cd522d67aa394b660ffe61f99b76cdce",
-                    "reference": "7912a3f9cd522d67aa394b660ffe61f99b76cdce",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/73649a65ac9241a19446864b66de302bc537654e",
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e",
                     "shasum": ""
                 },
                 "require": {
-                    "amasty/aminvisiblecaptcha": ">=2.4.5",
-                    "amasty/base": ">=1.13.2",
-                    "php": ">=7.3.0"
+                    "amasty/aminvisiblecaptcha": ">=2.5.2",
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0",
+                    "symfony/mime": ">=5.4.0"
                 },
                 "suggest": {
                     "amasty/module-custom-form-to-builder": "Install Amasty_CustomFormToBuilder module to activate the integration with Custom Reports Builder extension and create valuable reports about your Custom Forms.",
+                    "amasty/module-graphql-application-server-compatibility": "Install this package for compatibility with GraphQL Application Server.",
                     "amasty/module-magento-custom-form-graphql": "Install amasty/module-magento-custom-form-graphql module to activate Graphql and Custom Forms integration.",
-                    "amasty/module-magento-custom-form-mftf-2": "Install magento-custom-form-mftf-2 module to be able to run Custom Form MFTF tests for Magento 2.3.5+ version",
-                    "amasty/module-magento-custom-form-mftf-3": "Install magento-custom-form-mftf-3 module to be able to run Custom Form MFTF tests for Magento 2.4.0+ version",
                     "dompdf/dompdf": "To use PDF functionality, please install the library dompdf/dompdf."
                 },
-                "time": "2023-03-24T11:45:42+00:00",
+                "time": "2024-12-18T13:38:07+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2900,171 +3139,12 @@
                     }
                 },
                 "license": [
-                    "Commercial"
+                    "proprietary"
                 ],
                 "description": "Custom Form by Amasty",
                 "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.17.3.2",
+                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.19.3",
                     "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form/issues"
-                }
-            }
-        },
-        "amasty/module-magento-custom-form-graphql": {
-            "1.0.4.1": {
-                "name": "amasty/module-magento-custom-form-graphql",
-                "version": "1.0.4.1",
-                "version_normalized": "1.0.4.1",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form-graphql.git",
-                    "reference": "080a834a15488fd6b0a263ab4c4e2c78a8929e56"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form-graphql/zipball/080a834a15488fd6b0a263ab4c4e2c78a8929e56",
-                    "reference": "080a834a15488fd6b0a263ab4c4e2c78a8929e56",
-                    "shasum": ""
-                },
-                "require": {
-                    "b2bzanden/amasty-base": ">=1.13.2",
-                    "b2bzanden/amasty-module-magento-custom-form": ">=1.17.3",
-                    "php": ">=7.3"
-                },
-                "time": "2022-08-03T12:09:46+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Amasty\\CustomformGraphQl\\": ""
-                    }
-                },
-                "license": [
-                    "Commercial"
-                ],
-                "description": "Custom Form Graphql by Amasty",
-                "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/tree/1.0.4.1",
-                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/issues"
-                }
-            },
-            "1.0.4.2": {
-                "name": "amasty/module-magento-custom-form-graphql",
-                "version": "1.0.4.2",
-                "version_normalized": "1.0.4.2",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form-graphql.git",
-                    "reference": "67f37b325042f50c56806d9470719142e1c6b683"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form-graphql/zipball/67f37b325042f50c56806d9470719142e1c6b683",
-                    "reference": "67f37b325042f50c56806d9470719142e1c6b683",
-                    "shasum": ""
-                },
-                "require": {
-                    "amasty/base": ">=1.13.2",
-                    "amasty/module-magento-custom-form": ">=1.17.3",
-                    "php": ">=7.3"
-                },
-                "time": "2023-03-24T11:44:55+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Amasty\\CustomformGraphQl\\": ""
-                    }
-                },
-                "license": [
-                    "Commercial"
-                ],
-                "description": "Custom Form Graphql by Amasty",
-                "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/tree/1.0.4.2",
-                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/issues"
-                }
-            },
-            "dev-develop": {
-                "name": "amasty/module-magento-custom-form-graphql",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form-graphql.git",
-                    "reference": "2ea1b303d43d1b53dc8002dad83c1402ec8154a3"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form-graphql/zipball/2ea1b303d43d1b53dc8002dad83c1402ec8154a3",
-                    "reference": "2ea1b303d43d1b53dc8002dad83c1402ec8154a3",
-                    "shasum": ""
-                },
-                "require": {
-                    "amasty/base": ">=1.13.2",
-                    "amasty/module-magento-custom-form": ">=1.17.3",
-                    "php": ">=7.3"
-                },
-                "time": "2023-03-24T11:44:41+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Amasty\\CustomformGraphQl\\": ""
-                    }
-                },
-                "license": [
-                    "Commercial"
-                ],
-                "description": "Custom Form Graphql by Amasty",
-                "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/tree/develop",
-                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/issues"
-                }
-            },
-            "dev-main": {
-                "name": "amasty/module-magento-custom-form-graphql",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form-graphql.git",
-                    "reference": "67f37b325042f50c56806d9470719142e1c6b683"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form-graphql/zipball/67f37b325042f50c56806d9470719142e1c6b683",
-                    "reference": "67f37b325042f50c56806d9470719142e1c6b683",
-                    "shasum": ""
-                },
-                "require": {
-                    "amasty/base": ">=1.13.2",
-                    "amasty/module-magento-custom-form": ">=1.17.3",
-                    "php": ">=7.3"
-                },
-                "time": "2023-03-24T11:44:55+00:00",
-                "default-branch": true,
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Amasty\\CustomformGraphQl\\": ""
-                    }
-                },
-                "license": [
-                    "Commercial"
-                ],
-                "description": "Custom Form Graphql by Amasty",
-                "support": {
-                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/tree/1.0.4.2",
-                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form-graphql/issues"
                 }
             }
         },

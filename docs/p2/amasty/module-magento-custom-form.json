@@ -92,6 +92,52 @@
                     "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.17.3.2",
                     "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form/issues"
                 }
+            },
+            {
+                "name": "amasty/module-magento-custom-form",
+                "version": "1.19.3",
+                "version_normalized": "1.19.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-module-magento-custom-form.git",
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-module-magento-custom-form/zipball/73649a65ac9241a19446864b66de302bc537654e",
+                    "reference": "73649a65ac9241a19446864b66de302bc537654e",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/aminvisiblecaptcha": ">=2.5.2",
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0",
+                    "symfony/mime": ">=5.4.0"
+                },
+                "suggest": {
+                    "amasty/module-custom-form-to-builder": "Install Amasty_CustomFormToBuilder module to activate the integration with Custom Reports Builder extension and create valuable reports about your Custom Forms.",
+                    "amasty/module-graphql-application-server-compatibility": "Install this package for compatibility with GraphQL Application Server.",
+                    "amasty/module-magento-custom-form-graphql": "Install amasty/module-magento-custom-form-graphql module to activate Graphql and Custom Forms integration.",
+                    "dompdf/dompdf": "To use PDF functionality, please install the library dompdf/dompdf."
+                },
+                "time": "2024-12-18T13:38:07+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\Customform\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Custom Form by Amasty",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-module-magento-custom-form/tree/1.19.3",
+                    "issues": "https://github.com/B2bZanden/amasty-module-magento-custom-form/issues"
+                }
             }
         ]
     }

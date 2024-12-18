@@ -76,6 +76,44 @@
                     "source": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/tree/2.4.5.2",
                     "issues": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/issues"
                 }
+            },
+            {
+                "name": "amasty/aminvisiblecaptcha",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/amasty-aminvisiblecaptcha.git",
+                    "reference": "1a271e8bda731a49312df952dcaec2a4567ec082"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/amasty-aminvisiblecaptcha/zipball/1a271e8bda731a49312df952dcaec2a4567ec082",
+                    "reference": "1a271e8bda731a49312df952dcaec2a4567ec082",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/base": ">=1.17.0",
+                    "php": ">=7.3.0"
+                },
+                "time": "2024-12-18T13:34:42+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Amasty\\InvisibleCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Amasty Google Invisible Captcha",
+                "support": {
+                    "source": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/tree/2.5.3",
+                    "issues": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha/issues"
+                }
             }
         ]
     }
