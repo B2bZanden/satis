@@ -49,6 +49,55 @@
                     "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.0.8",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
                 }
+            },
+            {
+                "name": "anowave/monitor",
+                "version": "100.0.8.1",
+                "version_normalized": "100.0.8.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
+                    "reference": "579f750d22e973228ca1169455917cb3ce78067a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/579f750d22e973228ca1169455917cb3ce78067a",
+                    "reference": "579f750d22e973228ca1169455917cb3ce78067a",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
+                },
+                "time": "2025-03-12T10:49:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Monitor\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 AI-Powered Smart Pricing & Competitor Monitoring",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave monitor",
+                    "magento 2 monitor"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.0.8.1",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
+                }
             }
         ]
     }
