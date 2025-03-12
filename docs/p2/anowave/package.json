@@ -288,6 +288,54 @@
                     "source": "https://github.com/B2bZanden/Anowave_M2_Package/tree/3.0.1.1",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Package/issues"
                 }
+            },
+            {
+                "name": "anowave/package",
+                "version": "3.0.3",
+                "version_normalized": "3.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Package.git",
+                    "reference": "2d0c02caa1f920ff31337cdf52e35e76a6eca7c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Package/zipball/2d0c02caa1f920ff31337cdf52e35e76a6eca7c9",
+                    "reference": "2d0c02caa1f920ff31337cdf52e35e76a6eca7c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0"
+                },
+                "time": "2025-03-12T10:18:05+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Package\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Anowave Package",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave package",
+                    "magento 2 package extension"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Package/tree/3.0.3",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Package/issues"
+                }
             }
         ]
     }

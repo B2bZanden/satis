@@ -141,6 +141,10 @@
     },
     {
       "type": "vcs",
+      "url": "https://github.com/B2bZanden/Anowave_M2_Monitor"
+    },
+    {
+      "type": "vcs",
       "url": "https://github.com/B2bZanden/Anowave_M2_Package"
     },
     {

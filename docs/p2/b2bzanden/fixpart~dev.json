@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git",
-                    "reference": "baf4e3260b21af594487f40ee2ca53f6b69bef80"
+                    "reference": "dbd9e058f389efa258a255dd5f85d2ccfe428ec1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/baf4e3260b21af594487f40ee2ca53f6b69bef80",
-                    "reference": "baf4e3260b21af594487f40ee2ca53f6b69bef80",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/dbd9e058f389efa258a255dd5f85d2ccfe428ec1",
+                    "reference": "dbd9e058f389efa258a255dd5f85d2ccfe428ec1",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2024-02-20T14:11:51+00:00",
+                "time": "2025-03-11T12:20:06+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {

@@ -6432,6 +6432,107 @@
                 }
             }
         },
+        "anowave/monitor": {
+            "100.0.8": {
+                "name": "anowave/monitor",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
+                    "reference": "7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82",
+                    "reference": "7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
+                },
+                "time": "2025-03-12T10:13:33+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Monitor\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 AI-Powered Smart Pricing & Competitor Monitoring",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave monitor",
+                    "magento 2 monitor"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.0.8",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
+                }
+            },
+            "dev-main": {
+                "name": "anowave/monitor",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
+                    "reference": "7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82",
+                    "reference": "7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
+                },
+                "time": "2025-03-12T10:13:33+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Monitor\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 AI-Powered Smart Pricing & Competitor Monitoring",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave monitor",
+                    "magento 2 monitor"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.0.8",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
+                }
+            }
+        },
         "anowave/package": {
             "1.0.8": {
                 "name": "anowave/package",
@@ -6721,6 +6822,54 @@
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Package/issues"
                 }
             },
+            "3.0.3": {
+                "name": "anowave/package",
+                "version": "3.0.3",
+                "version_normalized": "3.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Package.git",
+                    "reference": "2d0c02caa1f920ff31337cdf52e35e76a6eca7c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Package/zipball/2d0c02caa1f920ff31337cdf52e35e76a6eca7c9",
+                    "reference": "2d0c02caa1f920ff31337cdf52e35e76a6eca7c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0"
+                },
+                "time": "2025-03-12T10:18:05+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Package\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Anowave Package",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave package",
+                    "magento 2 package extension"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Package/tree/3.0.3",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Package/issues"
+                }
+            },
             "dev-develop": {
                 "name": "anowave/package",
                 "version": "dev-develop",
@@ -6776,18 +6925,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Anowave_M2_Package.git",
-                    "reference": "a73aaefd128f1206680a9ce608249991ac0dc693"
+                    "reference": "2d0c02caa1f920ff31337cdf52e35e76a6eca7c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Package/zipball/a73aaefd128f1206680a9ce608249991ac0dc693",
-                    "reference": "a73aaefd128f1206680a9ce608249991ac0dc693",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Package/zipball/2d0c02caa1f920ff31337cdf52e35e76a6eca7c9",
+                    "reference": "2d0c02caa1f920ff31337cdf52e35e76a6eca7c9",
                     "shasum": ""
                 },
                 "require": {
-                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0"
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0"
                 },
-                "time": "2024-01-31T20:21:01+00:00",
+                "time": "2025-03-12T10:18:05+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -6814,7 +6963,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/B2bZanden/Anowave_M2_Package/tree/3.0.1.1",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Package/tree/3.0.3",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Package/issues"
                 }
             }
@@ -11129,18 +11278,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git",
-                    "reference": "baf4e3260b21af594487f40ee2ca53f6b69bef80"
+                    "reference": "dbd9e058f389efa258a255dd5f85d2ccfe428ec1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/baf4e3260b21af594487f40ee2ca53f6b69bef80",
-                    "reference": "baf4e3260b21af594487f40ee2ca53f6b69bef80",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/dbd9e058f389efa258a255dd5f85d2ccfe428ec1",
+                    "reference": "dbd9e058f389efa258a255dd5f85d2ccfe428ec1",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2024-02-20T14:11:51+00:00",
+                "time": "2025-03-11T12:20:06+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
