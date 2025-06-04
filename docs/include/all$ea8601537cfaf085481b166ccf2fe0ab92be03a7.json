@@ -8002,19 +8002,19 @@
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
                 }
             },
-            "dev-develop": {
+            "25.23.1": {
                 "name": "b2bzanden/categorydescriptionbottom",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "25.23.1",
+                "version_normalized": "25.23.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "87ad1fa4f45137fab35f64a5a719a85e6df66b38"
+                    "reference": "ed94a044a59121ebb951dacc6e96b7b6b13666ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/87ad1fa4f45137fab35f64a5a719a85e6df66b38",
-                    "reference": "87ad1fa4f45137fab35f64a5a719a85e6df66b38",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/ed94a044a59121ebb951dacc6e96b7b6b13666ca",
+                    "reference": "ed94a044a59121ebb951dacc6e96b7b6b13666ca",
                     "shasum": ""
                 },
                 "require": {
@@ -8024,7 +8024,53 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2025-03-27T21:03:16+00:00",
+                "time": "2025-06-04T08:07:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\CategoryDescriptionBottom\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Description Bottom field",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CategoryDescriptionBottom",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/25.23.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "b2bzanden/categorydescriptionbottom",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
+                    "reference": "0f5eafd6d9b38d6f6cf2037ac401add14ad4b60b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/0f5eafd6d9b38d6f6cf2037ac401add14ad4b60b",
+                    "reference": "0f5eafd6d9b38d6f6cf2037ac401add14ad4b60b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2025-06-04T08:07:45+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -8055,12 +8101,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "792ffb871c37250e841bcdd54a4de9659d5ea8ac"
+                    "reference": "ed94a044a59121ebb951dacc6e96b7b6b13666ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/792ffb871c37250e841bcdd54a4de9659d5ea8ac",
-                    "reference": "792ffb871c37250e841bcdd54a4de9659d5ea8ac",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/ed94a044a59121ebb951dacc6e96b7b6b13666ca",
+                    "reference": "ed94a044a59121ebb951dacc6e96b7b6b13666ca",
                     "shasum": ""
                 },
                 "require": {
@@ -8070,7 +8116,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2025-03-27T21:03:16+00:00",
+                "time": "2025-06-04T08:07:46+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -8091,7 +8137,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/25.13.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/25.23.1",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
                 }
             }
