@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
-                    "reference": "7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82"
+                    "reference": "8a7a331ebe945b9257276ab3e20f673412ccc6cc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82",
-                    "reference": "7e5f67dbc5a0b33ad189b26b738bff55e5d2ea82",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/8a7a331ebe945b9257276ab3e20f673412ccc6cc",
+                    "reference": "8a7a331ebe945b9257276ab3e20f673412ccc6cc",
                     "shasum": ""
                 },
                 "require": {
                     "anowave/package": ">0.0.0",
                     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
                 },
-                "time": "2025-03-12T10:13:33+00:00",
+                "time": "2025-07-09T07:36:26+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -47,7 +47,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.0.8",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.2.1",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
                 }
             }

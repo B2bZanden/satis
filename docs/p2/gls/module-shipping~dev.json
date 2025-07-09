@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/GLS_Shipping.git",
-                    "reference": "205415c38bff81aa6af225f704124f5aee2d1121"
+                    "reference": "921c9c20af9d834ab1fa7f8b1cb3752eefaca2d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/205415c38bff81aa6af225f704124f5aee2d1121",
-                    "reference": "205415c38bff81aa6af225f704124f5aee2d1121",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/921c9c20af9d834ab1fa7f8b1cb3752eefaca2d0",
+                    "reference": "921c9c20af9d834ab1fa7f8b1cb3752eefaca2d0",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": ">=101.0"
                 },
-                "time": "2024-06-25T15:14:57+00:00",
+                "time": "2025-07-09T07:56:27+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -45,18 +45,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/GLS_Shipping.git",
-                    "reference": "ebeee1ab40d1da6f3c94f219197311b3755fbeef"
+                    "reference": "0037d2d1d72b874c0555e967b4281ca8ace1a5f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/ebeee1ab40d1da6f3c94f219197311b3755fbeef",
-                    "reference": "ebeee1ab40d1da6f3c94f219197311b3755fbeef",
+                    "url": "https://api.github.com/repos/B2bZanden/GLS_Shipping/zipball/0037d2d1d72b874c0555e967b4281ca8ace1a5f0",
+                    "reference": "0037d2d1d72b874c0555e967b4281ca8ace1a5f0",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": ">=101.0"
                 },
-                "time": "2024-06-25T15:14:57+00:00",
+                "time": "2025-07-09T07:56:27+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -72,7 +72,7 @@
                 ],
                 "description": "GLS shipping module",
                 "support": {
-                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/4.0.18.3",
+                    "source": "https://github.com/B2bZanden/GLS_Shipping/tree/4.0.26",
                     "issues": "https://github.com/B2bZanden/GLS_Shipping/issues"
                 }
             }

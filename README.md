@@ -29,6 +29,8 @@ Run the image (with Composer cache from host):
 
 ```sh
 docker run --rm --init -it \
+  --platform linux/amd64 \
+  --name satis \
   --user $(id -u):$(id -g) \
   --volume $(pwd):/build \
   --volume "${COMPOSER_HOME:-$HOME/.composer}:/composer" \
@@ -41,6 +43,7 @@ docker run --rm --init -it \
 ```sh
 docker pull composer/satis:latest &&
 docker run --rm --init -it \
+  --platform linux/amd64 \
   --name satis \
   --user $(id -u):$(id -g) \
   --volume $(pwd):/build \
