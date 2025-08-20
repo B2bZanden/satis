@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$2851f6d22a5d15eba147e90e24d2be8ebb87ec0c.json": {
-            "sha1": "2851f6d22a5d15eba147e90e24d2be8ebb87ec0c"
+        "include/all$4115f060a6f8fc3fb112a376051b2cfd3c0f3a6a.json": {
+            "sha1": "4115f060a6f8fc3fb112a376051b2cfd3c0f3a6a"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -59,11 +59,9 @@
         "b2bzanden/salesgridweightcolumn",
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
-        "b2bzanden/tig-gls-magento2",
         "conneqt/m2-base",
         "conneqt/module-special-prices",
         "deved/magento2-disable-customer-registration",
-        "gls/module-shipping",
         "mageplaza/magento-2-product-slider",
         "mageplaza/module-core",
         "mageplaza/module-customer-approval",
@@ -73,7 +71,6 @@
         "mageplaza/module-shipping-restriction",
         "mageplaza/module-smtp",
         "profitmetrics/magento2",
-        "solvatech/magmodules-magento2-channable",
-        "tig/postnl-magento2"
+        "solvatech/magmodules-magento2-channable"
     ]
 }

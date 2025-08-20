@@ -121,18 +121,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/GLS_Shipping"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/gls-magento2"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/postnl-magento2"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/Anowave_M2_EC"
     },
     {
