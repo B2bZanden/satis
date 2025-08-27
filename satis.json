@@ -217,10 +217,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Magento-2-Product-Slider"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/Mageplaza_Module-Core"
     },
     {
@@ -234,18 +230,6 @@
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Search"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Shipping-Restriction"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Smtp"
     },
     {
       "type": "vcs",

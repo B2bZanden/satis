@@ -1,32 +1,32 @@
 {
     "packages": {
-        "mageplaza/module-edit-order": [
+        "mageplaza/module-payment-restriction-mkp": [
             {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-payment-restriction-mkp",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
-                    "reference": "7265f2d33c0620072e0cd73c41e663aec87a2afe"
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "29943fbc8e7667b368ed8d71fcaabf8011086214"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/7265f2d33c0620072e0cd73c41e663aec87a2afe",
-                    "reference": "7265f2d33c0620072e0cd73c41e663aec87a2afe",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/29943fbc8e7667b368ed8d71fcaabf8011086214",
+                    "reference": "29943fbc8e7667b368ed8d71fcaabf8011086214",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.4.12"
+                    "mageplaza/module-core": "^1.4.5"
                 },
-                "time": "2023-03-24T12:14:27+00:00",
+                "time": "2023-03-24T12:12:27+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\EditOrder\\": ""
+                        "Mageplaza\\PaymentRestriction\\": ""
                     }
                 },
                 "license": [
@@ -40,31 +40,31 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 Edit Order Extension",
+                "description": "Magento 2 Payment Restriction Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/develop",
-                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
                 }
             },
             {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-payment-restriction-mkp",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
-                    "reference": "83769ddb07c773d77aeb3396ba65c149ac623b26"
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "fe83b1e7d87c43de2e8e10e39892b15807428043"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/83769ddb07c773d77aeb3396ba65c149ac623b26",
-                    "reference": "83769ddb07c773d77aeb3396ba65c149ac623b26",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/fe83b1e7d87c43de2e8e10e39892b15807428043",
+                    "reference": "fe83b1e7d87c43de2e8e10e39892b15807428043",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.6"
+                    "mageplaza/module-core": "^1.5.13"
                 },
-                "time": "2025-08-27T10:46:16+00:00",
+                "time": "2025-08-27T10:45:15+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -72,7 +72,7 @@
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Mageplaza\\EditOrder\\": ""
+                        "Mageplaza\\PaymentRestriction\\": ""
                     }
                 },
                 "license": [
@@ -86,10 +86,10 @@
                         "role": "Technical Support"
                     }
                 ],
-                "description": "Magento 2 Edit Order Extension",
+                "description": "Magento 2 Payment Restriction Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/4.2.5",
-                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.6",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
                 }
             }
         ]

@@ -50,15 +50,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Mageplaza_Module-Core.git",
-                    "reference": "41de661816e892310e5e92adb62282826283d7df"
+                    "reference": "d81a7e714d9617ce1dbdab61270f56b89447a7fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Core/zipball/41de661816e892310e5e92adb62282826283d7df",
-                    "reference": "41de661816e892310e5e92adb62282826283d7df",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Core/zipball/d81a7e714d9617ce1dbdab61270f56b89447a7fd",
+                    "reference": "d81a7e714d9617ce1dbdab61270f56b89447a7fd",
                     "shasum": ""
                 },
-                "time": "2023-03-24T12:16:02+00:00",
+                "time": "2025-08-27T10:26:53+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -82,7 +82,7 @@
                 ],
                 "description": "Mageplaza Core for Magento 2",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Core/tree/1.4.12.2",
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Core/tree/1.5.14",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Core/issues"
                 }
             }

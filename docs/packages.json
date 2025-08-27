@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4115f060a6f8fc3fb112a376051b2cfd3c0f3a6a.json": {
-            "sha1": "4115f060a6f8fc3fb112a376051b2cfd3c0f3a6a"
+        "include/all$2281705bb9a25b8aa4b474c372b24870ee5f6402.json": {
+            "sha1": "2281705bb9a25b8aa4b474c372b24870ee5f6402"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -62,14 +62,10 @@
         "conneqt/m2-base",
         "conneqt/module-special-prices",
         "deved/magento2-disable-customer-registration",
-        "mageplaza/magento-2-product-slider",
         "mageplaza/module-core",
-        "mageplaza/module-customer-approval",
+        "mageplaza/module-customer-approval-mkp",
         "mageplaza/module-edit-order",
-        "mageplaza/module-payment-restriction",
-        "mageplaza/module-search",
-        "mageplaza/module-shipping-restriction",
-        "mageplaza/module-smtp",
+        "mageplaza/module-payment-restriction-mkp",
         "profitmetrics/magento2",
         "solvatech/magmodules-magento2-channable"
     ]

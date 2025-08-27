@@ -84,6 +84,48 @@
                     "source": "https://github.com/B2bZanden/Mageplaza_Module-Core/tree/1.4.12.2",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Core/issues"
                 }
+            },
+            {
+                "name": "mageplaza/module-core",
+                "version": "1.5.14",
+                "version_normalized": "1.5.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Core.git",
+                    "reference": "d81a7e714d9617ce1dbdab61270f56b89447a7fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Core/zipball/d81a7e714d9617ce1dbdab61270f56b89447a7fd",
+                    "reference": "d81a7e714d9617ce1dbdab61270f56b89447a7fd",
+                    "shasum": ""
+                },
+                "time": "2025-08-27T10:26:53+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\Core\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Mageplaza Core for Magento 2",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Core/tree/1.5.14",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Core/issues"
+                }
             }
         ]
     }
