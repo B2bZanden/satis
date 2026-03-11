@@ -139,6 +139,41 @@
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/26.11.01",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
                 }
+            },
+            {
+                "name": "b2bzanden/customstockstatus",
+                "version": "26.11.02",
+                "version_normalized": "26.11.02.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git",
+                    "reference": "d64ba0a02fc5f82ae508ca665361cb8ff8431b71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/d64ba0a02fc5f82ae508ca665361cb8ff8431b71",
+                    "reference": "d64ba0a02fc5f82ae508ca665361cb8ff8431b71",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.2.0"
+                },
+                "time": "2026-03-11T12:19:49+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomStockStatus\\": ""
+                    }
+                },
+                "description": "B2bzanden Custom Stock Status",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/26.11.02",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
+                }
             }
         ]
     }
