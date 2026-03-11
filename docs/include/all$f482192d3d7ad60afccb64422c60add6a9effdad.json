@@ -9631,6 +9631,41 @@
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
                 }
             },
+            "26.11.01": {
+                "name": "b2bzanden/customstockstatus",
+                "version": "26.11.01",
+                "version_normalized": "26.11.01.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git",
+                    "reference": "db7b1166bf06916fcf31988663e2f1caa2ba48bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/db7b1166bf06916fcf31988663e2f1caa2ba48bf",
+                    "reference": "db7b1166bf06916fcf31988663e2f1caa2ba48bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "time": "2026-03-11T10:56:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomStockStatus\\": ""
+                    }
+                },
+                "description": "B2bzanden Custom Stock Status",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/26.11.01",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
+                }
+            },
             "dev-master": {
                 "name": "b2bzanden/customstockstatus",
                 "version": "dev-master",
@@ -11858,6 +11893,52 @@
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
                 }
             },
+            "25.47.00": {
+                "name": "b2bzanden/importphotos",
+                "version": "25.47.00",
+                "version_normalized": "25.47.00.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
+                    "reference": "4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e",
+                    "reference": "4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2025-11-21T12:43:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ImportPhotos\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for importing photos",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_ImportPhotos",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/25.47.00",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
+            },
             "3.0.0": {
                 "name": "b2bzanden/importphotos",
                 "version": "3.0.0",
@@ -11957,12 +12038,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
-                    "reference": "83ae36261d64cac989e2f2b53b55eb9d85624c82"
+                    "reference": "4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/83ae36261d64cac989e2f2b53b55eb9d85624c82",
-                    "reference": "83ae36261d64cac989e2f2b53b55eb9d85624c82",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e",
+                    "reference": "4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e",
                     "shasum": ""
                 },
                 "require": {
@@ -11972,7 +12053,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2021-09-29T08:55:13+00:00",
+                "time": "2025-11-21T12:43:34+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -11993,7 +12074,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/3.1.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/25.47.00",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
                 }
             }

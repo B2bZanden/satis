@@ -187,6 +187,52 @@
             },
             {
                 "name": "b2bzanden/importphotos",
+                "version": "25.47.00",
+                "version_normalized": "25.47.00.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
+                    "reference": "4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e",
+                    "reference": "4a16bdf3af8f693d7813c402ee786dc8d9f5ae1e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2025-11-21T12:43:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ImportPhotos\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for importing photos",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_ImportPhotos",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/25.47.00",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
+                }
+            },
+            {
+                "name": "b2bzanden/importphotos",
                 "version": "3.0.0",
                 "version_normalized": "3.0.0.0",
                 "source": {
