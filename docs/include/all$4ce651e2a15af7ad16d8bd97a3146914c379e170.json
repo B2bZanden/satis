@@ -6580,6 +6580,104 @@
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
                 }
             },
+            "100.2.3": {
+                "name": "anowave/monitor",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
+                    "reference": "a2e59181a1fbb096a6c243f4bd94132178ef8933"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/a2e59181a1fbb096a6c243f4bd94132178ef8933",
+                    "reference": "a2e59181a1fbb096a6c243f4bd94132178ef8933",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
+                },
+                "time": "2026-04-15T09:25:22+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Monitor\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 AI-Powered Smart Pricing & Competitor Monitoring",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave monitor",
+                    "magento 2 monitor"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.2.3",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "anowave/monitor",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
+                    "reference": "4b6ab19ebe0f640b2099b9e7c9f3bd5a401c8c87"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/4b6ab19ebe0f640b2099b9e7c9f3bd5a401c8c87",
+                    "reference": "4b6ab19ebe0f640b2099b9e7c9f3bd5a401c8c87",
+                    "shasum": ""
+                },
+                "require": {
+                    "anowave/package": ">0.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
+                },
+                "time": "2026-04-15T09:25:33+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Anowave\\Monitor\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Anowave",
+                        "email": "developer@anowave.com",
+                        "homepage": "https://www.anowave.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 AI-Powered Smart Pricing & Competitor Monitoring",
+                "homepage": "https://www.anowave.com",
+                "keywords": [
+                    "anowave monitor",
+                    "magento 2 monitor"
+                ],
+                "support": {
+                    "email": "developer@anowave.com",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/develop",
+                    "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
+                }
+            },
             "dev-main": {
                 "name": "anowave/monitor",
                 "version": "dev-main",
@@ -6587,19 +6685,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Anowave_M2_Monitor.git",
-                    "reference": "8a7a331ebe945b9257276ab3e20f673412ccc6cc"
+                    "reference": "a2e59181a1fbb096a6c243f4bd94132178ef8933"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/8a7a331ebe945b9257276ab3e20f673412ccc6cc",
-                    "reference": "8a7a331ebe945b9257276ab3e20f673412ccc6cc",
+                    "url": "https://api.github.com/repos/B2bZanden/Anowave_M2_Monitor/zipball/a2e59181a1fbb096a6c243f4bd94132178ef8933",
+                    "reference": "a2e59181a1fbb096a6c243f4bd94132178ef8933",
                     "shasum": ""
                 },
                 "require": {
                     "anowave/package": ">0.0.0",
                     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0|~8.4.0"
                 },
-                "time": "2025-07-09T07:36:26+00:00",
+                "time": "2026-04-15T09:25:22+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -6626,7 +6724,7 @@
                 ],
                 "support": {
                     "email": "developer@anowave.com",
-                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.2.1",
+                    "source": "https://github.com/B2bZanden/Anowave_M2_Monitor/tree/100.2.3",
                     "issues": "https://github.com/B2bZanden/Anowave_M2_Monitor/issues"
                 }
             }
@@ -13836,20 +13934,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
-                    "reference": "f5906b28aa88b905e8e448a6b0ddb1ae3da8470e"
+                    "reference": "c3f650c16b70af008e3fa046164a87408d80c355"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/f5906b28aa88b905e8e448a6b0ddb1ae3da8470e",
-                    "reference": "f5906b28aa88b905e8e448a6b0ddb1ae3da8470e",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/c3f650c16b70af008e3fa046164a87408d80c355",
+                    "reference": "c3f650c16b70af008e3fa046164a87408d80c355",
                     "shasum": ""
                 },
                 "require": {
-                    "magento/framework": "~100.0|~101.0|~102.0|~103.0",
-                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0",
-                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0"
+                    "magento/framework": "~103.0|~104.0",
+                    "magento/module-customer": "~103.0|~104.0",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0|~8.3.0"
                 },
-                "time": "2023-08-02T11:16:03+00:00",
+                "time": "2026-04-15T09:21:43+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -13880,20 +13978,20 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
-                    "reference": "65f0fcb312c28697108b851b04f2aa286048669f"
+                    "reference": "4f1f5af44e1b78a65b7377d23d4f9b46c4d74379"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/65f0fcb312c28697108b851b04f2aa286048669f",
-                    "reference": "65f0fcb312c28697108b851b04f2aa286048669f",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/4f1f5af44e1b78a65b7377d23d4f9b46c4d74379",
+                    "reference": "4f1f5af44e1b78a65b7377d23d4f9b46c4d74379",
                     "shasum": ""
                 },
                 "require": {
-                    "magento/framework": "~100.0|~101.0|~102.0|~103.0|~104.0",
-                    "magento/module-customer": "~100.0|~100.1|~100.2|~101.0|~102.0|~103.0|~104.0",
-                    "php": "~5.5.0|~5.6.0|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0"
+                    "magento/framework": "~103.0|~104.0",
+                    "magento/module-customer": "~103.0|~104.0",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0|~8.3.0"
                 },
-                "time": "2025-07-09T07:49:45+00:00",
+                "time": "2026-04-15T09:21:50+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -13915,7 +14013,7 @@
                 ],
                 "description": "Disable Customer Registration",
                 "support": {
-                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/2.1.9"
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/2.2.0"
                 }
             }
         },
