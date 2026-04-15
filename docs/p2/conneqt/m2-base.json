@@ -93,6 +93,53 @@
                     "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues",
                     "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.3.0"
                 }
+            },
+            {
+                "name": "conneqt/m2-base",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-base.git",
+                    "reference": "b8ce017d3ae59901dba8ef51ab965af5514e2cdd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-base/zipball/b8ce017d3ae59901dba8ef51ab965af5514e2cdd",
+                    "reference": "b8ce017d3ae59901dba8ef51ab965af5514e2cdd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0",
+                    "php": "^8.1"
+                },
+                "time": "2026-04-15T08:51:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.4.3"
+                }
             }
         ]
     }

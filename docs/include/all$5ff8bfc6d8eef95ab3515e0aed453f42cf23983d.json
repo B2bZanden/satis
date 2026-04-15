@@ -13324,6 +13324,53 @@
                     "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.3.0"
                 }
             },
+            "1.4.3": {
+                "name": "conneqt/m2-base",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-m2-base.git",
+                    "reference": "b8ce017d3ae59901dba8ef51ab965af5514e2cdd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-base/zipball/b8ce017d3ae59901dba8ef51ab965af5514e2cdd",
+                    "reference": "b8ce017d3ae59901dba8ef51ab965af5514e2cdd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": ">=101.0.0",
+                    "php": "^8.1"
+                },
+                "time": "2026-04-15T08:51:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\Base\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Conneqt",
+                        "email": "hello@conneqt.io",
+                        "homepage": "https://www.conneqt.io"
+                    }
+                ],
+                "description": "Conneqt Base Module for Magento 2",
+                "homepage": "https://www.conneqt.io",
+                "support": {
+                    "email": "support@conneqt.io",
+                    "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues",
+                    "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.4.3"
+                }
+            },
             "dev-main": {
                 "name": "conneqt/m2-base",
                 "version": "dev-main",
@@ -13331,19 +13378,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/conneqt-m2-base.git",
-                    "reference": "ea26cac90293a99ea58828b817fddcc58e7bfc75"
+                    "reference": "b8ce017d3ae59901dba8ef51ab965af5514e2cdd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-base/zipball/ea26cac90293a99ea58828b817fddcc58e7bfc75",
-                    "reference": "ea26cac90293a99ea58828b817fddcc58e7bfc75",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-m2-base/zipball/b8ce017d3ae59901dba8ef51ab965af5514e2cdd",
+                    "reference": "b8ce017d3ae59901dba8ef51ab965af5514e2cdd",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": ">=101.0.0",
                     "php": "^8.1"
                 },
-                "time": "2025-03-11T11:45:11+00:00",
+                "time": "2026-04-15T08:51:38+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -13369,7 +13416,7 @@
                 "support": {
                     "email": "support@conneqt.io",
                     "issues": "https://git.dev.epartment.nl/conneqt/m2-base/issues",
-                    "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.3.0"
+                    "source": "https://github.com/B2bZanden/conneqt-m2-base/tree/1.4.3"
                 }
             }
         },
@@ -13530,19 +13577,19 @@
                     "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
                 }
             },
-            "dev-main": {
+            "1.6.11": {
                 "name": "conneqt/module-special-prices",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.6.11",
+                "version_normalized": "1.6.11.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
-                    "reference": "8ca1908e0523c3ea1a5dc2383f14d3198d7a5567"
+                    "reference": "68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/8ca1908e0523c3ea1a5dc2383f14d3198d7a5567",
-                    "reference": "8ca1908e0523c3ea1a5dc2383f14d3198d7a5567",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9",
+                    "reference": "68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9",
                     "shasum": ""
                 },
                 "require": {
@@ -13550,7 +13597,85 @@
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2025-07-09T07:44:24+00:00",
+                "time": "2026-04-15T08:53:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.6.11",
+                    "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
+                    "reference": "92207e8fd2b38508f852c09feb47b9910fc11298"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/92207e8fd2b38508f852c09feb47b9910fc11298",
+                    "reference": "92207e8fd2b38508f852c09feb47b9910fc11298",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2026-04-15T08:54:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/develop",
+                    "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
+                }
+            },
+            "dev-main": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
+                    "reference": "68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9",
+                    "reference": "68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2026-04-15T08:53:02+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -13566,7 +13691,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.4.19",
+                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.6.11",
                     "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
                 }
             }
@@ -13658,6 +13783,50 @@
                 "description": "Disable Customer Registration",
                 "support": {
                     "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/2.1.9"
+                }
+            },
+            "2.2.0": {
+                "name": "deved/magento2-disable-customer-registration",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration.git",
+                    "reference": "4f1f5af44e1b78a65b7377d23d4f9b46c4d74379"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/deved-it--magento2-disable-customer-registration/zipball/4f1f5af44e1b78a65b7377d23d4f9b46c4d74379",
+                    "reference": "4f1f5af44e1b78a65b7377d23d4f9b46c4d74379",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "~103.0|~104.0",
+                    "magento/module-customer": "~103.0|~104.0",
+                    "php": "~7.3.0|~7.4.0|~8.1.0|~8.2.0|~8.3.0"
+                },
+                "time": "2026-04-15T09:21:50+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Deved\\DisableRegistration\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Disable Customer Registration",
+                "support": {
+                    "source": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration/tree/2.2.0"
                 }
             },
             "dev-develop": {
@@ -14733,31 +14902,32 @@
                     "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
                 }
             },
-            "dev-main": {
+            "2.0.3": {
                 "name": "profitmetrics/magento2",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
-                    "reference": "7ac0517399b8461dba24b278ae5b7e8b8903b6d6"
+                    "reference": "0785f266fd7d862e508c55e0f6fde7e34948dff6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/7ac0517399b8461dba24b278ae5b7e8b8903b6d6",
-                    "reference": "7ac0517399b8461dba24b278ae5b7e8b8903b6d6",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/0785f266fd7d862e508c55e0f6fde7e34948dff6",
+                    "reference": "0785f266fd7d862e508c55e0f6fde7e34948dff6",
                     "shasum": ""
                 },
                 "require": {
                     "ext-curl": "*",
-                    "ext-dom": "*",
                     "ext-simplexml": "*",
                     "ext-zip": "*",
                     "magento/framework": ">=101",
                     "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0"
                 },
-                "time": "2025-07-09T07:53:51+00:00",
-                "default-branch": true,
+                "replace": {
+                    "magento/framework": "*"
+                },
+                "time": "2026-04-15T09:19:18+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -14777,181 +14947,79 @@
                     "source": "https://release.profitmetrics.io/#magento2",
                     "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
                 }
-            }
-        },
-        "solvatech/magmodules-magento2-channable": {
-            "1.12.0.1": {
-                "name": "solvatech/magmodules-magento2-channable",
-                "version": "1.12.0.1",
-                "version_normalized": "1.12.0.1",
+            },
+            "dev-develop": {
+                "name": "profitmetrics/magento2",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849"
+                    "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
+                    "reference": "51772370a8d3799b39afa893faf0289d2d1f658a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d90dda06490968b1a1467cbd1a7c7bee185d2849",
-                    "reference": "d90dda06490968b1a1467cbd1a7c7bee185d2849",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/51772370a8d3799b39afa893faf0289d2d1f658a",
+                    "reference": "51772370a8d3799b39afa893faf0289d2d1f658a",
                     "shasum": ""
                 },
                 "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
+                    "ext-curl": "*",
+                    "ext-simplexml": "*",
+                    "ext-zip": "*",
+                    "magento/framework": ">=101",
+                    "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0"
                 },
-                "time": "2022-11-02T10:31:16+00:00",
+                "replace": {
+                    "magento/framework": "*"
+                },
+                "time": "2026-04-15T09:19:36+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Magmodules\\Channable\\": ""
+                        "DV\\ProfitMetrics\\": ""
                     }
                 },
                 "license": [
-                    "BSD-2-Clause"
+                    "OSL-3.0",
+                    "AFL-3.0"
                 ],
-                "description": "Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
+                "description": "ProfitMetrics integration for Magento 2",
                 "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.1"
+                    "docs": "https://knowledge.profitmetrics.io/magento-2",
+                    "source": "https://release.profitmetrics.io/#magento2",
+                    "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
                 }
             },
-            "1.12.0.2": {
-                "name": "solvatech/magmodules-magento2-channable",
-                "version": "1.12.0.2",
-                "version_normalized": "1.12.0.2",
+            "dev-main": {
+                "name": "profitmetrics/magento2",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "d69193e1710378f357bbc349919ef90aef58638c"
+                    "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
+                    "reference": "0785f266fd7d862e508c55e0f6fde7e34948dff6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/d69193e1710378f357bbc349919ef90aef58638c",
-                    "reference": "d69193e1710378f357bbc349919ef90aef58638c",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/0785f266fd7d862e508c55e0f6fde7e34948dff6",
+                    "reference": "0785f266fd7d862e508c55e0f6fde7e34948dff6",
                     "shasum": ""
                 },
                 "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
+                    "ext-curl": "*",
+                    "ext-simplexml": "*",
+                    "ext-zip": "*",
+                    "magento/framework": ">=101",
+                    "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0"
                 },
-                "time": "2022-11-02T12:15:34+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magmodules\\Channable\\": ""
-                    }
+                "replace": {
+                    "magento/framework": "*"
                 },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "description": "Forked Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
-                "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.0.2"
-                }
-            },
-            "1.12.1.2": {
-                "name": "solvatech/magmodules-magento2-channable",
-                "version": "1.12.1.2",
-                "version_normalized": "1.12.1.2",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "3599310bfc7e7bf5c1943081d3adf05b87385ae7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/3599310bfc7e7bf5c1943081d3adf05b87385ae7",
-                    "reference": "3599310bfc7e7bf5c1943081d3adf05b87385ae7",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
-                },
-                "time": "2022-11-10T18:42:20+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magmodules\\Channable\\": ""
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "description": "Forked Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
-                "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.12.1.2"
-                }
-            },
-            "1.14.2.1": {
-                "name": "solvatech/magmodules-magento2-channable",
-                "version": "1.14.2.1",
-                "version_normalized": "1.14.2.1",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "7988032c02bf276d4be801c95dce5b285323e0f5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/7988032c02bf276d4be801c95dce5b285323e0f5",
-                    "reference": "7988032c02bf276d4be801c95dce5b285323e0f5",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
-                },
-                "time": "2023-03-24T12:11:02+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Magmodules\\Channable\\": ""
-                    }
-                },
-                "license": [
-                    "BSD-2-Clause"
-                ],
-                "description": "Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
-                "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.14.2.1"
-                }
-            },
-            "dev-master": {
-                "name": "solvatech/magmodules-magento2-channable",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/B2bZanden/magmodules-magento2-channable.git",
-                    "reference": "7988032c02bf276d4be801c95dce5b285323e0f5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/magmodules-magento2-channable/zipball/7988032c02bf276d4be801c95dce5b285323e0f5",
-                    "reference": "7988032c02bf276d4be801c95dce5b285323e0f5",
-                    "shasum": ""
-                },
-                "require": {
-                    "ext-json": "*",
-                    "magento/framework": ">=102.0.3"
-                },
-                "time": "2023-03-24T12:11:02+00:00",
+                "time": "2026-04-15T09:19:18+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -14959,16 +15027,18 @@
                         "registration.php"
                     ],
                     "psr-4": {
-                        "Magmodules\\Channable\\": ""
+                        "DV\\ProfitMetrics\\": ""
                     }
                 },
                 "license": [
-                    "BSD-2-Clause"
+                    "OSL-3.0",
+                    "AFL-3.0"
                 ],
-                "description": "Channable integration for Magento 2",
-                "homepage": "https://github.com/magmodules/magento2-channable",
+                "description": "ProfitMetrics integration for Magento 2",
                 "support": {
-                    "source": "https://github.com/B2bZanden/magmodules-magento2-channable/tree/1.14.2.1"
+                    "docs": "https://knowledge.profitmetrics.io/magento-2",
+                    "source": "https://release.profitmetrics.io/#magento2",
+                    "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
                 }
             }
         }

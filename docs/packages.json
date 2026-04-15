@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$876724908db12c3a694dfe212d07385117448ad4.json": {
-            "sha1": "876724908db12c3a694dfe212d07385117448ad4"
+        "include/all$5ff8bfc6d8eef95ab3515e0aed453f42cf23983d.json": {
+            "sha1": "5ff8bfc6d8eef95ab3515e0aed453f42cf23983d"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -66,7 +66,6 @@
         "mageplaza/module-customer-approval-mkp",
         "mageplaza/module-edit-order",
         "mageplaza/module-payment-restriction-mkp",
-        "profitmetrics/magento2",
-        "solvatech/magmodules-magento2-channable"
+        "profitmetrics/magento2"
     ]
 }

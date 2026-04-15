@@ -233,10 +233,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/magmodules-magento2-channable"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/conneqt-module-special-prices"
     },
     {

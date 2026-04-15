@@ -3,28 +3,76 @@
         "profitmetrics/magento2": [
             {
                 "name": "profitmetrics/magento2",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
-                    "reference": "7ac0517399b8461dba24b278ae5b7e8b8903b6d6"
+                    "reference": "51772370a8d3799b39afa893faf0289d2d1f658a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/7ac0517399b8461dba24b278ae5b7e8b8903b6d6",
-                    "reference": "7ac0517399b8461dba24b278ae5b7e8b8903b6d6",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/51772370a8d3799b39afa893faf0289d2d1f658a",
+                    "reference": "51772370a8d3799b39afa893faf0289d2d1f658a",
                     "shasum": ""
                 },
                 "require": {
                     "ext-curl": "*",
-                    "ext-dom": "*",
                     "ext-simplexml": "*",
                     "ext-zip": "*",
                     "magento/framework": ">=101",
                     "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0"
                 },
-                "time": "2025-07-09T07:53:51+00:00",
+                "replace": {
+                    "magento/framework": "*"
+                },
+                "time": "2026-04-15T09:19:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "DV\\ProfitMetrics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "ProfitMetrics integration for Magento 2",
+                "support": {
+                    "docs": "https://knowledge.profitmetrics.io/magento-2",
+                    "source": "https://release.profitmetrics.io/#magento2",
+                    "issues": "https://github.com/B2bZanden/dv-profitmetrics/issues"
+                }
+            },
+            {
+                "name": "profitmetrics/magento2",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/dv-profitmetrics.git",
+                    "reference": "0785f266fd7d862e508c55e0f6fde7e34948dff6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/dv-profitmetrics/zipball/0785f266fd7d862e508c55e0f6fde7e34948dff6",
+                    "reference": "0785f266fd7d862e508c55e0f6fde7e34948dff6",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-curl": "*",
+                    "ext-simplexml": "*",
+                    "ext-zip": "*",
+                    "magento/framework": ">=101",
+                    "php": "~8.1.0||~8.2.0||~8.3.0||~8.4.0"
+                },
+                "replace": {
+                    "magento/framework": "*"
+                },
+                "time": "2026-04-15T09:19:18+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
