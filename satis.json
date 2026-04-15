@@ -5,130 +5,6 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-aminvisiblecaptcha"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-base"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-cron-scheduler"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-cron-schedule-list"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-image-optimizer-speed-size"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-composite-product-price-indexer"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-hide-price"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-image-optimizer"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-image-optimizer-ui"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-improved-layered-navigation-page"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-lazy-load"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-lazy-load-ui"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-optimizer-pro"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-page-speed-optimizer"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-page-speed-tools"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-shop-by-base"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-shop-by-brand"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-shop-by-brand-graphql"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-shopby-pro"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-shopby-subscription-package-pro"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-shopby"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-shopby-seo"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-grouped-options"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-magento-custom-form"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-customer-attributes-lite"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-mage24fix"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-module-lib-swiper-js"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/amasty-shopby-graphql"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Anowave_M2_EC"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Anowave_M2_EC4"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/Anowave_M2_Monitor"
     },
     {
@@ -145,7 +21,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_CategoryCreator"
+      "url": "https://github.com/B2bZanden/B2bzanden_M2_Shipping"
     },
     {
       "type": "vcs",
@@ -157,23 +33,15 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutAddressCheck"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_CheckoutCMSBlock"
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_ConneqtCheckPrice"
+      "url": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle"
     },
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_CustomCategoryTitle"
     },
     {
       "type": "vcs",
@@ -193,18 +61,6 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_Rules"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_Shipping"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_SitemapUrl"
     },
     {
@@ -213,7 +69,15 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/deved-it--magento2-disable-customer-registration"
+      "url": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/conneqt-m2-base"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/B2bZanden/conneqt-module-special-prices"
     },
     {
       "type": "vcs",
@@ -230,18 +94,6 @@
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/conneqt-module-special-prices"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/conneqt-m2-base"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/dv-profitmetrics"
     }
   ],
   "require-all": true

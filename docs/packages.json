@@ -1,55 +1,20 @@
 {
     "packages": [],
     "includes": {
-        "include/all$4ce651e2a15af7ad16d8bd97a3146914c379e170.json": {
-            "sha1": "4ce651e2a15af7ad16d8bd97a3146914c379e170"
+        "include/all$04dbe68704f29b29bc73fbf1c10af24bb56858ef.json": {
+            "sha1": "04dbe68704f29b29bc73fbf1c10af24bb56858ef"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "amasty/aminvisiblecaptcha",
-        "amasty/base",
-        "amasty/cron-schedule-list",
-        "amasty/cron-scheduler",
-        "amasty/image-optimizer-speed-size",
-        "amasty/module-composite-product-price-indexer",
-        "amasty/module-customer-attributes",
-        "amasty/module-customer-attributes-lite",
-        "amasty/module-grouped-options",
-        "amasty/module-hide-price",
-        "amasty/module-image-optimizer",
-        "amasty/module-image-optimizer-ui",
-        "amasty/module-improved-layered-navigation-page",
-        "amasty/module-lazy-load",
-        "amasty/module-lazy-load-ui",
-        "amasty/module-lib-swiper-js",
-        "amasty/module-mage24fix",
-        "amasty/module-magento-custom-form",
-        "amasty/module-optimizer-pro",
-        "amasty/module-page-speed-optimizer",
-        "amasty/module-page-speed-tools",
-        "amasty/module-shop-by-base",
-        "amasty/module-shop-by-brand",
-        "amasty/module-shop-by-brand-graphql",
-        "amasty/module-shopby-pro",
-        "amasty/module-shopby-subscription-package-pro",
-        "amasty/shopby",
-        "amasty/shopby-graphql",
-        "amasty/shopby-seo",
-        "anowave/ec",
-        "anowave/ec4",
         "anowave/monitor",
         "anowave/package",
         "b2bzanden/adminsalesgrid",
         "b2bzanden/alwaysship",
-        "b2bzanden/b2brules",
         "b2bzanden/b2bshipping",
-        "b2bzanden/categorycreator",
         "b2bzanden/categorydescriptionbottom",
         "b2bzanden/changecategorytitle",
-        "b2bzanden/checkout-address-check",
         "b2bzanden/checkoutcmsblock",
-        "b2bzanden/conneqtcheckprice",
         "b2bzanden/customcategorytitle",
         "b2bzanden/customstockstatus",
         "b2bzanden/disableshippingmethod",
@@ -61,11 +26,9 @@
         "b2bzanden/suitablefor",
         "conneqt/m2-base",
         "conneqt/module-special-prices",
-        "deved/magento2-disable-customer-registration",
         "mageplaza/module-core",
         "mageplaza/module-customer-approval-mkp",
         "mageplaza/module-edit-order",
-        "mageplaza/module-payment-restriction-mkp",
-        "profitmetrics/magento2"
+        "mageplaza/module-payment-restriction-mkp"
     ]
 }
