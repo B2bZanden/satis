@@ -93,18 +93,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git",
-                    "reference": "5edbe6369b0e60b711f31e68add54890538e2b77"
+                    "reference": "fbe42c440758b9faf6bee53078192deedc1e8917"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/5edbe6369b0e60b711f31e68add54890538e2b77",
-                    "reference": "5edbe6369b0e60b711f31e68add54890538e2b77",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/fbe42c440758b9faf6bee53078192deedc1e8917",
+                    "reference": "fbe42c440758b9faf6bee53078192deedc1e8917",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2026-04-17T13:32:48+00:00",
+                "time": "2026-04-30T13:10:01+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -124,7 +124,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FixPart/tree/26.16.5",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FixPart/tree/26.18.1",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_FixPart/issues"
                 }
             }
