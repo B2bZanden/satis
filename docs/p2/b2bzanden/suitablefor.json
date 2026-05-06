@@ -789,6 +789,59 @@
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/26.19.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
                 }
+            },
+            {
+                "name": "b2bzanden/suitablefor",
+                "version": "26.19.1",
+                "version_normalized": "26.19.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
+                    "reference": "f7e16b389de6204a9c480e9af5523b3fe2a5af6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/f7e16b389de6204a9c480e9af5523b3fe2a5af6e",
+                    "reference": "f7e16b389de6204a9c480e9af5523b3fe2a5af6e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-cms": "*",
+                    "magento/module-config": "*",
+                    "magento/module-cron": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-store": "*",
+                    "php": "~8.2.0||~8.3.0",
+                    "phpoffice/phpspreadsheet": "*"
+                },
+                "time": "2026-05-06T11:46:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\SuitableFor\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for suitable for product numbers",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_SuitableFor",
+                "keywords": [
+                    "b2bzanden",
+                    "magento",
+                    "magento2",
+                    "module"
+                ],
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/26.19.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
+                }
             }
         ]
     }
