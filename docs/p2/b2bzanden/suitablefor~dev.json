@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
-                    "reference": "ef74c8aecc782a725eb3461bed973c5a30c138f6"
+                    "reference": "7a345586b50ef80c05a5ed5ab21c683dbd248453"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/ef74c8aecc782a725eb3461bed973c5a30c138f6",
-                    "reference": "ef74c8aecc782a725eb3461bed973c5a30c138f6",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/7a345586b50ef80c05a5ed5ab21c683dbd248453",
+                    "reference": "7a345586b50ef80c05a5ed5ab21c683dbd248453",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                     "php": "~8.2.0||~8.3.0",
                     "phpoffice/phpspreadsheet": "*"
                 },
-                "time": "2026-05-06T13:18:20+00:00",
+                "time": "2026-05-06T13:39:26+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
-                    "reference": "ed9fa4a8c4afdda25960971f3e2c84dbf0513db3"
+                    "reference": "a70df93802e98a135ceeec5015b293e49bfe29be"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/ed9fa4a8c4afdda25960971f3e2c84dbf0513db3",
-                    "reference": "ed9fa4a8c4afdda25960971f3e2c84dbf0513db3",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/a70df93802e98a135ceeec5015b293e49bfe29be",
+                    "reference": "a70df93802e98a135ceeec5015b293e49bfe29be",
                     "shasum": ""
                 },
                 "require": {
@@ -81,7 +81,7 @@
                     "php": "~8.2.0||~8.3.0",
                     "phpoffice/phpspreadsheet": "*"
                 },
-                "time": "2026-05-06T13:18:19+00:00",
+                "time": "2026-05-06T13:39:26+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -104,7 +104,7 @@
                     "module"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/26.19.4",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/26.19.5",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
                 }
             }
