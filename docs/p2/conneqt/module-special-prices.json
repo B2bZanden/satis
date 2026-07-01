@@ -195,6 +195,45 @@
                     "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.6.11",
                     "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
                 }
+            },
+            {
+                "name": "conneqt/module-special-prices",
+                "version": "1.7.0.1",
+                "version_normalized": "1.7.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
+                    "reference": "b37e00cc252a4ced3d3226b9d16ae72c5e527069"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/b37e00cc252a4ced3d3226b9d16ae72c5e527069",
+                    "reference": "b37e00cc252a4ced3d3226b9d16ae72c5e527069",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2026-07-01T13:18:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.7.0.1",
+                    "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
+                }
             }
         ]
     }

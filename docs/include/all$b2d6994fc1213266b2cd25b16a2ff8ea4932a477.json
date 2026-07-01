@@ -7254,19 +7254,19 @@
                     "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
                 }
             },
-            "dev-develop": {
+            "1.7.0.1": {
                 "name": "conneqt/module-special-prices",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
+                "version": "1.7.0.1",
+                "version_normalized": "1.7.0.1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
-                    "reference": "92207e8fd2b38508f852c09feb47b9910fc11298"
+                    "reference": "b37e00cc252a4ced3d3226b9d16ae72c5e527069"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/92207e8fd2b38508f852c09feb47b9910fc11298",
-                    "reference": "92207e8fd2b38508f852c09feb47b9910fc11298",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/b37e00cc252a4ced3d3226b9d16ae72c5e527069",
+                    "reference": "b37e00cc252a4ced3d3226b9d16ae72c5e527069",
                     "shasum": ""
                 },
                 "require": {
@@ -7274,7 +7274,46 @@
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2026-04-15T08:54:02+00:00",
+                "time": "2026-07-01T13:18:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Conneqt\\SpecialPrices\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A",
+                "support": {
+                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.7.0.1",
+                    "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "conneqt/module-special-prices",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
+                    "reference": "b8c3a20a19cbcdd965b3e9da7ec4dfd043c41de0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/b8c3a20a19cbcdd965b3e9da7ec4dfd043c41de0",
+                    "reference": "b8c3a20a19cbcdd965b3e9da7ec4dfd043c41de0",
+                    "shasum": ""
+                },
+                "require": {
+                    "conneqt/m2-base": "*",
+                    "magento/framework": "*",
+                    "php": ">=8.1"
+                },
+                "time": "2026-07-01T13:18:31+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -7300,12 +7339,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/conneqt-module-special-prices.git",
-                    "reference": "68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9"
+                    "reference": "b37e00cc252a4ced3d3226b9d16ae72c5e527069"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9",
-                    "reference": "68a9671e5ffe07286cf0f3fac5ffb8306ccb4de9",
+                    "url": "https://api.github.com/repos/B2bZanden/conneqt-module-special-prices/zipball/b37e00cc252a4ced3d3226b9d16ae72c5e527069",
+                    "reference": "b37e00cc252a4ced3d3226b9d16ae72c5e527069",
                     "shasum": ""
                 },
                 "require": {
@@ -7313,7 +7352,7 @@
                     "magento/framework": "*",
                     "php": ">=8.1"
                 },
-                "time": "2026-04-15T08:53:02+00:00",
+                "time": "2026-07-01T13:18:46+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -7329,7 +7368,7 @@
                 ],
                 "description": "N/A",
                 "support": {
-                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.6.11",
+                    "source": "https://github.com/B2bZanden/conneqt-module-special-prices/tree/1.7.0.1",
                     "issues": "https://github.com/B2bZanden/conneqt-module-special-prices/issues"
                 }
             }
@@ -7775,9 +7814,9 @@
                 }
             }
         },
-        "mageplaza/module-edit-order": {
+        "mageplaza/module-edit-order-mkp": {
             "4.2.2.1": {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-edit-order-mkp",
                 "version": "4.2.2.1",
                 "version_normalized": "4.2.2.1",
                 "source": {
@@ -7822,7 +7861,7 @@
                 }
             },
             "4.2.2.2": {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-edit-order-mkp",
                 "version": "4.2.2.2",
                 "version_normalized": "4.2.2.2",
                 "source": {
@@ -7867,7 +7906,7 @@
                 }
             },
             "4.2.5": {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-edit-order-mkp",
                 "version": "4.2.5",
                 "version_normalized": "4.2.5.0",
                 "source": {
@@ -7911,25 +7950,70 @@
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
                 }
             },
+            "4.3.2": {
+                "name": "mageplaza/module-edit-order-mkp",
+                "version": "4.3.2",
+                "version_normalized": "4.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
+                    "reference": "95dbbb633b98d9f2381b0346abea44953b551644"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/95dbbb633b98d9f2381b0346abea44953b551644",
+                    "reference": "95dbbb633b98d9f2381b0346abea44953b551644",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.14"
+                },
+                "time": "2026-07-01T13:27:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\EditOrder\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Edit Order Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/4.3.2",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
+                }
+            },
             "dev-develop": {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-edit-order-mkp",
                 "version": "dev-develop",
                 "version_normalized": "dev-develop",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
-                    "reference": "7265f2d33c0620072e0cd73c41e663aec87a2afe"
+                    "reference": "fc1a065296c6acad3e4103eeef5e42cedc78dde3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/7265f2d33c0620072e0cd73c41e663aec87a2afe",
-                    "reference": "7265f2d33c0620072e0cd73c41e663aec87a2afe",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/fc1a065296c6acad3e4103eeef5e42cedc78dde3",
+                    "reference": "fc1a065296c6acad3e4103eeef5e42cedc78dde3",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.4.12"
+                    "mageplaza/module-core": "^1.5.14"
                 },
-                "time": "2023-03-24T12:14:27+00:00",
+                "time": "2026-07-01T13:26:04+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -7957,24 +8041,24 @@
                 }
             },
             "dev-main": {
-                "name": "mageplaza/module-edit-order",
+                "name": "mageplaza/module-edit-order-mkp",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Mageplaza_Module-Edit-Order.git",
-                    "reference": "83769ddb07c773d77aeb3396ba65c149ac623b26"
+                    "reference": "95dbbb633b98d9f2381b0346abea44953b551644"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/83769ddb07c773d77aeb3396ba65c149ac623b26",
-                    "reference": "83769ddb07c773d77aeb3396ba65c149ac623b26",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Edit-Order/zipball/95dbbb633b98d9f2381b0346abea44953b551644",
+                    "reference": "95dbbb633b98d9f2381b0346abea44953b551644",
                     "shasum": ""
                 },
                 "require": {
-                    "mageplaza/module-core": "^1.5.6"
+                    "mageplaza/module-core": "^1.5.14"
                 },
-                "time": "2025-08-27T10:46:16+00:00",
+                "time": "2026-07-01T13:27:44+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -7998,7 +8082,7 @@
                 ],
                 "description": "Magento 2 Edit Order Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/4.2.5",
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/tree/4.3.2",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order/issues"
                 }
             }
@@ -8139,6 +8223,51 @@
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
                 }
             },
+            "4.0.7": {
+                "name": "mageplaza/module-payment-restriction-mkp",
+                "version": "4.0.7",
+                "version_normalized": "4.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
+                    "reference": "3bc44f70daa2eb9d548c99385a15b4714ac3a164"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/3bc44f70daa2eb9d548c99385a15b4714ac3a164",
+                    "reference": "3bc44f70daa2eb9d548c99385a15b4714ac3a164",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.5.13"
+                },
+                "time": "2026-07-01T13:28:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\PaymentRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Payment Restriction Extension",
+                "support": {
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.7",
+                    "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
+                }
+            },
             "dev-develop": {
                 "name": "mageplaza/module-payment-restriction-mkp",
                 "version": "dev-develop",
@@ -8191,18 +8320,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/Mageplaza_Module-Payment-Restriction.git",
-                    "reference": "fe83b1e7d87c43de2e8e10e39892b15807428043"
+                    "reference": "3bc44f70daa2eb9d548c99385a15b4714ac3a164"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/fe83b1e7d87c43de2e8e10e39892b15807428043",
-                    "reference": "fe83b1e7d87c43de2e8e10e39892b15807428043",
+                    "url": "https://api.github.com/repos/B2bZanden/Mageplaza_Module-Payment-Restriction/zipball/3bc44f70daa2eb9d548c99385a15b4714ac3a164",
+                    "reference": "3bc44f70daa2eb9d548c99385a15b4714ac3a164",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.5.13"
                 },
-                "time": "2025-08-27T10:45:15+00:00",
+                "time": "2026-07-01T13:28:52+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -8226,7 +8355,7 @@
                 ],
                 "description": "Magento 2 Payment Restriction Extension",
                 "support": {
-                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.6",
+                    "source": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/tree/4.0.7",
                     "issues": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction/issues"
                 }
             }

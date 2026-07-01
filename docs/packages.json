@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$af330206d1967dc99e13998b581ee28f4c90db4c.json": {
-            "sha1": "af330206d1967dc99e13998b581ee28f4c90db4c"
+        "include/all$b2d6994fc1213266b2cd25b16a2ff8ea4932a477.json": {
+            "sha1": "b2d6994fc1213266b2cd25b16a2ff8ea4932a477"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -28,7 +28,7 @@
         "conneqt/module-special-prices",
         "mageplaza/module-core",
         "mageplaza/module-customer-approval-mkp",
-        "mageplaza/module-edit-order",
+        "mageplaza/module-edit-order-mkp",
         "mageplaza/module-payment-restriction-mkp"
     ]
 }
