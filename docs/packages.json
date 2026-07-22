@@ -1,23 +1,18 @@
 {
     "packages": [],
     "includes": {
-        "include/all$966d14cbdfa0130dd641598fd95fe56a14d8d98d.json": {
-            "sha1": "966d14cbdfa0130dd641598fd95fe56a14d8d98d"
+        "include/all$5306c2a0dc374d3f01be6ea1202ff0805c33b38f.json": {
+            "sha1": "5306c2a0dc374d3f01be6ea1202ff0805c33b38f"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "anowave/monitor",
-        "anowave/package",
-        "b2bzanden/adminsalesgrid",
-        "b2bzanden/alwaysship",
         "b2bzanden/b2bshipping",
         "b2bzanden/categorydescriptionbottom",
         "b2bzanden/changecategorytitle",
         "b2bzanden/checkoutcmsblock",
         "b2bzanden/customcategorytitle",
         "b2bzanden/customstockstatus",
-        "b2bzanden/disableshippingmethod",
         "b2bzanden/fastorder",
         "b2bzanden/fixpart",
         "b2bzanden/importphotos",

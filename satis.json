@@ -5,22 +5,6 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/B2bZanden/Anowave_M2_Monitor"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Anowave_M2_Package"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_AdminSalesGrid"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_AlwaysShip"
-    },
-    {
-      "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_Shipping"
     },
     {
@@ -42,10 +26,6 @@
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/B2bzanden_M2_DisableShippingMethod"
     },
     {
       "type": "vcs",
