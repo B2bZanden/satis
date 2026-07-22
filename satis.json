@@ -50,22 +50,6 @@
     {
       "type": "vcs",
       "url": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Core"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Customer-Approval"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Edit-Order"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/B2bZanden/Mageplaza_Module-Payment-Restriction"
     }
   ],
   "require-all": true

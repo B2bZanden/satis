@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b061807cadf83ee72ef569949a47a959496f8009.json": {
-            "sha1": "b061807cadf83ee72ef569949a47a959496f8009"
+        "include/all$88c692b170800d4b82f1e6ed815a187d4ee56f7c.json": {
+            "sha1": "88c692b170800d4b82f1e6ed815a187d4ee56f7c"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -18,10 +18,6 @@
         "b2bzanden/importphotos",
         "b2bzanden/salesgridweightcolumn",
         "b2bzanden/sitemapurl",
-        "b2bzanden/suitablefor",
-        "mageplaza/module-core",
-        "mageplaza/module-customer-approval-mkp",
-        "mageplaza/module-edit-order-mkp",
-        "mageplaza/module-payment-restriction-mkp"
+        "b2bzanden/suitablefor"
     ]
 }
