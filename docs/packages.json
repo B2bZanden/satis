@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$5306c2a0dc374d3f01be6ea1202ff0805c33b38f.json": {
-            "sha1": "5306c2a0dc374d3f01be6ea1202ff0805c33b38f"
+        "include/all$b061807cadf83ee72ef569949a47a959496f8009.json": {
+            "sha1": "b061807cadf83ee72ef569949a47a959496f8009"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -19,8 +19,6 @@
         "b2bzanden/salesgridweightcolumn",
         "b2bzanden/sitemapurl",
         "b2bzanden/suitablefor",
-        "conneqt/m2-base",
-        "conneqt/module-special-prices",
         "mageplaza/module-core",
         "mageplaza/module-customer-approval-mkp",
         "mageplaza/module-edit-order-mkp",
