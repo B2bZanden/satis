@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "b2bzanden/customerapprovalcleanup": [
+            {
+                "name": "b2bzanden/customerapprovalcleanup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomerApprovalCleanup.git",
+                    "reference": "59bd0e37dff3ae423351558e6e4b0503c829d5eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomerApprovalCleanup/zipball/59bd0e37dff3ae423351558e6e4b0503c829d5eb",
+                    "reference": "59bd0e37dff3ae423351558e6e4b0503c829d5eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.2.0"
+                },
+                "time": "2026-07-24T18:19:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomerApprovalCleanup\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "B2bzanden Customer Approval Cleanup",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomerApprovalCleanup",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomerApprovalCleanup/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomerApprovalCleanup/issues"
+                }
+            }
+        ]
+    }
+}
