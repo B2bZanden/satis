@@ -45,13 +45,12 @@ docker pull composer/satis:latest &&
 docker run --rm --init -it \
   --platform linux/amd64 \
   --name satis \
-  --user $(id -u):$(id -g) \
-  --volume $(pwd):/build \
+  --user "$(id -u):$(id -g)" \
+  --volume "$(pwd):/build" \
   --volume "${COMPOSER_HOME:-$HOME/.composer}:/composer" \
   composer/satis build satis.json docs &&
-git add -A &&
-git commit -m ":arrow_up: update dependencies" &&
-git push;
+git add docs &&
+git diff --cached --quiet || (git commit -m ":arrow_up: update dependencies" && git push)
 ```
 
 
