@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
-                    "reference": "df00dc65326c1038c3a5043c5b78eef246b9d991"
+                    "reference": "fe60a4533fe2b5995020f6548a5fb5932a2513d5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/df00dc65326c1038c3a5043c5b78eef246b9d991",
-                    "reference": "df00dc65326c1038c3a5043c5b78eef246b9d991",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/fe60a4533fe2b5995020f6548a5fb5932a2513d5",
+                    "reference": "fe60a4533fe2b5995020f6548a5fb5932a2513d5",
                     "shasum": ""
                 },
                 "require": {
@@ -24,7 +24,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2026-07-24T19:37:51+00:00",
+                "time": "2026-07-24T20:59:08+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -45,7 +45,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/26.30.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
                 }
             }

@@ -55,18 +55,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
-                    "reference": "5d4bd901e3d88f4e02881131a12d21dcd9fa6157"
+                    "reference": "556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/5d4bd901e3d88f4e02881131a12d21dcd9fa6157",
-                    "reference": "5d4bd901e3d88f4e02881131a12d21dcd9fa6157",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd",
+                    "reference": "556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=8.0"
+                    "magento/framework": "^103.0",
+                    "magento/module-sales": "^103.0",
+                    "magento/module-ui": "^101.2",
+                    "php": ">=8.2"
                 },
-                "time": "2026-07-24T14:54:49+00:00",
+                "time": "2026-08-12T07:47:47+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -92,7 +95,7 @@
                 ],
                 "description": "Add an extra column to Admin Sales Grid",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/main",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/26.33.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
                 }
             }

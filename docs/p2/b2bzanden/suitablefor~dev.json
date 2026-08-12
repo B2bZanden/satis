@@ -61,12 +61,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
-                    "reference": "e5f7c34fa83fe7b19497fde87221f378233fe6f1"
+                    "reference": "f804f8fe7170c69a1cc41ff8187c6af0343f3d47"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/e5f7c34fa83fe7b19497fde87221f378233fe6f1",
-                    "reference": "e5f7c34fa83fe7b19497fde87221f378233fe6f1",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/f804f8fe7170c69a1cc41ff8187c6af0343f3d47",
+                    "reference": "f804f8fe7170c69a1cc41ff8187c6af0343f3d47",
                     "shasum": ""
                 },
                 "require": {
@@ -81,7 +81,7 @@
                     "php": ">=8.4",
                     "phpoffice/phpspreadsheet": "^1.29"
                 },
-                "time": "2026-07-24T19:37:23+00:00",
+                "time": "2026-07-24T21:08:10+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -104,7 +104,7 @@
                     "module"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/26.30.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
                 }
             }

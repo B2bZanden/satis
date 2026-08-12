@@ -112,18 +112,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Shipping.git",
-                    "reference": "e7d371ff87fdf88c59f6f72282f32fcc678dce4d"
+                    "reference": "0bf491bd9ef44b1eefcc0201775cfb4f815a5149"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Shipping/zipball/e7d371ff87fdf88c59f6f72282f32fcc678dce4d",
-                    "reference": "e7d371ff87fdf88c59f6f72282f32fcc678dce4d",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Shipping/zipball/0bf491bd9ef44b1eefcc0201775cfb4f815a5149",
+                    "reference": "0bf491bd9ef44b1eefcc0201775cfb4f815a5149",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.1.0"
                 },
-                "time": "2022-05-25T07:39:32+00:00",
+                "time": "2026-07-24T20:59:08+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -137,7 +137,7 @@
                 "description": "B2bzanden B2bShipping",
                 "homepage": "https://github.com/B2bzanden/B2bzanden_M2_Shipping",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/tree/1.1.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Shipping/issues"
                 }
             }
@@ -609,12 +609,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "40ed452b2e66e707b62906ec877c780f093b2d66"
+                    "reference": "476969008aa2afb0ffee6313285eeada8616218d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/40ed452b2e66e707b62906ec877c780f093b2d66",
-                    "reference": "40ed452b2e66e707b62906ec877c780f093b2d66",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/zipball/476969008aa2afb0ffee6313285eeada8616218d",
+                    "reference": "476969008aa2afb0ffee6313285eeada8616218d",
                     "shasum": ""
                 },
                 "require": {
@@ -624,7 +624,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2026-07-24T19:38:18+00:00",
+                "time": "2026-07-24T21:03:30+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -645,7 +645,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/26.30.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CategoryDescriptionBottom/issues"
                 }
             }
@@ -1785,18 +1785,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git",
-                    "reference": "d10fbec9bbd26ab9eef1d410b4ba287307df7256"
+                    "reference": "5eeb4797d4e61489fad952c739b3afce75647d7e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/d10fbec9bbd26ab9eef1d410b4ba287307df7256",
-                    "reference": "d10fbec9bbd26ab9eef1d410b4ba287307df7256",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/5eeb4797d4e61489fad952c739b3afce75647d7e",
+                    "reference": "5eeb4797d4e61489fad952c739b3afce75647d7e",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.4"
                 },
-                "time": "2026-07-24T18:36:09+00:00",
+                "time": "2026-07-24T21:05:43+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -1810,7 +1810,7 @@
                 "description": "B2bzanden Custom Stock Status",
                 "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/26.30.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
                 }
             }
@@ -2329,12 +2329,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FastOrder.git",
-                    "reference": "e8ba68f73a40fcb9f78cf5bffb1be5c980f94090"
+                    "reference": "33a9b05c9621bc5571d9b094ba0962c577bcaee6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/e8ba68f73a40fcb9f78cf5bffb1be5c980f94090",
-                    "reference": "e8ba68f73a40fcb9f78cf5bffb1be5c980f94090",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FastOrder/zipball/33a9b05c9621bc5571d9b094ba0962c577bcaee6",
+                    "reference": "33a9b05c9621bc5571d9b094ba0962c577bcaee6",
                     "shasum": ""
                 },
                 "require": {
@@ -2344,7 +2344,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2026-07-24T19:45:40+00:00",
+                "time": "2026-07-24T21:02:12+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -2365,7 +2365,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/26.30.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_FastOrder/issues"
                 }
             }
@@ -4281,12 +4281,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_FixPart.git",
-                    "reference": "55581bac0c7b0aef68ff548c2c4e693bb689b27f"
+                    "reference": "df44461054e5f9eba2a279c4e67eccfe5c82c4e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/55581bac0c7b0aef68ff548c2c4e693bb689b27f",
-                    "reference": "55581bac0c7b0aef68ff548c2c4e693bb689b27f",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_FixPart/zipball/df44461054e5f9eba2a279c4e67eccfe5c82c4e9",
+                    "reference": "df44461054e5f9eba2a279c4e67eccfe5c82c4e9",
                     "shasum": ""
                 },
                 "require": {
@@ -4304,7 +4304,7 @@
                     "psr/log": "^3.0",
                     "symfony/console": "^7.0"
                 },
-                "time": "2026-07-24T19:37:04+00:00",
+                "time": "2026-07-24T21:05:15+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -4324,7 +4324,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FixPart/tree/26.30.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_FixPart/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_FixPart/issues"
                 }
             }
@@ -4800,12 +4800,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_ImportPhotos.git",
-                    "reference": "df00dc65326c1038c3a5043c5b78eef246b9d991"
+                    "reference": "fe60a4533fe2b5995020f6548a5fb5932a2513d5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/df00dc65326c1038c3a5043c5b78eef246b9d991",
-                    "reference": "df00dc65326c1038c3a5043c5b78eef246b9d991",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_ImportPhotos/zipball/fe60a4533fe2b5995020f6548a5fb5932a2513d5",
+                    "reference": "fe60a4533fe2b5995020f6548a5fb5932a2513d5",
                     "shasum": ""
                 },
                 "require": {
@@ -4816,7 +4816,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2026-07-24T19:37:51+00:00",
+                "time": "2026-07-24T20:59:08+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -4837,7 +4837,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/26.30.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_ImportPhotos/issues"
                 }
             }
@@ -4887,6 +4887,56 @@
                 "description": "Add an extra column to Admin Sales Grid",
                 "support": {
                     "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/1.0.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
+                }
+            },
+            "26.33.0": {
+                "name": "b2bzanden/salesgridweightcolumn",
+                "version": "26.33.0",
+                "version_normalized": "26.33.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
+                    "reference": "556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd",
+                    "reference": "556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^103.0",
+                    "magento/module-sales": "^103.0",
+                    "magento/module-ui": "^101.2",
+                    "php": ">=8.2"
+                },
+                "time": "2026-08-12T07:47:47+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\SalesGridWeightColumn\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Isolde van Oosterhout",
+                        "email": "sols@solswebdesign.nl"
+                    },
+                    {
+                        "name": "Hans Kuijpers",
+                        "email": "hans2103@gmail.com"
+                    }
+                ],
+                "description": "Add an extra column to Admin Sales Grid",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/26.33.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
                 }
             },
@@ -4944,18 +4994,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_SalesGridWeightColumn.git",
-                    "reference": "5d4bd901e3d88f4e02881131a12d21dcd9fa6157"
+                    "reference": "556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/5d4bd901e3d88f4e02881131a12d21dcd9fa6157",
-                    "reference": "5d4bd901e3d88f4e02881131a12d21dcd9fa6157",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/zipball/556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd",
+                    "reference": "556f2bd158627d7b1c1b1cfafb5a58be0d0a09fd",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=8.0"
+                    "magento/framework": "^103.0",
+                    "magento/module-sales": "^103.0",
+                    "magento/module-ui": "^101.2",
+                    "php": ">=8.2"
                 },
-                "time": "2026-07-24T14:54:49+00:00",
+                "time": "2026-08-12T07:47:47+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -4981,7 +5034,7 @@
                 ],
                 "description": "Add an extra column to Admin Sales Grid",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/main",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/tree/26.33.0",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_SalesGridWeightColumn/issues"
                 }
             }
@@ -5086,12 +5139,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/B2bZanden/B2bzanden_M2_SitemapUrl.git",
-                    "reference": "048842a2bc8186289ddfacf9cd775823d40c59c0"
+                    "reference": "b462bd9e6a774770b87d8e413b49557f8f0c9533"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SitemapUrl/zipball/048842a2bc8186289ddfacf9cd775823d40c59c0",
-                    "reference": "048842a2bc8186289ddfacf9cd775823d40c59c0",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_SitemapUrl/zipball/b462bd9e6a774770b87d8e413b49557f8f0c9533",
+                    "reference": "b462bd9e6a774770b87d8e413b49557f8f0c9533",
                     "shasum": ""
                 },
                 "require": {
@@ -5101,7 +5154,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2021-02-03T13:43:30+00:00",
+                "time": "2026-07-24T20:59:08+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -5122,7 +5175,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SitemapUrl/tree/2.0.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_SitemapUrl/tree/main",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_SitemapUrl/issues"
                 }
             }
@@ -6401,12 +6454,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_Suitablefor.git",
-                    "reference": "e5f7c34fa83fe7b19497fde87221f378233fe6f1"
+                    "reference": "f804f8fe7170c69a1cc41ff8187c6af0343f3d47"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/e5f7c34fa83fe7b19497fde87221f378233fe6f1",
-                    "reference": "e5f7c34fa83fe7b19497fde87221f378233fe6f1",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_Suitablefor/zipball/f804f8fe7170c69a1cc41ff8187c6af0343f3d47",
+                    "reference": "f804f8fe7170c69a1cc41ff8187c6af0343f3d47",
                     "shasum": ""
                 },
                 "require": {
@@ -6421,7 +6474,7 @@
                     "php": ">=8.4",
                     "phpoffice/phpspreadsheet": "^1.29"
                 },
-                "time": "2026-07-24T19:37:23+00:00",
+                "time": "2026-07-24T21:08:10+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -6444,7 +6497,7 @@
                     "module"
                 ],
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/26.30.2",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_Suitablefor/issues"
                 }
             }

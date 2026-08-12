@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:B2bZanden/B2bzanden_M2_CustomStockStatus.git",
-                    "reference": "d10fbec9bbd26ab9eef1d410b4ba287307df7256"
+                    "reference": "5eeb4797d4e61489fad952c739b3afce75647d7e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/d10fbec9bbd26ab9eef1d410b4ba287307df7256",
-                    "reference": "d10fbec9bbd26ab9eef1d410b4ba287307df7256",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_CustomStockStatus/zipball/5eeb4797d4e61489fad952c739b3afce75647d7e",
+                    "reference": "5eeb4797d4e61489fad952c739b3afce75647d7e",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.4"
                 },
-                "time": "2026-07-24T18:36:09+00:00",
+                "time": "2026-07-24T21:05:43+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -33,7 +33,7 @@
                 "description": "B2bzanden Custom Stock Status",
                 "homepage": "https://github.com/B2bzanden/B2bzanden_M2_CustomStockStatus",
                 "support": {
-                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/26.30.0",
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/tree/master",
                     "issues": "https://github.com/B2bZanden/B2bzanden_M2_CustomStockStatus/issues"
                 }
             }
