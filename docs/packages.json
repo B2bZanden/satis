@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$dad6a57e8a5b833a32ac4428a29181600371ae6c.json": {
-            "sha1": "dad6a57e8a5b833a32ac4428a29181600371ae6c"
+        "include/all$a53e7b18568646f29e485f4180b64f2e774b8b12.json": {
+            "sha1": "a53e7b18568646f29e485f4180b64f2e774b8b12"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -14,6 +14,7 @@
         "b2bzanden/customcategorytitle",
         "b2bzanden/customerapprovalcleanup",
         "b2bzanden/customstockstatus",
+        "b2bzanden/disableaccountcreation",
         "b2bzanden/fastorder",
         "b2bzanden/fixpart",
         "b2bzanden/importphotos",

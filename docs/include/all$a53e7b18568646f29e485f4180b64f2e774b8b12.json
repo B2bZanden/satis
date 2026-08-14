@@ -1815,6 +1815,140 @@
                 }
             }
         },
+        "b2bzanden/disableaccountcreation": {
+            "26.33.0": {
+                "name": "b2bzanden/disableaccountcreation",
+                "version": "26.33.0",
+                "version_normalized": "26.33.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_DisableAccountCreation.git",
+                    "reference": "3ada54b61e24e2fc8ad2f3dc49dec96cd7d88633"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableAccountCreation/zipball/3ada54b61e24e2fc8ad2f3dc49dec96cd7d88633",
+                    "reference": "3ada54b61e24e2fc8ad2f3dc49dec96cd7d88633",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-customer": "*",
+                    "php": ">=8.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2026-08-14T12:25:05+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\DisableAccountCreation\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to disable frontend customer account creation on a per store/website scope",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_DisableAccountCreation",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableAccountCreation/tree/v26.33.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_DisableAccountCreation/issues"
+                }
+            },
+            "26.33.1": {
+                "name": "b2bzanden/disableaccountcreation",
+                "version": "26.33.1",
+                "version_normalized": "26.33.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_DisableAccountCreation.git",
+                    "reference": "409698225c2a1716674a74316ef3e0e47e3c354f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableAccountCreation/zipball/409698225c2a1716674a74316ef3e0e47e3c354f",
+                    "reference": "409698225c2a1716674a74316ef3e0e47e3c354f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-store": "*",
+                    "php": "^8.3 || ^8.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2026-08-14T12:31:10+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\DisableAccountCreation\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to disable frontend customer account creation on a per store/website scope",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_DisableAccountCreation",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableAccountCreation/tree/v26.33.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_DisableAccountCreation/issues"
+                }
+            },
+            "dev-main": {
+                "name": "b2bzanden/disableaccountcreation",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_DisableAccountCreation.git",
+                    "reference": "409698225c2a1716674a74316ef3e0e47e3c354f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_DisableAccountCreation/zipball/409698225c2a1716674a74316ef3e0e47e3c354f",
+                    "reference": "409698225c2a1716674a74316ef3e0e47e3c354f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-store": "*",
+                    "php": "^8.3 || ^8.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2026-08-14T12:31:10+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\DisableAccountCreation\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to disable frontend customer account creation on a per store/website scope",
+                "homepage": "https://github.com/B2bzanden/B2bzanden_M2_DisableAccountCreation",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_DisableAccountCreation/tree/v26.33.1",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_DisableAccountCreation/issues"
+                }
+            }
+        },
         "b2bzanden/fastorder": {
             "0.0.1": {
                 "name": "b2bzanden/fastorder",
