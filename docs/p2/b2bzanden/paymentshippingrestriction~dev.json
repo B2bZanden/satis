@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "b2bzanden/paymentshippingrestriction": [
+            {
+                "name": "b2bzanden/paymentshippingrestriction",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:B2bZanden/B2bzanden_M2_PaymentShippingRestriction.git",
+                    "reference": "50dcef5149392eabfbbc68900a0f794670c7c6b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/B2bZanden/B2bzanden_M2_PaymentShippingRestriction/zipball/50dcef5149392eabfbbc68900a0f794670c7c6b1",
+                    "reference": "50dcef5149392eabfbbc68900a0f794670c7c6b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.4.0"
+                },
+                "time": "2026-08-19T14:44:30+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\PaymentShippingRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Restricts payment methods to specific shipping methods",
+                "homepage": "https://github.com/B2bZanden/B2bzanden_M2_PaymentShippingRestriction",
+                "support": {
+                    "source": "https://github.com/B2bZanden/B2bzanden_M2_PaymentShippingRestriction/tree/26.34.0",
+                    "issues": "https://github.com/B2bZanden/B2bzanden_M2_PaymentShippingRestriction/issues"
+                }
+            }
+        ]
+    }
+}
