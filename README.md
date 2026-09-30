@@ -28,15 +28,27 @@ Create a **fine-grained** personal access token (https://github.com/settings/per
 - **Permissions:** *Contents: Read-only* (*Metadata: Read-only* is added automatically) — nothing else
 - **Expiration:** short (30–90 days); create a new one when it expires
 
+When a repository is added to `satis.json`, also add it to the token's repository access.
+
 Do not use a classic `repo` token, and do not paste the token at Composer's interactive prompt: that stores it in plain text in `~/.composer/auth.json` and replaces the token other projects may rely on.
 
-Instead, store it in a local `.env` file (ignored by git):
+Instead, the token is stored in 1Password as an *API Credential* item:
+
+- **Vault:** `HKweb - Magento - B2bzanden`
+- **Item:** `GitHub PAT - Satis B2bZanden`
+- **Secret reference:** `op://HKweb - Magento - B2bzanden/GitHub PAT - Satis B2bZanden/credential`
+
+Keep the item name to letters, digits, spaces, `-`, `_` and `.`; `op://` references do not support other characters. Renaming or moving the item breaks the reference below.
+
+When the token is renewed, update the `credential` and `expires` fields of that item; the secret reference stays the same.
+
+The token is read with the [1Password CLI](https://developer.1password.com/docs/cli/) (`op`) and passed to the container via `COMPOSER_AUTH`, which takes precedence over `auth.json` and only applies to this run.
+
+Without 1Password, a local `.env` file (ignored by git) can be used instead:
 
 ```sh
 echo 'SATIS_GITHUB_TOKEN=github_pat_xxx' > .env
 ```
-
-or read it from 1Password when building (see below). The token is passed to the container via `COMPOSER_AUTH`, which takes precedence over `auth.json` and only applies to this run.
 
 ## Run as Docker container
 
@@ -65,7 +77,7 @@ docker run --rm --init -it \
 Build, commit and push in one go:
 
 ```sh
-set -a && . ./.env && set +a &&
+SATIS_GITHUB_TOKEN="$(op read 'op://HKweb - Magento - B2bzanden/GitHub PAT - Satis B2bZanden/credential')" &&
 docker pull composer/satis:latest &&
 docker run --rm --init -it \
   --platform linux/amd64 \
@@ -79,10 +91,10 @@ git add docs &&
 git diff --cached --quiet || (git commit -m ":arrow_up: update dependencies" && git push)
 ```
 
-Using 1Password instead of `.env`: replace the first line with
+Using `.env` instead of 1Password: replace the first line with
 
 ```sh
-SATIS_GITHUB_TOKEN="$(op read 'op://<vault>/<item>/credential')" &&
+set -a && . ./.env && set +a &&
 ```
 
 ## Updating Satis
